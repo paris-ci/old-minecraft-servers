@@ -1,0 +1,62 @@
+lastlocation:
+  world: world
+  x: 2947.2158475909273
+  y: 111.0
+  z: 4625.736047385186
+  yaw: 143.34082
+  pitch: 12.666074
+timestamps:
+  login: 1376676094700
+  logout: 1376676245607
+  lastteleport: 1376560417763
+  kits:
+    vip: 1374665483959
+    tools: 1372160589095
+    start: 1374421883155
+    firework: 1373094356924
+    color: 1374421873613
+    notch: 1375536678294
+  lastheal: 1374850847019
+ipAddress: 109.208.116.26
+logoutlocation:
+  world: world
+  x: 9128.555785139511
+  y: 67.0
+  z: 9538.571834358752
+  yaw: 59.2175
+  pitch: 3.2365174
+money: '9179.0'
+homes:
+  home:
+    world: world
+    x: -162.0005044261169
+    y: 63.0
+    z: 576.2455931595375
+    yaw: 116.57009
+    pitch: 11.41898
+  trauphousse:
+    world: world
+    x: 428.9086512826762
+    y: 100.0
+    z: 21.11432383822367
+    yaw: 92.77377
+    pitch: 2.4607134
+  fort:
+    world: world
+    x: 9344.905120162755
+    y: 80.0
+    z: 9596.446312006305
+    yaw: 92.50244
+    pitch: 4.883927
+  housse:
+    world: plotworld
+    x: -28.909349761210024
+    y: 65.0
+    z: -68.77803355931879
+    yaw: 332.2965
+    pitch: 13.940856
+godmode: false
+powertools:
+  '364':
+  - thor
+afk: false

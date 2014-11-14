@@ -1,0 +1,24 @@
+timestamps:
+  login: 1377792301217
+  logout: 1377793020658
+  jail: 0
+ipAddress: 88.184.213.71
+lastlocation:
+  world: world
+  x: 63.5
+  y: 52.0
+  z: -93.5
+  yaw: -116.87485
+  pitch: 67.649994
+jailed: false
+logoutlocation:
+  world: world
+  x: 49.05124798590403
+  y: 52.0
+  z: -89.85549897983196
+  yaw: 273.1395
+  pitch: 15.449602
+afk: false
+ban:
+  reason: 'Banni : Banni tant que personne ne se dénonce'
+  timeout: 0

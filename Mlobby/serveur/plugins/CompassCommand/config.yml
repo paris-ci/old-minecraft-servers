@@ -1,0 +1,60 @@
+# Config will take names and IDs, case should not matter
+global:
+  slots: 18
+  invTitle: '&2Selecteur'
+item:
+  type: COMPASS
+  title: '&2Selecteur'
+  lore:
+  - Vas rapidement sur un serveur
+  - Avec ce teleporteur !
+  - Bon Voyage
+commands:
+  DIAMOND_SWORD:
+    command: server pvp
+    title: '&5NewMine-pvp'
+    lore:
+    - Serveur pvp de newmine
+    - On vous attends :p
+  IRON_SWORD:
+    command: server hg
+    title: '&5NewMine-hg'
+    lore:
+    - Serveur hg de newmine
+    - On vous attends :p
+  IRON_FENCE:
+    command: server prison
+    title: '&5NewMine-prison'
+    lore:
+    - Serveur prison de newmine
+    - On vous attends :p
+  SKULL_ITEM:
+    command: server infected
+    title: '&5NewMine-infected'
+    lore:
+    - Serveur infected de newmine
+    - On vous attends :p
+  FIREWORK:
+    command: server quake
+    title: '&5NewMine-quake'
+    lore:
+    - Serveur quake de newmine
+    - On vous attends :p
+  TNT:
+    command: server donuts
+    title: '&5Prioritycraft-hardcore'
+    lore:
+    - Serveur hardcore de PriorityCraft
+    - On vous attends :p
+  SNOW_BALL:
+    command: server viperious
+    title: '&5ViperCraft-Survival'
+    lore:
+    - Serveur survival de ViperCraft
+    - On vous attends :p
+  MOSSY_COBBLESTONE:
+    command: server azecraft
+    title: '&5Azecraft-MiniGames'
+    lore:
+    - Serveur Mini Games de AzeCraft
+    - On vous attends :p

@@ -1,0 +1,3 @@
+&6Bienvenue, {PLAYER}&6!
+&6tape &c/help&6 pour la liste des commandes.
+&6Sur le serveur : &r {PLAYERLIST}

@@ -1,0 +1,29 @@
+lastlocation:
+  world: world
+  x: 0.0
+  y: 63.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+timestamps:
+  login: 1375725756890
+  lastteleport: 1370792678955
+  logout: 1375725979495
+  kits:
+    color: 1375725956579
+    firework: 1375725876518
+    start: 1375725767812
+    notch: 1375725776154
+ipAddress: 187.114.73.172
+logoutlocation:
+  world: world_nether
+  x: -69.74757877633667
+  y: 85.0
+  z: -26.058143504281148
+  yaw: 6.5449996
+  pitch: 25.499998
+money: '74.0'
+mail:
+- 'eyesofcreeper: Pour me repondre : /mail send eyesofcreeper MESSAGE'
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'

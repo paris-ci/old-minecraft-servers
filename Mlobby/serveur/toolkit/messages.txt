@@ -1,0 +1,11 @@
+restart-kick-message:Le serveur redemarre ! reviens dans 1 minute !
+toolkit-shutdown-kick-message:Le serveur s'arrette ! Reviens plus tard ! :D
+hold-kick-message:Arret du serveur pour lag!
+restart-time-warning:**REDEMARRAGE DANS %t**
+restart-warning:**REDEMARRAGE IMMEDIAT**
+toolkit-shutdown-time-warning:**ARRET DU SERVEUR DANS %t**
+toolkit-shutdown-warning:**ARRET DU SERVEUR**
+hold-warning:**ARRET DU SERVEUR POUR LAG**
+auto-save-start:**SAUVGARDE DE LA MAP**
+auto-save-complete:**SAUVEGARDE TERMINEE**
+restart-time-left:Temps avant le prochain redemarrage: %t

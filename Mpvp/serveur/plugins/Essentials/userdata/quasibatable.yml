@@ -1,0 +1,39 @@
+timestamps:
+  login: 1371373669920
+  logout: 1371375875564
+  lastteleport: 1371375476911
+  kits:
+    tools: 1370719851974
+    color: 1370687182202
+    firework: 1370687361599
+ipAddress: 62.197.80.89
+lastlocation:
+  world: world
+  x: 197.88698315256138
+  y: 64.0
+  z: 358.09239502159187
+  yaw: -126.79783
+  pitch: 15.874024
+logoutlocation:
+  world: world
+  x: -33.54742633315272
+  y: 69.0
+  z: -22.106948403676704
+  yaw: 283.915
+  pitch: 34.90854
+money: '242.0'
+homes:
+  home:
+    world: world
+    x: 401.6198099307959
+    y: 62.0
+    z: -41.94980464612003
+    yaw: -86.854385
+    pitch: 22.687181
+ban:
+  reason: 'Banni : mentir saylemal'
+  timeout: 0
+mail:
+- 'eyesofcreeper: Pour me repondre : /mail send eyesofcreeper MESSAGE'
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'

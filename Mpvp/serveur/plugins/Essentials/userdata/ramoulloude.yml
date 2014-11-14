@@ -1,0 +1,23 @@
+lastlocation:
+  world: world
+  x: 9192.721242461123
+  y: 72.0
+  z: 9547.058139835723
+  yaw: 115.94998
+  pitch: -4.95
+timestamps:
+  login: 1373814781402
+  logout: 1373814951156
+  lastteleport: 1373814856905
+ipAddress: 90.34.222.29
+logoutlocation:
+  world: world
+  x: 9673.300000011921
+  y: 49.0
+  z: 9367.549416175512
+  yaw: -280.5142
+  pitch: 45.75
+money: '106.0'
+ban:
+  reason: 'Banni : Deuxième compte'
+  timeout: 0

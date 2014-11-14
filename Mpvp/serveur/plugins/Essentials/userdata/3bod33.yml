@@ -1,0 +1,31 @@
+lastlocation:
+  world: world
+  x: 9129.125928056375
+  y: 69.0
+  z: 9573.806781392292
+  yaw: 121.49058
+  pitch: 42.68262
+timestamps:
+  login: 1373227462861
+  kits:
+    start: 1373191437379
+    color: 1372931367369
+    firework: 1373228761415
+    notch: 1373191404330
+  lastteleport: 1372930517817
+  mute: 0
+  logout: 1373228975559
+ipAddress: 94.98.0.159
+muted: false
+logoutlocation:
+  world: world
+  x: 9197.241311458278
+  y: 73.0
+  z: 9549.325616668391
+  yaw: -32.455627
+  pitch: 25.878551
+afk: false
+ban:
+  reason: 'Banni : flood'
+  timeout: 0
+money: '352.0'

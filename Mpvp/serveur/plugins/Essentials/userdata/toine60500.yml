@@ -1,0 +1,34 @@
+lastlocation:
+  world: world
+  x: 9176.91526876864
+  y: 74.5
+  z: 9551.19761550408
+  yaw: -154.43759
+  pitch: 27.444103
+timestamps:
+  login: 1374751935620
+  logout: 1374752081055
+  lastteleport: 1374752038555
+  kits:
+    firework: 1374315320297
+    color: 1373449348051
+    start: 1373913088401
+    notch: 1373486162101
+ipAddress: 89.83.184.30
+logoutlocation:
+  world: world
+  x: 9703.813077986326
+  y: 63.0
+  z: 9355.48109781002
+  yaw: 26.756618
+  pitch: 60.00001
+money: '3932.0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 379.2681274057523
+    y: 12.0
+    z: 208.37350008391311
+    yaw: -307.94006
+    pitch: 55.050045

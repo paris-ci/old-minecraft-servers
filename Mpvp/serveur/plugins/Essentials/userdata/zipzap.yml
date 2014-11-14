@@ -1,0 +1,36 @@
+lastlocation:
+  world: world
+  x: -174.30000001192093
+  y: 5.0
+  z: 642.3530208915622
+  yaw: 176.85324
+  pitch: 43.19998
+timestamps:
+  login: 1373355416747
+  kits:
+    firework: 1373270300110
+    start: 1373269851361
+    notch: 1373269833659
+  lastteleport: 1373355962605
+  logout: 1373356394755
+ipAddress: 90.45.66.126
+homes:
+  home:
+    world: world
+    x: 10443.581679748368
+    y: 68.0
+    z: 9770.356471044337
+    yaw: 8.947754
+    pitch: -0.30000865
+logoutlocation:
+  world: world
+  x: -158.3468306196811
+  y: 63.0
+  z: 576.0548612243597
+  yaw: 16.50232
+  pitch: 79.34998
+afk: false
+ban:
+  reason: 'Banni : Pub'
+  timeout: 0
+money: '512.0'

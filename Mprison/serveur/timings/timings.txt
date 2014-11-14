@@ -1,0 +1,141 @@
+TeleportSigns v1.3-b45
+    Total time 0 (0s)
+WorldEdit v5.5.6
+    PlayerQuitEvent Time: 7265799 Count: 1 Avg: 7265799 Violations: 0
+    PlayerCommandPreprocessEvent Time: 88516 Count: 1 Avg: 88516 Violations: 0
+    Total time 7354315 (0s)
+BOSEconomy v0.7.8.1
+    PlayerJoinEvent Time: 2723433 Count: 1 Avg: 2723433 Violations: 0
+    PlayerQuitEvent Time: 2155609 Count: 1 Avg: 2155609 Violations: 0
+    Total time 4879042 (0s)
+Vault v1.2.25-b333
+    PlayerJoinEvent Time: 196861 Count: 1 Avg: 196861 Violations: 0
+    Total time 196861 (0s)
+ClearLag v2.5.2
+    Total time 0 (0s)
+PermissionsEx v1.19.5
+    PlayerQuitEvent Time: 253431 Count: 1 Avg: 253431 Violations: 0
+    PlayerLoginEvent Time: 5095330 Count: 1 Avg: 5095330 Violations: 0
+    PlayerLoginEvent Time: 14992 Count: 1 Avg: 14992 Violations: 0
+    Total time 5363753 (0s)
+Modifyworld v1.19.4
+    PlayerCommandPreprocessEvent Time: 18900 Count: 1 Avg: 18900 Violations: 0
+    PlayerLoginEvent Time: 41376 Count: 1 Avg: 41376 Violations: 0
+    PlayerItemHeldEvent Time: 50597 Count: 1 Avg: 50597 Violations: 0
+    PlayerToggleSprintEvent Time: 263953 Count: 2 Avg: 131976 Violations: 0
+    Total time 374826 (0s)
+WorldGuard v5.7.4
+    PlayerJoinEvent Time: 11945867 Count: 1 Avg: 11945867 Violations: 0
+    ChunkLoadEvent Time: 189960 Count: 8 Avg: 23745 Violations: 0
+    PlayerQuitEvent Time: 21834193 Count: 1 Avg: 21834193 Violations: 0
+    PlayerCommandPreprocessEvent Time: 122463 Count: 1 Avg: 122463 Violations: 0
+    PlayerLoginEvent Time: 25991 Count: 1 Avg: 25991 Violations: 0
+    PlayerItemHeldEvent Time: 34592 Count: 1 Avg: 34592 Violations: 0
+    PlayerMoveEvent Time: 13507450 Count: 108 Avg: 125068 Violations: 0
+    PlayerTeleportEvent Time: 934628 Count: 1 Avg: 934628 Violations: 0
+    BlockIgniteEvent Time: 338804 Count: 10 Avg: 33880 Violations: 0
+    BlockRedstoneEvent Time: 1039880 Count: 48 Avg: 21664 Violations: 0
+    BlockPhysicsEvent Time: 10408050 Count: 592 Avg: 17581 Violations: 0
+    Total time 60381878 (0s)
+Essentials vDev2.12.53
+    PlayerJoinEvent Time: 182608 Count: 1 Avg: 182608 Violations: 0
+    PlayerJoinEvent Time: 77428 Count: 1 Avg: 77428 Violations: 0
+    PlayerQuitEvent Time: 20402485 Count: 1 Avg: 20402485 Violations: 0
+    PlayerCommandPreprocessEvent Time: 113291 Count: 1 Avg: 113291 Violations: 0
+    PlayerLoginEvent Time: 18700 Count: 1 Avg: 18700 Violations: 0
+    PlayerMoveEvent Time: 4068258 Count: 108 Avg: 37669 Violations: 0
+    PlayerTeleportEvent Time: 130409 Count: 1 Avg: 130409 Violations: 0
+    PlayerTeleportEvent Time: 82362 Count: 1 Avg: 82362 Violations: 0
+    BlockIgniteEvent Time: 1075974 Count: 10 Avg: 107597 Violations: 0
+    InventoryCloseEvent Time: 74829 Count: 2 Avg: 37414 Violations: 0
+    Total time 26226344 (0s)
+MineResetLite v0.3.5
+    PlayerJoinEvent Time: 167874 Count: 1 Avg: 167874 Violations: 0
+    Total time 167874 (0s)
+SimpleRegionMarket v3.6
+    Total time 0 (0s)
+EssentialsProtect vDev2.12.53
+    BlockIgniteEvent Time: 21723 Count: 10 Avg: 2172 Violations: 0
+    Total time 21723 (0s)
+EssentialsSpawn vDev2.12.53
+    PlayerJoinEvent Time: 51017 Count: 1 Avg: 51017 Violations: 0
+    Total time 51017 (0s)
+PaidRanks v1.8
+    Total time 0 (0s)
+Reforestation v1.8.0
+    Total time 0 (0s)
+ChestShop v3.62
+    PlayerLoginEvent Time: 57317 Count: 1 Avg: 57317 Violations: 0
+    PlayerTeleportEvent Time: 214597 Count: 1 Avg: 214597 Violations: 0
+    Total time 271914 (0s)
+EssentialsChat vDev2.12.53
+    Total time 0 (0s)
+ColorMe v3.8.2-SNAPSHOT-b67
+    PlayerJoinEvent Time: 224793 Count: 1 Avg: 224793 Violations: 0
+    Total time 224793 (0s)
+Minecraft
+    Task: WorldGuard v5.7.4 Runnable: FlagStateManager(interval:20) Time: 39324379 Count: 148 Avg: 265705 Violations: 0
+    world_the_end - tileEntityTick Time: 5168186 Count: 2962 Avg: 1744 Violations: 0
+    syncChunkLoad Time: 12992075 Count: 8 Avg: 1624009 Violations: 0
+    ** tickTileEntity - TileEntityChest Time: 37248100 Count: 139214 Avg: 267 Violations: 0
+    ** playerCommand Time: 18498598 Count: 1 Avg: 18498598 Violations: 0
+    Task: ClearLag v2.5.2 Runnable: ClearLagEvent(interval:8000) Time: 10734097 Count: 1 Avg: 10734097 Violations: 0
+    Tickables Time: 1100314 Count: 2962 Avg: 371 Violations: 0
+    world_the_end - tileEntityPending Time: 823560 Count: 2962 Avg: 278 Violations: 0
+    Player List Time: 3916053 Count: 2962 Avg: 1322 Violations: 0
+    ** tickTileEntity Time: 312923543 Count: 722728 Avg: 432 Violations: 0
+    ** tickEntity Time: 231403273 Count: 17561 Avg: 13177 Violations: 0
+    Task: BOSEconomy v0.7.8.1 Runnable: BOSEconomyTask(interval:20) Time: 9950445 Count: 148 Avg: 67232 Violations: 0
+    world - tileEntityTick Time: 642738556 Count: 2962 Avg: 216994 Violations: 0
+    world_the_end - doPortalForcer Time: 7302136 Count: 2962 Avg: 2465 Violations: 0
+    world_the_end - doVillages Time: 13629968 Count: 2962 Avg: 4601 Violations: 0
+    ** activatedTickEntity Time: 202166457 Count: 2899 Avg: 69736 Violations: 0
+    world_the_end - doChunkGC Time: 7544824 Count: 2962 Avg: 2547 Violations: 0
+    world - tracker Time: 45983098 Count: 2962 Avg: 15524 Violations: 0
+    world - doTickTiles Time: 1746875223 Count: 2962 Avg: 589762 Violations: 0
+    world_the_end - tracker Time: 4078549 Count: 2962 Avg: 1376 Violations: 0
+    world - doChunkUnload Time: 113421869 Count: 2962 Avg: 38292 Violations: 0
+    ** tickTileEntity - TileEntityCommand Time: 2521698 Count: 14810 Avg: 170 Violations: 0
+    Task: SimpleRegionMarket v3.6 Runnable: (interval:1200) Time: 43301975 Count: 2 Avg: 21650987 Violations: 0
+    ** tickTileEntity - TileEntityMobSpawner Time: 17564047 Count: 32582 Avg: 539 Violations: 0
+    Task: TeleportSigns v1.3-b45 Runnable: (interval:100) Time: 32157202 Count: 29 Avg: 1108869 Violations: 0
+    world - mobSpawn Time: 8059654062 Count: 2751 Avg: 2929717 Violations: 0
+    ** tickTileEntity - TileEntityHopper Time: 50569178 Count: 23696 Avg: 2134 Violations: 0
+    Scheduler Time: 381311344 Count: 2962 Avg: 128734 Violations: 3
+    ** entityMove Time: 120972562 Count: 6739 Avg: 17951 Violations: 0
+    world_the_end - doChunkMap Time: 34159971 Count: 2962 Avg: 11532 Violations: 0
+    ** tickEntity - EntityChicken Time: 35683838 Count: 148 Avg: 241107 Violations: 0
+    world_the_end - doTickPending Time: 5619258 Count: 2962 Avg: 1897 Violations: 0
+    ** tickTileEntity - TileEntityFurnace Time: 53059980 Count: 225112 Avg: 235 Violations: 0
+    ** tickEntity - EntityPlayer Time: 165812326 Count: 2751 Avg: 60273 Violations: 0
+    world - doPortalForcer Time: 10984122 Count: 2962 Avg: 3708 Violations: 0
+    world - doChunkGC Time: 15836184 Count: 2962 Avg: 5346 Violations: 0
+    ** Full Server Tick Time: 13935783261 Count: 2962 Avg: 4704855 Violations: 5
+    ** tickTileEntity - TileEntityLightDetector Time: 35621863 Count: 2962 Avg: 12026 Violations: 0
+    Player Tick Time: 1653477843 Count: 2962 Avg: 558230 Violations: 1
+    world_the_end - doSounds Time: 2404648 Count: 2962 Avg: 811 Violations: 0
+    world - doVillages Time: 19339870 Count: 2962 Avg: 6529 Violations: 0
+    Task: Essentials vDev2.12.53 Runnable: (Single) Time: 50492281 Count: 1 Avg: 50492281 Violations: 1
+    Task: Essentials vDev2.12.53 Runnable: EssentialsTimer(interval:50) Time: 30260176 Count: 59 Avg: 512884 Violations: 0
+    Task: Reforestation v1.8.0 Runnable: Reforestation(interval:200) Time: 384155 Count: 14 Avg: 27439 Violations: 0
+    world_the_end - doChunkUnload Time: 63452284 Count: 2962 Avg: 21422 Violations: 0
+    ChunkIOTick Time: 1548023 Count: 2962 Avg: 522 Violations: 0
+    world - doChunkMap Time: 86525754 Count: 2962 Avg: 29211 Violations: 0
+    Task: MineResetLite v0.3.5 Runnable: (interval:1200) Time: 134702009 Count: 2 Avg: 67351004 Violations: 2
+    ** checkIfActive Time: 8472705 Count: 17561 Avg: 482 Violations: 0
+    xray - obfuscate Time: 14895609 Count: 186 Avg: 80083 Violations: 0
+    ** tickTileEntity - TileEntitySign Time: 40150257 Count: 263618 Avg: 152 Violations: 0
+    ** tickTileEntity - TileEntityEnchantTable Time: 6391204 Count: 8886 Avg: 719 Violations: 0
+    world - tileEntityPending Time: 708952 Count: 2962 Avg: 239 Violations: 0
+    entityActivationCheck Time: 345049472 Count: 5924 Avg: 58246 Violations: 0
+    world - doTickPending Time: 48472623 Count: 2962 Avg: 16364 Violations: 0
+    Task: ClearLag v2.5.2 Runnable: (Single) Time: 10948605 Count: 1 Avg: 10948605 Violations: 0
+    world_the_end - entityTick Time: 723319 Count: 2962 Avg: 244 Violations: 0
+    world - entityTick Time: 246205862 Count: 2962 Avg: 83121 Violations: 0
+    world - doSounds Time: 27040194 Count: 2962 Avg: 9129 Violations: 0
+    world_the_end - doTickTiles Time: 72896124 Count: 2962 Avg: 24610 Violations: 0
+    ** tickTileEntity - TileEntityEnderChest Time: 6273759 Count: 11848 Avg: 529 Violations: 0
+# Version git-Spigot-1067 (MC: 1.6.2)
+# Entities 6
+# LivingEntities 6
+Sample time 148179983923 (148.179983923s)

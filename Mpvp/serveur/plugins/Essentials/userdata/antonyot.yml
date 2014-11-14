@@ -1,0 +1,34 @@
+lastlocation:
+  world: world
+  x: 9199.722152507478
+  y: 72.0
+  z: 9539.448486933272
+  yaw: -264.87054
+  pitch: 38.80016
+timestamps:
+  login: 1375873307016
+  logout: 1375873574241
+  lastteleport: 1375692219071
+  kits:
+    firework: 1374493332447
+    color: 1372865348482
+    start: 1372712410903
+    notch: 1373147849477
+  lastheal: 1374698965901
+  jail: 0
+ipAddress: 109.223.137.54
+logoutlocation:
+  world: world
+  x: 9251.869223067839
+  y: 26.0
+  z: 9955.648290656707
+  yaw: 255.96858
+  pitch: 17.929537
+money: '4355.0'
+godmode: false
+afk: false
+ban:
+  reason: 'Banni : Insultes envers le createur'
+  timeout: 0
+powertools: {}
+jailed: false

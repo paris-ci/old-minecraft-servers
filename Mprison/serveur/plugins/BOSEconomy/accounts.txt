@@ -1,0 +1,480 @@
+25laura25 {
+	type player
+	money 100.0
+}
+Abood1717 {
+	type player
+	money 100.0
+}
+Airponeisme {
+	type player
+	money 100.0
+}
+AssasEnder {
+	type player
+	money 100.0
+}
+Azetor {
+	type player
+	money 29415.0
+}
+Bestdragonpt {
+	type player
+	money 3355.0
+}
+BlacKkDream {
+	type player
+	money 3850.0
+}
+Bowskillerlu {
+	type player
+	money 961.0
+}
+Bratmort {
+	type player
+	money 100.0
+}
+Carlacraft {
+	type player
+	money 75335.0
+}
+Cyro62 {
+	type player
+	money 100.0
+}
+DJcool33 {
+	type player
+	money 5140.0
+}
+Darkoze13 {
+	type player
+	money 5410.0
+}
+Diorne {
+	type player
+	money 0.0
+}
+Donuts {
+	type player
+	money 4.902647747E9
+}
+Dudluis {
+	type player
+	money 100.0
+}
+Evil_Dante {
+	type player
+	money 10203.0
+}
+FernandinhoPH {
+	type player
+	money 0.0
+}
+Fomifro {
+	type player
+	money 100.0
+}
+GYM {
+	type player
+	money 360.0
+}
+GhostMinecraft {
+	type player
+	money 100.0
+}
+Giantman99 {
+	type player
+	money 100.0
+}
+Goow {
+	type player
+	money 100.0
+}
+GrimmjowJager {
+	type player
+	money 100.0
+}
+Gumknuckles {
+	type player
+	money 248686.0
+}
+Hunimomo {
+	type player
+	money 100.0
+}
+JJustJesse {
+	type player
+	money 100.0
+}
+JeanfortDCLegend {
+	type player
+	money 100.0
+}
+Juliox12 {
+	type player
+	money 100.0
+}
+Kaeric {
+	type player
+	money 19713.0
+}
+Kayel56 {
+	type player
+	money 303724.0
+}
+Kirihara_Yukawa {
+	type player
+	money 1.100172395E9
+}
+Knowteach {
+	type player
+	money 4700.0
+}
+LouLoL724 {
+	type player
+	money 1348.0
+}
+Mireio {
+	type player
+	money 2154.0
+}
+Mivveur {
+	type player
+	money 14375.0
+}
+MrCreepeurZ {
+	type player
+	money 100.0
+}
+Mr_Ghast {
+	type player
+	money 100.0
+}
+Nintori {
+	type player
+	money 1235.0
+}
+Nxen {
+	type player
+	money 4761.0
+}
+Proxide2001 {
+	type player
+	money 100.0
+}
+Ragnaros {
+	type player
+	money 215300.0
+}
+Sharty33 {
+	type player
+	money 21084.0
+}
+SnakeEyes33480 {
+	type player
+	money 100.0
+}
+SpAcE135 {
+	type player
+	money 370000.0
+}
+SparkySilver {
+	type player
+	money 100.0
+}
+StaZerGaMinG {
+	type player
+	money 100.0
+}
+Stiker_Gamer {
+	type player
+	money 60.0
+}
+THEAZER3000 {
+	type player
+	money 100.0
+}
+ThEDarkNigHr {
+	type player
+	money 100.0
+}
+TheDarkness59 {
+	type player
+	money 6604.0
+}
+TheKillerSalut {
+	type player
+	money 100.0
+}
+TheKingWorld {
+	type player
+	money 445.0
+}
+Thedompteur10 {
+	type player
+	money 100.0
+}
+Thejojo6259 {
+	type player
+	money 0.0
+}
+Toni {
+	type player
+	money 72.0
+}
+Valentin996 {
+	type player
+	money 100.0
+}
+Viperious37 {
+	type player
+	money 1147.0
+}
+WaRBoZz {
+	type player
+	money 144611.0
+}
+Warnogapy {
+	type player
+	money 26843.0
+}
+Waxinog {
+	type player
+	money 1450.0
+}
+XXsqueletteXX {
+	type player
+	money 26.0
+}
+XxXTremeGamerXxX {
+	type player
+	money 100.0
+}
+ZOMBIE10MAN {
+	type player
+	money 0.0
+}
+ZqhaR {
+	type player
+	money 100.0
+}
+_Hugo123_ {
+	type player
+	money 0.0
+}
+_dennis15_ {
+	type player
+	money 474.0
+}
+antonyot {
+	type player
+	money 100.0
+}
+antonyzaqzaq {
+	type player
+	money 161575.0
+}
+aybierre {
+	type player
+	money 100.0
+}
+aze129 {
+	type player
+	money 70.0
+}
+azulight {
+	type player
+	money 504379.0
+}
+cratererapace8 {
+	type player
+	money 100.0
+}
+darkdydy {
+	type player
+	money 10.0
+}
+deadmau5 {
+	type player
+	money 14025.0
+}
+decapitman1999 {
+	type player
+	money 4703.0
+}
+didi49 {
+	type player
+	money 1525.0
+}
+dydy49770 {
+	type player
+	money 40.0
+}
+enzocib {
+	type player
+	money 30.0
+}
+eyesofcreeper {
+	type player
+	money 50699.0
+}
+fable999 {
+	type player
+	money 100.0
+}
+fiffi {
+	type player
+	money 0.0
+}
+fifoulol45 {
+	type player
+	money 100.0
+}
+goowza {
+	type player
+	money 130.0
+}
+guiguidu14310 {
+	type player
+	money 1100.0
+}
+gupycraft51 {
+	type player
+	money 203.0
+}
+iksa9999 {
+	type player
+	money 0.0
+}
+jero90 {
+	type player
+	money 2085.0
+}
+jotar00 {
+	type player
+	money 100.0
+}
+juliend16 {
+	type player
+	money 100.0
+}
+kainightz3 {
+	type player
+	money 2533.0
+}
+king_of_block12 {
+	type player
+	money 100.0
+}
+ksa9999 {
+	type player
+	money 0.0
+}
+le_pscycopatate {
+	type player
+	money 90.0
+}
+lichzking {
+	type player
+	money 100.0
+}
+loki {
+	type player
+	money 100540.0
+}
+loshermanos {
+	type player
+	money 100.0
+}
+loueibe {
+	type player
+	money 5268.0
+}
+lucascib {
+	type player
+	money 234.0
+}
+lulutoine {
+	type player
+	money 100.0
+}
+mathieulaurent {
+	type player
+	money 265027.0
+}
+matt66 {
+	type player
+	money 100.0
+}
+mcmarlonlimas {
+	type player
+	money 100.0
+}
+miche {
+	type player
+	money 1164.0
+}
+minocraft {
+	type player
+	money 100.0
+}
+mopl {
+	type player
+	money 574085.0
+}
+nilou88 {
+	type player
+	money 90.0
+}
+oblivion {
+	type player
+	money 1944.0
+}
+oceane12yeah {
+	type player
+	money 24662.0
+}
+pelliott {
+	type player
+	money 100.0
+}
+pika_girl {
+	type player
+	money 99575.0
+}
+porquitcho200 {
+	type player
+	money 100.0
+}
+portdu63 {
+	type player
+	money 100.0
+}
+stefan_noel {
+	type player
+	money 975.0
+}
+theo68 {
+	type player
+	money 5384.0
+}
+theredstoneman93 {
+	type player
+	money 100.0
+}
+toinoo {
+	type player
+	money 0.0
+}
+tonyboy56 {
+	type player
+	money 13697.0
+}
+vidiass {
+	type player
+	money 1694.0
+}
+xavito31 {
+	type player
+	money 37851.0
+}

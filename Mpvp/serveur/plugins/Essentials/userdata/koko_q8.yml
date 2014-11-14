@@ -1,0 +1,36 @@
+lastlocation:
+  world: world
+  x: -0.9829800647515926
+  y: 21.0
+  z: -18.250472554240382
+  yaw: -153.83649
+  pitch: 52.80002
+timestamps:
+  login: 1370939496528
+  logout: 1370939843428
+  kits:
+    tools: 1370939519430
+    firework: 1370939554429
+    color: 1370939528529
+  lastteleport: 1370939634477
+ipAddress: 94.129.28.225
+logoutlocation:
+  world: world_nether
+  x: -5.015926503890596
+  y: 49.0
+  z: 16.023041507379194
+  yaw: -82.91624
+  pitch: 29.113487
+money: '110.0'
+homes:
+  home:
+    world: world_nether
+    x: -5.326111467544427
+    y: 49.0
+    z: 15.269220897839709
+    yaw: 220.08868
+    pitch: 34.49989
+mail:
+- 'eyesofcreeper: Pour me repondre : /mail send eyesofcreeper MESSAGE'
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'

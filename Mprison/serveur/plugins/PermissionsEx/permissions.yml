@@ -1,0 +1,236 @@
+groups:
+  D:
+    default: true
+    prefix: '&0(&8D&7-Prisonnier&0)&7 '
+    permissions:
+    - -bukkit.command.help
+    - essentials.balance
+    - essentials.pay
+    - essentials.spawn
+    - essentials.afk.auto
+    - essentials.list
+    - essentials.signs.use.*
+    - -essentials.chat.url
+    - paidranks.normal
+    - essentials.suicide
+    - treeassist.replant
+    - -modifyworld.blocks.destroy.6
+    - -modifyworld.blocks.destroy.6:*
+    - -modifyworld.items.pickup.6
+    - -modifyworld.items.pickup.6:*
+    - treeassist.autoremove
+    - modifyworld.*
+  C:
+    prefix: '&0(&8C&7-Prisonnier&0)&7 '
+    inheritance:
+    - D
+    permissions:
+    - modifyworld.*
+  B:
+    prefix: '&0(&8B&7-Prisonnier&0)&7 '
+    inheritance:
+    - C
+    permissions:
+    - modifyworld.*
+  A:
+    prefix: '&0(&8A&7-Prisonnier&0)&7 '
+    inheritance:
+    - B
+    permissions:
+    - modifyworld.*
+  F:
+    prefix: '&0(&aF&0)&7 '
+    inheritance:
+    - A
+    permissions:
+    - modifyworld.*
+  Moderator:
+    prefix: '&0(&aMod&0)&7 '
+    inheritance:
+    - F
+    permissions:
+    - modifyworld.*
+  Guard_test:
+    prefix: '&0(&aGarde En Test&0)&7 '
+    inheritance:
+    - F
+    permissions:
+    - modifyworld.*
+    - essentials.spawn
+  Guard:
+    prefix: '&0(&aGarde&0)&7 '
+    inheritance:
+    - F
+    permissions:
+    - essentials.jail
+    - essentials.jail.*
+    - essentials.jails
+    - essentials.spawn
+    - essentials.broadcast
+    - essentials.kits
+    - essentials.kit
+    - essentials.kits.guard
+    - essentials.signs.use
+    - essentials.sign.use
+    - essentials.togglejail
+  ChiefGuard:
+    prefix: '&0(&aGarde En Chef&0)&7 '
+    inheritance:
+    - Guard
+    permissions:
+    - pex.*
+    - permissions.*
+  Admin:
+    prefix: '&0(&aAdmin&0)&7 '
+    inheritance:
+    - Moderator
+    permissions:
+    - '*'
+  Creator:
+    prefix: '&0(&4C&dreateur&0)&4 '
+    inheritance:
+    - Admin
+    permissions:
+    - '*'
+users:
+  eyesofcreeper:
+    group:
+    - Creator
+  Airponeisme:
+    group:
+    - Admin
+  Donuts:
+    group:
+    - Creator
+  THEAZER3000:
+    group:
+    - Admin
+  antonyzaqzaq:
+    group:
+    - F
+  Nxen:
+    group:
+    - guard
+  Kirihara_Yukawa:
+    group:
+    - F
+  Evil_Dante:
+    group:
+    - Guard
+  Kaeric:
+    group:
+    - Guard_test
+  goowza:
+    group:
+    - Admin
+  oceane12yeah:
+    group:
+    - Guard_test
+  Knowteach:
+    group:
+    - B
+  DJcool33:
+    group:
+    - C
+  Diorne:
+    group:
+    - Admin
+  Bestdragonpt:
+    group:
+    - C
+  Nintori:
+    group:
+    - C
+  Waxinog:
+    group:
+    - C
+  Carlacraft:
+    group:
+    - F
+  mopl:
+    group:
+    - F
+  SpAcE135:
+    group:
+    - F
+  didi49:
+    group:
+    - C
+  Bowskillerlu:
+    group:
+    - D
+  Ragnaros:
+    group:
+    - F
+  Kayel56:
+    group:
+    - F
+  Viperious37:
+    group:
+    - Moderator
+  azulight:
+    group:
+    - F
+  xavito31:
+    group:
+    - A
+  kainightz3:
+    group:
+    - B
+  pika_girl:
+    group:
+    - F
+  TheKingWorld:
+    group:
+    - A
+  WaRBoZz:
+    group:
+    - F
+  XXsqueletteXX:
+    group:
+    - B
+  loki:
+    group:
+    - A
+  Thedompteur10:
+    group:
+    - C
+  decapitman1999:
+    group:
+    - C
+  Darkoze13:
+    group:
+    - C
+  mathieulaurent:
+    group:
+    - F
+  Gumknuckles:
+    group:
+    - F
+  Bratmort:
+    group:
+    - F
+  oblivion:
+    group:
+    - A
+  Azetor:
+    group:
+    - Admin
+  Mireio:
+    group:
+    - A
+  miche:
+    group:
+    - C
+  Sharty33:
+    group:
+    - C
+  Warnogapy:
+    group:
+    - C
+  TheDarkness59:
+    group:
+    - A
+  stefan_noel:
+    group:
+    - C

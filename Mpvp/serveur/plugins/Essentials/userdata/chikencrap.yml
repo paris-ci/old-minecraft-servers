@@ -1,0 +1,23 @@
+timestamps:
+  login: 1377167302258
+  kits:
+    start: 1375727741358
+    notch: 1375727584051
+  logout: 1377167551521
+  lastteleport: 1377167416626
+ipAddress: 86.202.85.67
+lastlocation:
+  world: world
+  x: 9187.874505751344
+  y: 72.0
+  z: 9543.735179087756
+  yaw: -36.444294
+  pitch: 21.022232
+logoutlocation:
+  world: plotworld
+  x: -144.79674508547706
+  y: 66.4250379925761
+  z: 100.21585237144284
+  yaw: 72.00827
+  pitch: 13.643702
+money: '114.0'

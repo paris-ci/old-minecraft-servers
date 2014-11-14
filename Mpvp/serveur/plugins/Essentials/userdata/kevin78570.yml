@@ -1,0 +1,22 @@
+lastlocation:
+  world: world
+  x: 9136.615298127486
+  y: 67.0
+  z: 9549.39984912224
+  yaw: -205.51344
+  pitch: 8.999968
+timestamps:
+  login: 1373642135187
+  logout: 1373642141343
+ipAddress: 78.236.222.227
+money: '73.0'
+logoutlocation:
+  world: world
+  x: 9110.699999988079
+  y: 65.0
+  z: 9568.699999988079
+  yaw: -172.21313
+  pitch: -9.599984
+ban:
+  reason: 'Banni : flood'
+  timeout: 0

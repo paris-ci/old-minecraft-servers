@@ -1,0 +1,56 @@
+lastlocation:
+  world: world
+  x: 9157.326085494178
+  y: 72.0
+  z: 9548.948050423069
+  yaw: 173.04309
+  pitch: -35.462475
+timestamps:
+  login: 1374243818993
+  lastteleport: 1373027012579
+  logout: 1374243855447
+  kits:
+    tools: 1372245942506
+    firework: 1372246022053
+    color: 1372246001402
+  mute: 0
+ipAddress: 77.194.17.230
+logoutlocation:
+  world: world
+  x: 9198.0
+  y: 73.0
+  z: 9549.0
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+homes:
+  chateau:
+    world: world_nether
+    x: 181.554788160604
+    y: 60.0
+    z: -116.86190757538
+    yaw: 65.09503
+    pitch: 13.555627
+  end:
+    world: world_the_end
+    x: -31.952079357812742
+    y: 60.0
+    z: -39.69999998807907
+    yaw: -80.83676
+    pitch: 14.534318
+  home:
+    world: world
+    x: -735.3099294916839
+    y: 14.0
+    z: 246.75188272801216
+    yaw: 9.207032
+    pitch: 1.4047762
+money: '5846.0'
+ban:
+  reason: Banni temporairement du serveur pour 19 secondes.
+  timeout: 0
+muted: false
+mail:
+- 'eyesofcreeper: Pour me repondre : /mail send eyesofcreeper MESSAGE'
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'

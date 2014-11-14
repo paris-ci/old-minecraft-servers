@@ -1,0 +1,8 @@
+# JSONAPI v4 users file
+
+users:
+  users1:
+    username: eyesofcreeper
+    password: jovart
+    groups:
+    - full_control

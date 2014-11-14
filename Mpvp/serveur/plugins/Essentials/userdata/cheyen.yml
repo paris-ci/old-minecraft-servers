@@ -1,0 +1,30 @@
+lastlocation:
+  world: world
+  x: 9116.321308517474
+  y: 74.5
+  z: 9555.055974944777
+  yaw: -80.264015
+  pitch: 22.718393
+timestamps:
+  login: 1374530175449
+  logout: 1374530435141
+  lastteleport: 1374530292791
+  kits:
+    start: 1374529422490
+  jail: 0
+  mute: 0
+ipAddress: 92.131.88.210
+logoutlocation:
+  world: world
+  x: 9173.496069184252
+  y: 72.0
+  z: 9548.232589201405
+  yaw: -153.46436
+  pitch: 15.0684
+money: '2455.0'
+afk: false
+ban:
+  reason: 'Banni : le racisme l''insulte bref tu sert a rien enrevoir idiot'
+  timeout: 0
+jailed: false
+muted: false

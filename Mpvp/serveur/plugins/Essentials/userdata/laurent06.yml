@@ -1,0 +1,24 @@
+lastlocation:
+  world: world
+  x: 0.5
+  y: 63.0
+  z: 0.5
+  yaw: 180.63367
+  pitch: 1.8432032
+timestamps:
+  login: 1370984842131
+  lastteleport: 1370287943252
+  logout: 1370984863173
+ipAddress: 5.49.16.236
+logoutlocation:
+  world: world
+  x: 1.1451587961552003
+  y: 63.0
+  z: -25.50076017562865
+  yaw: 1.583252
+  pitch: 2.9204094
+money: '100.0'
+mail:
+- 'eyesofcreeper: Pour me repondre : /mail send eyesofcreeper MESSAGE'
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'

@@ -1,0 +1,165 @@
+## Options
+# %k : the killer (can be a player, mob, or environment)
+# %d : the dead player
+# %i : item used to kill the player (if one exists)
+# %n : number (used for streaks, rampages)
+### The list of pvp item deaths is incomplete, feel free to add more
+### color codes
+# &0  Black 
+# &1  Dark Blue
+# &2  Dark Green
+# &3  Dark Aqua
+# &4  Dark Red
+# &5  Purple
+# &6  Orange
+# &7  Grey
+# &8  Dark Grey 
+# &9  Indigo
+# &a  Bright Green
+# &b  Aqua
+# &c  Red
+# &d  Pink
+# &e  Yellow
+# &f  White
+version: 1.0
+pve:
+  prefix: "&e[PvE]&f "
+  meleeDeaths:
+    - "&6%d&f a été tue par &6%k&f"
+  rangeDeaths:
+    - "&6%d&f a été tue par un &6%k&f"
+  fire: 
+    - "&6%d&f a eu trés chaud"
+    - "&6%d&f a brulé a mort"
+  fire_tick:
+    - "&6%d&f a rate sa carriere de pompier"
+  lava:
+    - "&6%d&f a decouvert que volcanologue n'étais pas sa passion "
+  fall:
+    - "&6%d&f a eu mal en tombant"
+  contact:
+    - "&6%d&f devrais apprendre que les cactus, ca pique !"
+    - "&6%d&f a fait de l'acupuncture !"
+  block_explosion:
+    - "&6%d&f a vu une tnt exploser"
+  primedtnt:
+    - "&6%d&f a vu une jolie TNT exploser"
+  suffocation:
+    - "&6%d&f a rencontre un poisson"
+    - "&6%d&f n'est pas devenu une sirene"
+    - "&6%d&f a pris un bain... Trop long"
+  starvation:
+    - "&6%d&f devrais apprendre a manger"
+    - "&6%d&f ne connais pas les restos du coeur"
+  unknown:
+    - "&6%d&f a ete tue par chuck norris"
+  lightning:
+    - "&6%d&f s'est abrité sous un arbre pendant un orage"
+  suicide:
+    - "&6%d&f a mis hooriblement fin a ses jours"
+    - "&6%d&f a choisi de se suicider"
+  drowning:
+    - "&6%d&f devrais apprendre a nager"
+    - "La nage n'est pas faite pour &6%d&f"
+  void:
+    - "Le vide intersideral aime &6%d&f"
+  creeper:
+    - "&6%d&f viens de comprendre qu'un creeper, ca explose :)"
+  zombie:
+    - "&6%d&f est devenu un &2zombie"
+    - "&2Des Zombies&f ont devores &6%d&f"
+    - "Une horde de &2zombies&f ont aperçus &6%d&f"
+  skeleton:
+    - "&6%d&f a joué au tir a l'ar avec un squelette "
+    - "&6%d&f deteste jouer au tir a l'arc"
+  spider:
+    - "&6%d&f aura maintenant peur des araignées"
+  cavespider:
+    - "Les araignées du noir aiment &6%d&f"
+  enderdragon:
+    - "L'&8ender dragon&f a lazerizé &6%d&f"
+  blaze:
+    - "Un &4blaze&f a cuit au barbecue &6%d&f"
+  silverfish:
+    - "&6%d&f a été mange par un poisson d'argent"
+  enderman:
+    - "&8Un Endermen&f a ramené &6%d&f dans le nether"
+  snowman:
+    - "&6%d&f est mort tue par un bonhomme de neige"
+  ozelot:
+    - 'The cute ocelot showed its power to &6%d&f'
+    - '&6%d&f discovered that ocelots have fangs'
+  anvil:
+    - '&6%d&f a été mange par une enclume :o'
+    - '&6%d&f n''as pas apris a utiliser une enclume ... Mais a se mettre en dessous'
+  wolf:
+    - "&6%d&f s'est aperçu que les chiens n'étaient pas ses amis"
+  giant:
+    - "&6%d&f was smashed by a Giant"
+    - "A giant has flattened &6%d&f"
+  slime:
+    - "&6%d&f a été liquéfié par un &aslime"
+    - "&6%d&f s'est transformé en confiture a cause d'un &aslime"
+  ghast:
+    - "&6%d&f a brulé a cause d'un fantome"
+  pigzombie:
+    - "Les cochons zombies se sont vangés de &6%d&f"
+  lavaslime:
+    - "&6%d&f a été réchauffé par un slime de lave!"
+pvp:
+  prefix: "&4[PvP]&f "
+  meleeDeaths:
+    - "&6%k&f a tué &6%d&f grace a &6%i&f!"
+    - "&6%k&f est meilleur que &6%d&f... Largement!"
+#    - "&6%k&f has overpowered &6%d&f in combat!"
+#    - "&6%k&f killed &6%d&f with a &6%i&f!"
+#    - "&6%k&f's &6%i&f has ended poor &6%d&f!"
+#    - "&6%k&f evicerated &6%d&f!"
+#    - "&6%k&f had fun slicing and dicing &6%d&f!"
+#    - "&6%k&f sent &6%d&f to pay Charon!"
+#    - "&6%k&f impaled &6%d&f with a &6%i&f!"
+#    - "&6%k&f destroyed &6%d&f!"
+#    - "&6%k&f gutted the unfortunate &6%d&f!"
+#    - "&6%k&f has sent &6%d&f to the heavenly realm!"
+#    - "&6%k&f showed &6%d&f the meaning of pain!"
+#    - "&6%k&f split &6%d&f in twain!"
+#    - "&6%k&f overcame &6%d&f in battle!"
+#    - "&6%k&f defeated &6%d&f in mighty struggle!"
+#    - "&6%k&f ended all dreams for &6%d&f!"
+  rangeDeaths:
+    - "&6%k&f a ridiculisé &6%d&f avec des fleches!"
+
+  air:
+#    - "&6%k&f pummeled &6%d&f with their bare hands!"
+#    - "&6%d&f was no match for the combat skills of &6%k&f"
+    - "&6%k&f a prouvé a &6%d&f que des poings peuvent aussi tuer un homme"
+#    - "&6%k&f fists broke down &6%d&f"
+  diamond_sword:
+#    - "&6%k&f sliced through &6%d&f with a &6%i&f"
+    - "&6%k&f's &6%i&f a coupe &6%d&f en 2"
+    - "&6%k&f's &6%i&f a decoupe &6%d&f en 2"
+    - "&6%k&f a appris a &6%d&f comment se servir d'une eppe"
+  iron_sword:
+    - "&6%k&f coupe &6%d&f avec &6%i&f"
+  wood_sword:
+    - "&6%k&f hache &6%d&f a mort avec &6%i&f"
+  diamond_axe:
+    - "&6%k&f used &6%d&f as mere lumber"
+    - "&6%k&f cleaved &6%d&f with a &6%i&f"
+
+special:
+  rampage: 
+    default: "&6%k&f has slain &6%d&f on a rampage of &c%n&f kills!!!"
+    "2": "&6%k&f has started a rampage on &6%d&f !!!"
+    "3": "&6%k&f is on a rampage!!!"
+  streak: 
+    default: "&6%k&f has slain &6%d&f in a streak of &c%n&f kills!!!"
+    "10": "&6%k&f is on a killing spree! slaying &6%d&f in a streak of &c%n&f kills!!!"
+    "20": "&6%k&f is unstoppable killing &6%d&f in a streak of &c%n&f kills!!!"
+
+messages:
+  prefix: "&5[Tracker]&f "
+  xBetween: "&cx must be between 1 and %s"
+  recordNotFound: "&cA record for player &6%s&4 couldn't be found"
+  playerNotFound: "&cThe player %s was not found"
+  noRecordsInTable: "&cthere are no records in the &6%s&c table"

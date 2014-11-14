@@ -1,0 +1,32 @@
+lastlocation:
+  world: world
+  x: 9127.995373664655
+  y: 69.0
+  z: 9573.690892701892
+  yaw: -128.6709
+  pitch: 25.155424
+timestamps:
+  login: 1373835875681
+  lastteleport: 1373836003147
+  logout: 1373836444696
+ipAddress: 88.160.31.89
+logoutlocation:
+  world: world
+  x: 9175.943105142494
+  y: 72.0
+  z: 9544.33170672323
+  yaw: -289.21292
+  pitch: 22.316164
+homes:
+  home:
+    world: world
+    x: 8604.113379484088
+    y: 4.0
+    z: 9574.48692992656
+    yaw: 75.5188
+    pitch: 6.5080266
+money: '365.0'
+afk: false
+ban:
+  reason: 'Banni : Achète toi une vie fdp.'
+  timeout: 0

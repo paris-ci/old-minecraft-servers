@@ -1,0 +1,85 @@
+world:
+  global:
+    token:
+      all: 14
+      rent: 14
+    price:
+      all: 5100
+      rent: 5100
+  users:
+    eyesofcreeper:
+      buyedtokens:
+        all: 2
+        rent: 2
+      selledtokens:
+        all: 14
+        rent: 14
+      payedprice:
+        all: 300
+        rent: 300
+      earnedprice:
+        all: 5100
+        rent: 5100
+    Donuts:
+      buyedtokens:
+        all: 4
+        rent: 4
+      payedprice:
+        all: 1600
+        rent: 1600
+    loueibe:
+      buyedtokens:
+        all: 1
+        rent: 1
+      payedprice:
+        all: 300
+        rent: 300
+    antonyzaqzaq:
+      buyedtokens:
+        all: 1
+        rent: 1
+      payedprice:
+        all: 100
+        rent: 100
+    Kaeric:
+      buyedtokens:
+        all: 1
+        rent: 1
+      payedprice:
+        all: 100
+        rent: 100
+    BlacKkDream:
+      buyedtokens:
+        all: 1
+        rent: 1
+      payedprice:
+        all: 100
+        rent: 100
+    Kayel56:
+      buyedtokens:
+        all: 1
+        rent: 1
+      payedprice:
+        all: 100
+        rent: 100
+    Gumknuckles:
+      buyedtokens:
+        all: 1
+        rent: 1
+      payedprice:
+        all: 800
+        rent: 800
+    mathieulaurent:
+      buyedtokens:
+        all: 1
+        rent: 1
+      payedprice:
+        all: 1600
+        rent: 1600
+    Azetor:
+      buyedtokens:
+        all: 1
+        rent: 1
+      payedprice:
+        all: 100
+        rent: 100

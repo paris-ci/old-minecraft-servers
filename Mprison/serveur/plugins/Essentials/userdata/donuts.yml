@@ -1,0 +1,24 @@
+timestamps:
+  login: 1378137827687
+  logout: 1378137893795
+  lastteleport: 1378114585808
+  kits:
+    tools: 1378032305988
+    guard: 1377775306209
+ipAddress: 88.188.125.170
+lastlocation:
+  world: world
+  x: 113.01561726841143
+  y: 72.0
+  z: -329.30000001192093
+  yaw: -26.010876
+  pitch: 83.4
+logoutlocation:
+  world: world
+  x: 72.30014913513659
+  y: 80.12801793129583
+  z: -318.0156598883693
+  yaw: -57.17237
+  pitch: 38.02559
+money: '4902647747'
+afk: false

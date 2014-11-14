@@ -1,0 +1,135 @@
+DataSource:
+  mySQLColumnName: username
+  mySQLTablename: authme
+  mySQLUsername: root
+  backend: file
+  mySQLColumnLastLogin: lastlogin
+  mySQLDatabase: authme
+  mySQLPort: '8889'
+  mySQLColumnIp: ip
+  mySQLHost: locahost
+  mySQLColumnPassword: password
+  mySQLPassword: root
+  caching: true
+  mySQLlastlocX: x
+  mySQLlastlocY: y
+  mySQLlastlocZ: z
+  mySQLColumnEmail: email
+  mySQLColumnId: id
+  mySQLlastlocWorld: world
+GroupOptions:
+  UnregisteredPlayerGroup: ''
+  RegisteredPlayerGroup: ''
+  Permissions:
+    PermissionsOnJoin: []
+settings:
+  sessions:
+    enabled: true
+    timeout: 99999
+    sessionExpireOnIpChange: true
+  restrictions:
+    allowChat: false
+    allowCommands:
+    - /login
+    - /register
+    - /l
+    - /reg
+    - /passpartu
+    - /email
+    - /captcha
+    maxRegPerIp: 3
+    maxNicknameLength: 20
+    ForceSingleSession: true
+    ForceSpawnLocOnJoinEnabled: true
+    SaveQuitLocation: false
+    AllowRestrictedUser: false
+    AllowedRestrictedUser: []
+    kickNonRegistered: false
+    kickOnWrongPassword: false
+    teleportUnAuthedToSpawn: true
+    minNicknameLength: 3
+    allowMovement: false
+    timeout: 60
+    allowedNicknameCharacters: '[a-zA-Z0-9_?]*'
+    allowedMovementRadius: 100
+    enablePasswordVerifier: true
+    ProtectInventoryBeforeLogIn: true
+    displayOtherAccounts: true
+    ForceSpawnOnTheseWorlds:
+    - world
+    - world_nether
+    - world_the_end
+    banUnsafedIP: false
+  GameMode:
+    ForceSurvivalMode: false
+    ResetInventoryIfCreative: true
+  security:
+    minPasswordLength: 4
+    unLoggedinGroup: unLoggedinGroup
+    passwordHash: PLAINTEXT
+    doubleMD5SaltLength: 8
+  registration:
+    enabled: true
+    messageInterval: 5
+    force: true
+    enableEmailRegistrationSystem: false
+    doubleEmailCheck: false
+  unrestrictions:
+    UnrestrictedName: []
+  messagesLanguage: fr
+ExternalBoardOptions:
+  mySQLColumnSalt: ''
+  mySQLColumnGroup: ''
+  nonActivedUserGroup: -1
+  mySQLOtherUsernameColumns: []
+  bCryptLog2Round: 10
+Xenoforo:
+  predefinedSalt: ''
+permission:
+  EnablePermissionCheck: false
+BackupSystem:
+  ActivateBackup: false
+  OnServerStart: false
+  OnServerStop: true
+  MysqlWindowsPath: C:\\Program Files\\MySQL\\MySQL Server 5.1\\
+Passpartu:
+  enablePasspartu: true
+Security:
+  SQLProblem:
+    stopServer: true
+  ReloadCommand:
+    useReloadCommandSupport: true
+  console:
+    noConsoleSpam: false
+    removePassword: false
+    logConsole: true
+  captcha:
+    useCaptcha: true
+    maxLoginTry: 5
+    captchaLength: 5
+Converter:
+  Rakamak:
+    fileName: users.rak
+    useIP: false
+    ipFileName: UsersIp.rak
+    newPasswordHash: SHA256
+Email:
+  mailSMTP: smtp.gmail.com
+  mailPort: 465
+  mailAccount: newmineserveur
+  mailPassword: arthur75
+  mailSenderName: Mot de passe des serveurs
+  RecoveryPasswordLength: 8
+  mailSubject: Nouveau mot de passe authme
+  maxRegPerEmail: 1
+  mailText: 'Cher <playername>, \n\n Ceci est votre nouveau mot de passe pour le serveur
+    \n\n <servername> : \n\n <generatedpass>\n\nN''oubliez pas de le changer avec
+    la commande \n /changepassword <generatedpass> nouveaumotdepasse'
+Hooks:
+  multiverse: true
+  chestshop: true
+  bungeecord: true
+  notifications: true
+  disableSocialSpy: false
+Performances:
+  useMultiThreading: false

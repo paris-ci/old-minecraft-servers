@@ -1,0 +1,35 @@
+timestamps:
+  login: 1377260954457
+  logout: 1377261011839
+  lastteleport: 1377261005497
+  kits:
+    firework: 1370370390831
+    notch: 1372844620354
+ipAddress: 90.32.229.160
+lastlocation:
+  world: world
+  x: 9203.18582279541
+  y: 72.0
+  z: 9549.466205827051
+  yaw: -260.26404
+  pitch: 36.518406
+logoutlocation:
+  world: world
+  x: 9197.71237418779
+  y: 73.0
+  z: 9550.331324075847
+  yaw: -238.36414
+  pitch: 29.618406
+afk: false
+money: '654.0'
+ban:
+  reason: Banni temporairement du serveur pour 1 minute.
+  timeout: 0
+homes:
+  home:
+    world: world
+    x: 9121.782917735689
+    y: 72.0
+    z: 9574.137266309897
+    yaw: -126.432945
+    pitch: 71.03189

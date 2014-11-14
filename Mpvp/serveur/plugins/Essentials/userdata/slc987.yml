@@ -1,0 +1,32 @@
+lastlocation:
+  world: world
+  x: 9128.396744840515
+  y: 69.0
+  z: 9573.078161724974
+  yaw: -175.8149
+  pitch: 62.618416
+timestamps:
+  login: 1377168258078
+  logout: 1377168498645
+  lastteleport: 1376680384891
+  kits:
+    start: 1373985963853
+    firework: 1376995181909
+ipAddress: 109.215.237.90
+logoutlocation:
+  world: world
+  x: 9193.163505453975
+  y: 72.0
+  z: 9553.955670318335
+  yaw: -304.96826
+  pitch: 17.318377
+afk: false
+money: '9529.0'
+homes:
+  home:
+    world: world_nether
+    x: 935.5642782096998
+    y: 74.0
+    z: 603.4885681030759
+    yaw: -270.30908
+    pitch: 7.9499774

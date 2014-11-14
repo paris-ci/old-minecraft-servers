@@ -1,0 +1,19 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  minZ: -267
+  resetDelay: 0
+  surface: ''
+  resetClock: 0
+  maxZ: -259
+  maxY: 70
+  maxX: 114
+  minX: 94
+  minY: 66
+  resetWarnings: []
+  fillMode: false
+  name: ForestD
+  isSilent: false
+  composition:
+    '17:0': 0.5
+    '5:0': 0.5
+  world: world

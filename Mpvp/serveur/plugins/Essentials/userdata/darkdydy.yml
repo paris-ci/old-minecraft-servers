@@ -1,0 +1,50 @@
+lastlocation:
+  world: plotworld
+  x: 3.9742326315419847
+  y: 78.11814692501908
+  z: 49.17900481148371
+  yaw: 7.1875596
+  pitch: 8.146895
+timestamps:
+  login: 1375298372857
+  lastteleport: 1375306037471
+  logout: 1375306174221
+  kits:
+    vip: 1372862094181
+    firework: 1375112050093
+ipAddress: 86.214.14.198
+logoutlocation:
+  world: world
+  x: 2980.663737335814
+  y: 167.25412981884025
+  z: 4591.241315752191
+  yaw: -323.97482
+  pitch: 16.656721
+money: '12172.0'
+afk: false
+homes:
+  home:
+    world: world_nether
+    x: 1129.5
+    y: 93.0
+    z: 1218.5
+    yaw: 261.2574
+    pitch: 32.52416
+  a:
+    world: world
+    x: 9714.342339471457
+    y: 15.0
+    z: 8717.212047030669
+    yaw: -339.71704
+    pitch: 3.4036977
+  atlant:
+    world: world
+    x: 9647.857746366033
+    y: 51.0
+    z: 10395.968636905243
+    yaw: -273.10425
+    pitch: 42.746643
+godmode: true
+ban:
+  reason: 'Banni : griefet give fac'
+  timeout: 0

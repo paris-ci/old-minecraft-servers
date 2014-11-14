@@ -1,0 +1,24 @@
+Version: 0.3.0
+Game:
+  hoe:
+    diamond: Ultra RailGun
+    gold: RailGun en or
+    iron: RailGun boost
+    stone: RailGun avance
+    wood: RailGun
+  Arena:
+    Message:
+      Join: '[PLAYER]&e entre dans ton arene ([NUMBER]/[MAX])'
+      RemainTime: '&eLe je demarre dans [TIME] sec'
+      Aborde-Game: '&eUn joueur est parti. Demarrage annule'
+      Start: '&eCa commence ! Que le meilleur gagne ..'
+      Start-Info: '&eClick droit avec ta houe pour tuer les autres !'
+      Shot: '&c[SHOOTER] &8Shoot [KILLED]'
+    error:
+      inGame: '&cJeu en cours !'
+      full: '&cTrop de monde !'
+      command: '&cPas de commandes ici !'
+    Kill:
+      Double: '&cDouble Kill !!'
+      Triple: '&cTriple Kill !!!'
+      More: '&cEpic Kill !!!!'

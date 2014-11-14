@@ -1,0 +1,22 @@
+lastlocation:
+  world: world
+  x: 9198.5
+  y: 73.0
+  z: 9549.5
+  yaw: -270.3141
+  pitch: 8.9184065
+timestamps:
+  login: 1374492051340
+  logout: 1374492115290
+ipAddress: 109.214.196.127
+ban:
+  reason: 'Banni : countournement de ban enrevoir'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: 9184.14151881761
+  y: 72.0
+  z: 9554.047107726017
+  yaw: 122.4393
+  pitch: -2.3720038
+money: '102.0'

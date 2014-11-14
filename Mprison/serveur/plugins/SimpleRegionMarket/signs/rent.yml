@@ -1,0 +1,177 @@
+world:
+  casier9:
+    signs:
+      '0':
+        world: world
+        X: 64.0
+        Y: 59.0
+        Z: -165.0
+    price: 100.0
+    renttime: 86400000
+    hidden: false
+    account: eyesofcreeper
+    taken: false
+  casier14:
+    signs:
+      '0':
+        world: world
+        X: 59.0
+        Y: 59.0
+        Z: -169.0
+    price: 100.0
+    renttime: 86400000
+    account: eyesofcreeper
+    taken: false
+  casier3:
+    signs:
+      '0':
+        world: world
+        X: 64.0
+        Y: 59.0
+        Z: -159.0
+    price: 100.0
+    renttime: 86400000
+    hidden: false
+    account: eyesofcreeper
+    taken: false
+  casier15:
+    signs:
+      '0':
+        world: world
+        X: 64.0
+        Y: 59.0
+        Z: -171.0
+    price: 100.0
+    renttime: 86400000
+    account: eyesofcreeper
+    taken: false
+  casier4:
+    signs:
+      '0':
+        world: world
+        X: 59.0
+        Y: 59.0
+        Z: -159.0
+    price: 100.0
+    hidden: false
+    renttime: 86400000
+    account: eyesofcreeper
+    taken: false
+  casier1:
+    signs:
+      '0':
+        world: world
+        X: 64.0
+        Y: 59.0
+        Z: -157.0
+    price: 100.0
+    hidden: true
+    renttime: 86400000
+    owner: Gumknuckles
+    account: eyesofcreeper
+    expiredate: 1378409919861
+    taken: true
+  casier2:
+    signs:
+      '0':
+        world: world
+        X: 59.0
+        Y: 59.0
+        Z: -157.0
+    price: 100.0
+    hidden: true
+    renttime: 86400000
+    owner: mathieulaurent
+    account: eyesofcreeper
+    expiredate: 1379263154056
+    taken: true
+  casier7:
+    signs:
+      '0':
+        world: world
+        X: 64.0
+        Y: 59.0
+        Z: -163.0
+    price: 100.0
+    renttime: 86400000
+    account: eyesofcreeper
+    taken: false
+  casier10:
+    signs:
+      '0':
+        world: world
+        X: 59.0
+        Y: 59.0
+        Z: -165.0
+    price: 100.0
+    renttime: 86400000
+    account: eyesofcreeper
+    taken: false
+  casier8:
+    signs:
+      '0':
+        world: world
+        X: 59.0
+        Y: 59.0
+        Z: -163.0
+    price: 100.0
+    renttime: 86400000
+    account: eyesofcreeper
+    taken: false
+  casier11:
+    signs:
+      '0':
+        world: world
+        X: 64.0
+        Y: 59.0
+        Z: -167.0
+    price: 100.0
+    hidden: false
+    renttime: 86400000
+    account: eyesofcreeper
+    taken: false
+  casier5:
+    signs:
+      '0':
+        world: world
+        X: 64.0
+        Y: 59.0
+        Z: -161.0
+    price: 100.0
+    renttime: 86400000
+    account: eyesofcreeper
+    taken: false
+  casier12:
+    signs:
+      '0':
+        world: world
+        X: 59.0
+        Y: 59.0
+        Z: -167.0
+    price: 100.0
+    renttime: 86400000
+    account: eyesofcreeper
+    taken: false
+  casier13:
+    signs:
+      '0':
+        world: world
+        X: 64.0
+        Y: 59.0
+        Z: -169.0
+    price: 100.0
+    hidden: false
+    renttime: 86400000
+    account: eyesofcreeper
+    taken: false
+  casier6:
+    signs:
+      '0':
+        world: world
+        X: 59.0
+        Y: 59.0
+        Z: -161.0
+    price: 100.0
+    renttime: 86400000
+    account: eyesofcreeper
+    taken: false

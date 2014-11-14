@@ -1,0 +1,5 @@
+# Updated 14/11/14 23:57 by Minecraft 1.6.2
+# victim name | ban date | banned by | banned until | reason
+
+soscreepers|2013-08-03 22:31:49 +0200|(Unknown)|Forever|Banned by an operator.
+nico44geek|2013-09-04 14:16:05 +0200|(Unknown)|Forever|Banned by an operator.

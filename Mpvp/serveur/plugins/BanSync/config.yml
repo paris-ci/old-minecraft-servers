@@ -1,0 +1,19 @@
+# BanSync Configuration File
+
+General:
+  AutoDeleteOnBan: true
+  CheckForUpdates: true
+Plugin:
+  LWC:
+    Enabled: true
+  PlotMe:
+    Enabled: true
+  Vault:
+    Enabled: true
+  GriefPrevention:
+    Enabled: true
+  WorldGuard:
+    Enabled: true
+    DeletePlotIfNoOwnersLeft: true
+  Essentials:
+    Enabled: true

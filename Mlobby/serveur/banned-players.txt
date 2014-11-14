@@ -1,0 +1,10 @@
+# Updated 04/09/13 16:58 by Minecraft 1.6.2
+# victim name | ban date | banned by | banned until | reason
+
+mohmd_511|2013-06-06 09:37:13 +0200|(Unknown)|Forever|Banned by an operator.
+remi21|2013-06-25 17:59:55 +0200|(Unknown)|Forever|Banned by an operator.
+asdevin2000|2013-06-26 10:36:58 +0200|(Unknown)|Forever|Banned by an operator.
+chochoducho|2013-07-03 10:55:24 +0200|(Unknown)|Forever|Banned by an operator.
+olf976|2013-07-10 14:43:29 +0200|(Unknown)|Forever|Banned by an operator.
+makotch|2013-07-26 12:48:18 +0200|(Unknown)|Forever|Banned by an operator.
+soscreepers|2013-08-03 22:31:39 +0200|(Unknown)|Forever|Banned by an operator.

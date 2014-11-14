@@ -1,0 +1,23 @@
+lastlocation:
+  world: world
+  x: 9148.148068216122
+  y: 70.41999998688698
+  z: 9550.040279378978
+  yaw: -273.9141
+  pitch: 11.618405
+timestamps:
+  login: 1373756370984
+  lastteleport: 1373755259045
+  logout: 1373756441295
+ipAddress: 92.147.250.136
+logoutlocation:
+  world: world
+  x: 9120.300000011921
+  y: 63.0
+  z: 9530.027895934492
+  yaw: -89.86416
+  pitch: 7.568394
+ban:
+  reason: Banni temporairement du serveur pour 16 minutes 40 secondes.
+  timeout: 1373757442702
+money: '71.0'

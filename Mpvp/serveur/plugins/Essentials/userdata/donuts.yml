@@ -1,0 +1,77 @@
+lastlocation:
+  world: world
+  x: 8601.079907803056
+  y: 27.0
+  z: 9573.471075591719
+  yaw: 215.96124
+  pitch: 9.299935
+timestamps:
+  login: 1377286395855
+  logout: 1377286423908
+  kits:
+    vip: 1373353551339
+    tools: 1372596925857
+    start: 1373353544934
+    firework: 1372624914558
+    color: 1377187160751
+    notch: 1372961542322
+  lastteleport: 1377203403960
+  lastheal: 1373389383257
+  jail: 0
+ipAddress: 88.188.125.170
+logoutlocation:
+  world: world
+  x: 8607.531676847715
+  y: 27.0
+  z: 9569.254939258559
+  yaw: 41.811523
+  pitch: 31.500006
+money: '1676.0'
+homes:
+  home:
+    world: world
+    x: 1554.813670455575
+    y: 72.875
+    z: -2232.5029842517265
+    yaw: -186.10149
+    pitch: 41.400055
+  vip:
+    world: world
+    x: -61.47178744037587
+    y: 70.0
+    z: -127.18684443771173
+    yaw: -238.65033
+    pitch: 40.94995
+  shop:
+    world: world
+    x: 9196.666594497588
+    y: 61.0
+    z: 9554.774147161095
+    yaw: -98.89862
+    pitch: 25.200003
+  faction:
+    world: world
+    x: 10456.897263428249
+    y: 70.0
+    z: 9762.357924785245
+    yaw: 268.09802
+    pitch: 15.613402
+  mine:
+    world: world
+    x: 9184.334736068246
+    y: 30.0
+    z: 10204.157692956522
+    yaw: -213.26831
+    pitch: 29.399994
+afk: false
+godmode: false
+ban:
+  reason: Banni temporairement du serveur pour 1 minute 39 secondes.
+  timeout: 0
+mail:
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'
+- 'eyesofcreeper: Pour me repondre : /mail send eyesofcreeper MESSAGE'
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'
+jailed: false

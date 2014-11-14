@@ -1,0 +1,95 @@
+offline-message: '&cServeur en cours de démarrage!'
+interval: 5
+timeout: 2500
+servers:
+  pvp:
+    address: 127.0.0.1:25565
+    displayname: '&apvp'
+  survival:
+    address: 127.0.0.1:25567
+    displayname: '&aSurvival'
+  lobby:
+    address: 127.0.0.1:25564
+    displayname: '&Lobby'
+  hg:
+    address: 127.0.0.1:25566
+    displayname: '&chg'
+  infected:
+    address: 127.0.0.1:25567
+    displayname: '&cinfected'
+  quake:
+    address: 127.0.0.1:25568
+    displayname: '&cQuake'
+  prison:
+    address: 127.0.0.1:25569
+    displayname: '&cPrison'
+  donuts:
+    address: m37.minecraft-illimity.com:27684
+    displayname: '&cPriorityC PvP'
+  viperious:
+    address: minecraft19.omgserv.com:10519
+    displayname: '&cViperious'
+  AzeCraft:
+    address: srv26.minecraft-mania.fr:29201
+    displayname: '&cAzecraft'
+  default:
+    teleport: true
+    layout:
+    - '&bSERVEUR:'
+    - '%motd%'
+    - '&f&l%numpl%/%maxpl%'
+    - '%isonline%'
+    online: '&aConnecte'
+    offline: '&cDeconnecte'
+    offline-int: '-'
+  info:
+    teleport: false
+    layout:
+    - '%displayname%'
+    - '&c%numpl%&a/&c%maxpl%'
+    - '&6&fInfosign'
+    - ''
+    online: Online
+    offline: Offline
+    offline-int: '-'
+  game:
+    teleport: true
+    layout:
+    - '&n&fPvP-Match'
+    - '%motd%'
+    - '&1%numpl%&a/&1%maxpl%'
+    - '%isonline%'
+    online: '&a+++'
+    offline: '&c---'
+    offline-int: '-'
+layouts:
+  default:
+    teleport: true
+    layout:
+    - '&bTeleport to:'
+    - '%motd%'
+    - '&f&l%numpl%/%maxpl%'
+    - '%isonline%'
+    online: '&aOnline'
+    offline: '&cOffline'
+    offline-int: '-'
+  info:
+    teleport: false
+    layout:
+    - '%displayname%'
+    - '&c%numpl%&a/&c%maxpl%'
+    - '&6&fInfosign'
+    - ''
+    online: Online
+    offline: Offline
+    offline-int: '-'
+  game:
+    teleport: true
+    layout:
+    - '&n&fPvP-Match'
+    - '%motd%'
+    - '&1%numpl%&a/&1%maxpl%'
+    - '%isonline%'
+    online: '&a+++'
+    offline: '&c---'
+    offline-int: '-'

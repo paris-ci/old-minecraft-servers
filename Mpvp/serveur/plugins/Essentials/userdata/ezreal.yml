@@ -1,0 +1,36 @@
+lastlocation:
+  world: world
+  x: 1131.0030451541274
+  y: 66.0
+  z: -608.7582493861154
+  yaw: 161.53912
+  pitch: 6.150013
+timestamps:
+  login: 1371688350598
+  logout: 1371688775502
+  lastteleport: 1371687898553
+  kits:
+    tools: 1371687746607
+    firework: 1371688040609
+    color: 1371687981814
+ipAddress: 177.183.94.158
+logoutlocation:
+  world: world
+  x: 341.7902227812419
+  y: 63.0
+  z: -235.04880247222604
+  yaw: 328.2334
+  pitch: 4.3499393
+homes:
+  home:
+    world: world
+    x: 322.2816084817494
+    y: 64.0
+    z: -204.35854374030632
+    yaw: -136.77234
+    pitch: 14.250021
+money: '277.0'
+mail:
+- 'eyesofcreeper: Pour me repondre : /mail send eyesofcreeper MESSAGE'
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'

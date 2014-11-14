@@ -1,0 +1,52 @@
+lastlocation:
+  world: world
+  x: 9752.72540208606
+  y: 63.0
+  z: -9384.624737686347
+  yaw: -86.97591
+  pitch: 35.84992
+timestamps:
+  login: 1377215668383
+  lastteleport: 1377216664521
+  logout: 1377216997068
+  jail: 0
+  kits:
+    vip: 1374431280494
+    firework: 1372780859634
+ipAddress: 109.28.233.150
+logoutlocation:
+  world: world
+  x: 8590.595511469783
+  y: 27.0
+  z: 9552.52031338696
+  yaw: -181.12439
+  pitch: 5.3907
+afk: false
+money: '8670.0'
+jailed: false
+homes:
+  home:
+    world: world
+    x: 9761.702701188244
+    y: 66.0
+    z: -9370.954898855194
+    yaw: -297.24786
+    pitch: 6.750059
+  hubre:
+    world: world
+    x: 10083.359128665028
+    y: 88.16554801404041
+    z: -10152.589848703616
+    yaw: 176.20686
+    pitch: 67.20002
+  champi:
+    world: world
+    x: 9738.871283405511
+    y: 65.0
+    z: -9386.643778522077
+    yaw: -133.84433
+    pitch: 17.099863
+ban:
+  reason: Banni temporairement du serveur pour 25 minutes.
+  timeout: 0
+godmode: true

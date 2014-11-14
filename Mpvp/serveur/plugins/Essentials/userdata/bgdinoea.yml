@@ -1,0 +1,47 @@
+lastlocation:
+  world: world
+  x: 9136.923510204972
+  y: 67.0
+  z: 9547.929272485362
+  yaw: 33.73114
+  pitch: 19.989702
+timestamps:
+  login: 1373127990646
+  lastteleport: 1372925810996
+  kits:
+    tools: 1372234830489
+    firework: 1372233581828
+    color: 1372233560477
+  logout: 1373128315290
+ipAddress: 109.13.6.201
+homes:
+  home:
+    world: world
+    x: -644.6008941615
+    y: 10.0
+    z: 247.45987352086757
+    yaw: 178.64767
+    pitch: 15.981836
+  chateau:
+    world: world_nether
+    x: 188.72211077583736
+    y: 60.0
+    z: -116.47135605838236
+    yaw: 213.4007
+    pitch: 22.23453
+  end:
+    world: world_the_end
+    x: -32.241710923663
+    y: 60.0
+    z: -37.9835397912382
+    yaw: 25.242846
+    pitch: 23.937021
+money: '1246.0'
+logoutlocation:
+  world: world
+  x: 9092.86832020985
+  y: 60.35141977130283
+  z: 9778.778058507307
+  yaw: 15.805742
+  pitch: 21.373224
+afk: false

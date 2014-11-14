@@ -1,0 +1,224 @@
+groups:
+  Member:
+    prefix: '&0(&8M&7embre&0)&7 '
+    default: true
+    permissions:
+    - -essentials.chat.url
+    - -essentials.help
+    - Quake.stone
+  Helper:
+    prefix: '&0(&6H&eelper&0)&2 '
+    inheritance:
+    - Member
+    permissions:
+    - -modifyworld.mobtarget.monster.*
+    - plotme.limit.3
+    - Quake.iron
+    options:
+      rank: '750'
+  Builder:
+    prefix: '&0(&1B&3uilder&0)&2 '
+    inheritance:
+    - VIP
+    permissions:
+    - -modifyworld.mobtarget.*
+    - essentials.gamemode
+    - essentials.gamemode.*
+    - essentials.protect
+    - essentials.chat.url
+    - essentials.fly.safelogin
+    - essentials.fly
+    - essentials.god
+    - -essentials.kits
+    - essentials.speed
+    - factions.*
+    - essentials.tree
+    - -essentials.eco.loan
+    - essentials.itemdb
+    - essentials.spawner
+    - essentials.spawner.*
+    - essentials.ban.exempt
+    - essentials.clearinventory
+    - essentials.invsee
+    - essentials.invsee.preventmodify
+    - essentials.kick.exempt
+    - essentials.killall
+    - essentials.mute.exempt
+    - essentials.setjail
+    - essentials.spawnmob
+    - essentials.spawnmob.*
+    - essentials.sudo.exempt
+    - essentials.tempban.exempt
+    - essentials.jail.exempt
+    - essentials.worlds.*
+    - essentials.jump
+    - essentials.top
+    - essentials.tppos
+    - essentials.teleport.cooldown.bypass
+    - essentials.teleport.timer.move
+    - essentials.world
+    - essentials.protect.admin
+    - worldedit.*
+    - worldguard.*
+    - ChestShop.admin
+    - Quake.gold
+    options:
+      rank: '100'
+  Moderator:
+    prefix: '&0(&1M&boderateur&0)&2 '
+    inheritance:
+    - VIP
+    permissions:
+    - -modifyworld.mobtarget.*
+    - modifyworld.*
+    - ChestShop.admin
+    - plotme.admin
+    - worldguard.*
+    - essentials.protect
+    - -chestshop.*
+    - essentials.protect.admin
+    - essentials.protect.alerts
+    - essentials.chat.url
+    - essentials.top
+    - essentials.sethome.multiple.unlimited
+    - essentials.fly.safelogin
+    - essentials.fly
+    - essentials.afk.others
+    - essentials.gamemode
+    - essentials.god
+    - essentials.god.pvp
+    - -essentials.eco.loan
+    - -essentials.kits
+    - essentials.speed
+    - essentials.getpos
+    - essentials.list.hidden
+    - essentials.feed
+    - essentials.heal
+    - essentials.chat.ignoreexempt
+    - essentials.list.hidden
+    - essentials.mail.sendall
+    - essentials.msg.url
+    - essentials.seen.extra
+    - Quake.gold
+    - essentials.seen.ipsearch
+    - essentials.geoip.show
+    - essentials.list.hidden
+    - essentials.whois
+    - essentials.ban
+    - essentials.ban.exempt
+    - essentials.ban.offline
+    - essentials.broadcast
+    - essentials.burn
+    - essentials.invsee
+    - essentials.invsee.modify
+    - essentials.invsee.preventmodify
+    - essentials.jails
+    - essentials.kick
+    - essentials.kick.exempt
+    - essentials.kill
+    - essentials.kill.force
+    - essentials.killall
+    - essentials.lightning
+    - essentials.lightning.others
+    - essentials.mute
+    - essentials.mute.exempt
+    - essentials.mute.notify
+    - essentials.socialspy
+    - essentials.sudo
+    - essentials.sudo.exempt
+    - essentials.tempban
+    - essentials.tempban.exempt
+    - essentials.tempban.offline
+    - essentials.thunder
+    - essentials.jail.exempt
+    - essentials.togglejail
+    - essentials.unban
+    - essentials.list.hidden
+    - essentials.vanish
+    - essentials.vanish.see
+    - essentials.spawn.others
+    - essentials.worlds.*
+    - essentials.home.others
+    - essentials.jump
+    - essentials.tp
+    - essentials.tp.others
+    - essentials.teleport.hidden
+    - factions.*
+    - essentials.tphere
+    - essentials.tppos
+    - essentials.teleport.cooldown.bypass
+    - essentials.teleport.timer.move
+    - essentials.world
+    - essentials.chat.spy
+    - essentials.gamemode
+    - essentials.gamemode.*
+    - simplevanish.*
+    options:
+      rank: '100'
+  Admin:
+    prefix: '&0(&4A&cdmin&0)&2 '
+    inheritance:
+    - Moderator
+    permissions:
+    - essentials.nick.magic
+    - essentials.nick.format
+    - essentials.nick.color
+    - essentials.realname
+    - essentials.backup
+    - essentials.ban.notify
+    - essentials.banip
+    - essentials.enderchest.modify
+    - essentials.enderchest.others
+    - essentials.kick.notify
+    - essentials.kickall
+    - essentials.nuke
+    - essentials.setjail
+    - essentials.tempban.unlimited
+    - essentials.jail.exempt
+    - essentials.togglejail.offline
+    - essentials.tptoggle.others
+    - essentials.unban
+    - essentials.teleport.hidden
+    - essentials.setspawn
+    - essentials.delwarp
+    - essentials.sethome.others
+    - essentials.setwarp
+    - -essentials.enchant
+    options:
+      rank: '2'
+  SAdmin:
+    prefix: '&0(&4Super A&cdmin&0)&2 '
+    inheritance:
+    - Admin
+    permissions:
+    - -modifyworld.mobtarget.*
+    - -essentials.unbanip
+    - -permissions.*
+    - -essentials.enchant
+    - Quake.diamond
+    - '*'
+    options:
+      rank: '1'
+  Creator:
+    prefix: '&0(&4C&dreateur&0)&4 '
+    inheritance:
+    - Admin
+    permissions:
+    - -modifyworld.mobtarget.*
+    - essentials.unbanip
+    - '*'
+    options:
+      rank: '1'
+users:
+  eyesofcreeper:
+    group:
+    - Creator
+  kirihara_yukawa:
+    group:
+    - Builder
+  fable999:
+    group:
+    - Builder
+  Donuts:
+    group:
+    - Creator

@@ -1,0 +1,45 @@
+lastlocation:
+  world: world
+  x: 9135.808556630218
+  y: 67.78502770378924
+  z: 9548.588574978792
+  yaw: -78.91372
+  pitch: 34.500027
+timestamps:
+  login: 1377070529529
+  logout: 1377071986851
+  kits:
+    vip: 1376994946501
+    tools: 1370532156569
+    color: 1372865381428
+    firework: 1372882618274
+    start: 1375435812117
+    notch: 1373318335224
+  lastteleport: 1377071292854
+  lastheal: 1372922715958
+  mute: 0
+ipAddress: 109.215.123.220
+logoutlocation:
+  world: world
+  x: 9196.008734168967
+  y: 73.0
+  z: 9549.017285278196
+  yaw: -70.51375
+  pitch: 45.30001
+homes:
+  home:
+    world: world
+    x: 8473.259654776122
+    y: 70.0
+    z: 8985.773719141042
+    yaw: -249.06128
+    pitch: 37.684223
+money: '20380.0'
+afk: false
+nickname: Gumknuckles
+powertools: {}
+ban:
+  reason: 'Banni : les insultes envers les autres surtout de cette empleur devant
+    moi c''est non'
+  timeout: 0
+muted: false

@@ -1,0 +1,843 @@
+# Citizens NPC Storage
+
+npc:
+  '0':
+    traits:
+      spawned: true
+      equipment:
+        hand:
+          type: 272
+          amount: 1
+          durability: 0
+          mdata: 0
+      location:
+        world: world
+        x: '9127.458922424274'
+        y: '67.0'
+        z: '9536.088511698277'
+        yaw: '-6296.0068359375'
+        pitch: '0.0'
+      owner: eyesofcreeper
+      sentry:
+        Spawn:
+          x: '9126.949015394563'
+          y: '67.0'
+          z: '9543.409993023548'
+          world: world
+          yaw: '-521096.03125'
+          pitch: '0.0'
+        toggled: true
+        Retaliate: true
+        Invincinble: false
+        DropInventory: true
+        KillDrops: true
+        CriticalHits: true
+        Targets: []
+        Ignores: []
+        Health: 20
+        Range: 10
+        RespawnDelay: 1
+        Speed: '1.0'
+        Weight: '1.0'
+        HealRate: '0.0'
+        Armor: 3
+        Strength: 1
+        WarningRange: 0
+        AttackRate: '2.0'
+        NightVision: 16
+        FollowDistance: 4
+        Warning: '&c<NPC> says Halt! Come no closer!'
+        Greeting: '&a<NPC> says Welcome, <PLAYER>'
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '9126.0'
+                y: '65.0'
+                z: '9548.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '9127.0'
+                y: '63.0'
+                z: '9532.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '9139.0'
+                y: '66.0'
+                z: '9549.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+    name: Garde 1
+    traitnames: owner,waypoints,spawned,type,sentry,location,equipment
+    navigator:
+      speed: '1.0'
+      pathfindingrange: '25.0'
+      stationaryticks: 100
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '1':
+    traits:
+      equipment:
+        hand:
+          type: 261
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type: 310
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: 311
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: 312
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: 313
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      location:
+        world: world
+        x: '9121.495140831714'
+        y: '72.0'
+        z: '9572.894650208127'
+        yaw: '19619.83203125'
+        pitch: '0.0'
+      sentry:
+        Spawn:
+          x: '9123.468285186404'
+          y: '72.0'
+          z: '9573.467238444184'
+          world: world
+          yaw: '309597.25'
+          pitch: '0.0'
+        toggled: true
+        Retaliate: true
+        Invincinble: false
+        DropInventory: false
+        KillDrops: true
+        CriticalHits: true
+        Targets:
+        - ENTITY:MONSTER
+        Ignores: []
+        Health: 20
+        Range: 10
+        RespawnDelay: 1
+        Speed: '1.0'
+        Weight: '1.0'
+        HealRate: '0.0'
+        Armor: 0
+        Strength: 1
+        WarningRange: 0
+        AttackRate: '2.0'
+        NightVision: 16
+        FollowDistance: 4
+        Warning: '&c<NPC> says Halt! Come no closer!'
+        Greeting: '&a<NPC> says Welcome, <PLAYER>'
+      owner: eyesofcreeper
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '9123.0'
+                y: '71.0'
+                z: '9572.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '9123.0'
+                y: '71.0'
+                z: '9574.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '9121.0'
+                y: '71.0'
+                z: '9574.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: world
+                x: '9121.0'
+                y: '71.0'
+                z: '9572.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+    name: archer 1
+    traitnames: owner,waypoints,spawned,type,sentry,location,equipment
+    navigator:
+      speed: '1.0'
+      pathfindingrange: '25.0'
+      stationaryticks: 100
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    traits:
+      spawned: true
+      location:
+        world: world
+        x: '9188.986501325193'
+        y: '72.0'
+        z: '9533.397628594836'
+        yaw: '56.92543029785156'
+        pitch: '-19.443876266479492'
+      blacksmith:
+        messages:
+          busy-with-player: §cI'm busy at the moment. Come back later!
+          busy-with-reforge: §cI'm working on it. Be patient!
+          invalid-item: §cI'm sorry, but I don't know how to reforge that!
+          start-reforge: §eOk, let's see what I can do...
+          successful-reforge: There you go! All better!
+          fail-reforge: §cWhoops! Didn't mean to do that! Maybe next time?
+          insufficient-funds: §cYou don't have enough money to reforge that item!
+          cooldown-not-expired: §cYou've already had your chance! Give me a break!
+          item-changed-during-reforge: §cThat's not the item you wanted to reforge before!
+          cost: §eIt will cost §a<price> §eto reforge that §a<item>§e! Click again to reforge!
+        delays-in-seconds:
+          minimum: 5
+          maximum: 30
+          reforge-cooldown: 60
+        percent-chance-to-fail-reforge: 10
+        percent-chance-for-extra-enchantment: 5
+        maximum-enchantments: 3
+        drop-item: true
+      owner: Isildur
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    name: Forgeron
+    traitnames: owner,spawned,type,lookclose,location
+    navigator:
+      speed: '1.0'
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '4':
+    traits:
+      type: Pig
+      spawned: true
+      location:
+        world: world
+        x: '9117.70263771083'
+        y: '63.0'
+        z: '9502.302329386182'
+        yaw: '-11.671295166015625'
+        pitch: '0.0'
+      age:
+        age: -24000
+        locked: true
+      sentry:
+        Spawn:
+          x: '9117.70263771083'
+          y: '63.0'
+          z: '9502.302329386182'
+          world: world
+          yaw: '-11.671295166015625'
+          pitch: '0.0'
+        toggled: true
+        Retaliate: true
+        Invincinble: false
+        DropInventory: false
+        KillDrops: true
+        CriticalHits: true
+        Targets: []
+        Ignores: []
+        Health: 20
+        Range: 10
+        RespawnDelay: 10
+        Speed: '1.0'
+        Weight: '1.0'
+        HealRate: '0.0'
+        Armor: 0
+        Strength: 1
+        WarningRange: 0
+        AttackRate: '2.0'
+        NightVision: 16
+        FollowDistance: 4
+        Warning: '&c<NPC> says Halt! Come no closer!'
+        Greeting: '&a<NPC> says Welcome, <PLAYER>'
+      owner: Isildur
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    name: Cochon
+    traitnames: age,owner,spawned,type,lookclose,sentry,location
+    navigator:
+      speed: '0.27000001072883606'
+      pathfindingrange: '25.0'
+      stationaryticks: 100
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '5':
+    traits:
+      spawned: true
+      equipment:
+        hand:
+          type: 267
+          amount: 1
+          durability: 0
+          mdata: 0
+      location:
+        world: world
+        x: '9140.5863402009'
+        y: '67.0'
+        z: '9544.099866444494'
+        yaw: '171.8651123046875'
+        pitch: '0.0'
+      owner: eyesofcreeper
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '9142.0'
+                y: '67.0'
+                z: '9567.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '9141.0'
+                y: '66.0'
+                z: '9549.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '9139.0'
+                y: '67.0'
+                z: '9536.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: world
+                x: '9143.0'
+                y: '66.0'
+                z: '9532.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '4':
+              location:
+                world: world
+                x: '9129.0'
+                y: '66.0'
+                z: '9520.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '5':
+              location:
+                world: world
+                x: '9126.0'
+                y: '66.0'
+                z: '9541.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '6':
+              location:
+                world: world
+                x: '9137.0'
+                y: '67.0'
+                z: '9539.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      sentry:
+        Spawn:
+          x: '9128.991924266744'
+          y: '67.0'
+          z: '9541.471441937043'
+          world: world
+          yaw: '-96.51179504394531'
+          pitch: '0.0'
+        toggled: true
+        Retaliate: true
+        Invincinble: false
+        DropInventory: true
+        KillDrops: true
+        CriticalHits: true
+        Targets: []
+        Ignores: []
+        Health: 150
+        Range: 10
+        RespawnDelay: 1
+        Speed: '1.0'
+        Weight: '1.0'
+        HealRate: '0.0'
+        Armor: 0
+        Strength: 1
+        WarningRange: 0
+        AttackRate: '2.0'
+        NightVision: 16
+        FollowDistance: 4
+        Warning: '&c<NPC> says Halt! Come no closer!'
+        Greeting: '&a<NPC> says Welcome, <PLAYER>'
+    name: garde 2
+    traitnames: owner,waypoints,spawned,type,sentry,equipment,location
+    navigator:
+      speed: '1.0'
+      pathfindingrange: '25.0'
+      stationaryticks: 100
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '6':
+    traits:
+      spawned: true
+      equipment:
+        hand:
+          type: 276
+          amount: 1
+          durability: 0
+          mdata: 0
+      location:
+        world: world
+        x: '9125.756158965074'
+        y: '67.0'
+        z: '9549.948239018042'
+        yaw: '3784.936767578125'
+        pitch: '0.0'
+      sentry:
+        Spawn:
+          x: '9135.13961056877'
+          y: '67.0'
+          z: '9550.069945786548'
+          world: world
+          yaw: '268.3226013183594'
+          pitch: '34.089599609375'
+        toggled: true
+        Retaliate: true
+        Invincinble: false
+        DropInventory: true
+        KillDrops: true
+        CriticalHits: true
+        Targets: []
+        Ignores: []
+        Health: 99999
+        Range: 10
+        RespawnDelay: 10
+        Speed: '1.0'
+        Weight: '1.0'
+        HealRate: '0.0'
+        Armor: 0
+        Strength: 1
+        WarningRange: 0
+        AttackRate: '2.0'
+        NightVision: 16
+        FollowDistance: 4
+        Warning: '&c<NPC> says Halt! Come no closer!'
+        Greeting: '&a<NPC> says Welcome, <PLAYER>'
+      owner: eyesofcreeper
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '9132.0'
+                y: '66.0'
+                z: '9535.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '9132.0'
+                y: '66.0'
+                z: '9534.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '9140.0'
+                y: '67.0'
+                z: '9553.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: world
+                x: '9125.0'
+                y: '66.0'
+                z: '9550.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+    name: eyesofcreeper
+    traitnames: owner,waypoints,spawned,type,sentry,equipment,location
+    navigator:
+      speed: '1.0'
+      pathfindingrange: '25.0'
+      stationaryticks: 100
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '7':
+    traits:
+      spawned: true
+      equipment:
+        hand:
+          type: 373
+          amount: 1
+          durability: 16428
+          mdata: 44
+      location:
+        world: world
+        x: '9127.130558874811'
+        y: '67.0'
+        z: '9550.81045340066'
+        yaw: '-24141.701171875'
+        pitch: '0.0'
+      sentry:
+        Spawn:
+          x: '9129.329790382291'
+          y: '67.42159999847412'
+          z: '9550.559976052464'
+          world: world
+          yaw: '-1905949.0'
+          pitch: '0.0'
+        toggled: true
+        Retaliate: true
+        Invincinble: false
+        DropInventory: true
+        KillDrops: true
+        CriticalHits: true
+        Targets: []
+        Ignores: []
+        Health: 100
+        Range: 10
+        RespawnDelay: 1
+        Speed: '1.0'
+        Weight: '1.0'
+        HealRate: '0.0'
+        Armor: 0
+        Strength: 1
+        WarningRange: 0
+        AttackRate: '2.0'
+        NightVision: 16
+        FollowDistance: 4
+        Warning: '&c<NPC> says Halt! Come no closer!'
+        Greeting: '&a<NPC> says Welcome, <PLAYER>'
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '9129.0'
+                y: '66.0'
+                z: '9550.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '9127.0'
+                y: '66.0'
+                z: '9550.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      owner: eyesofcreeper
+    name: alchimiste
+    traitnames: owner,waypoints,spawned,type,sentry,equipment,location
+    navigator:
+      speed: '1.0'
+      pathfindingrange: '25.0'
+      stationaryticks: 100
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '3':
+    traits:
+      spawned: true
+      equipment:
+        hand:
+          type: 261
+          amount: 1
+          durability: 0
+          mdata: 0
+      location:
+        world: world
+        x: '9122.915521688483'
+        y: '72.0'
+        z: '9574.502594980493'
+        yaw: '19887.548828125'
+        pitch: '0.0'
+      sentry:
+        Spawn:
+          x: '9122.73913558198'
+          y: '72.0'
+          z: '9574.44018866689'
+          world: world
+          yaw: '579685.9375'
+          pitch: '0.0'
+        toggled: true
+        Retaliate: true
+        Invincinble: false
+        DropInventory: true
+        KillDrops: true
+        CriticalHits: true
+        Targets: []
+        Ignores: []
+        Health: 30
+        Range: 10
+        RespawnDelay: 1
+        Speed: '1.0'
+        Weight: '1.0'
+        HealRate: '0.0'
+        Armor: 0
+        Strength: 1
+        WarningRange: 0
+        AttackRate: '2.0'
+        NightVision: 16
+        FollowDistance: 4
+        Warning: '&c<NPC> says Halt! Come no closer!'
+        Greeting: '&a<NPC> says Welcome, <PLAYER>'
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '9121.0'
+                y: '71.0'
+                z: '9572.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '9123.0'
+                y: '71.0'
+                z: '9572.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '9123.0'
+                y: '71.0'
+                z: '9574.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: world
+                x: '9121.0'
+                y: '71.0'
+                z: '9574.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      owner: eyesofcreeper
+    name: archer 2
+    traitnames: owner,waypoints,spawned,type,sentry,location,equipment
+    navigator:
+      speed: '1.0'
+      pathfindingrange: '25.0'
+      stationaryticks: 100
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '8':
+    traits:
+      equipment:
+        hand:
+          type: 76
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type: 306
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: 299
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: 300
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: 309
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      location:
+        world: world
+        x: '9132.74892916761'
+        y: '67.0'
+        z: '9562.35584957082'
+        yaw: '57.02177429199219'
+        pitch: '0.0'
+      owner: eyesofcreeper
+      sentry:
+        Spawn:
+          x: '9133.451791264473'
+          y: '66.52652221370892'
+          z: '9561.465654741238'
+          world: world
+          yaw: '3565237.25'
+          pitch: '0.0'
+        toggled: true
+        Retaliate: true
+        Invincinble: false
+        DropInventory: true
+        KillDrops: true
+        CriticalHits: true
+        Targets: []
+        Ignores: []
+        Health: 200
+        Range: 10
+        RespawnDelay: 1
+        Speed: '1.0'
+        Weight: '1.0'
+        HealRate: '0.0'
+        Armor: 0
+        Strength: 1
+        WarningRange: 0
+        AttackRate: '2.0'
+        NightVision: 16
+        FollowDistance: 4
+        Warning: '&c<NPC> says Halt! Come no closer!'
+        Greeting: '&a<NPC> says Welcome, <PLAYER>'
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '9132.0'
+                y: '68.0'
+                z: '9562.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '9132.0'
+                y: '68.0'
+                z: '9562.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '9132.0'
+                y: '68.0'
+                z: '9562.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+    name: canon
+    traitnames: owner,waypoints,spawned,type,sentry,equipment,location
+    navigator:
+      speed: '1.0'
+      pathfindingrange: '25.0'
+      stationaryticks: 100
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '9':
+    name: boblennon
+    traits:
+      owner: eyesofcreeper
+      equipment:
+        hand:
+          type: 373
+          amount: 1
+          durability: 16428
+          mdata: 44
+        helmet:
+          type: 397
+          amount: 1
+          durability: 4
+          mdata: 4
+      sentry:
+        toggled: true
+        Retaliate: true
+        Invincinble: false
+        DropInventory: true
+        KillDrops: true
+        CriticalHits: true
+        Targets:
+        - PLAYER:SOYKABRA
+        Ignores: []
+        Spawn:
+          x: '10075.699999988079'
+          y: '63.0'
+          z: '-10012.300000011921'
+          world: world
+          yaw: '176.61636352539062'
+          pitch: '0.0'
+        Range: 100
+        RespawnDelay: 10
+        Speed: '1.0'
+        Weight: '1.0'
+        HealRate: '0.0'
+        Armor: 2
+        Strength: 1
+        WarningRange: 0
+        AttackRate: '2.0'
+        NightVision: 16
+        FollowDistance: 4
+        Warning: '&c<NPC> says Halt! Come no closer!'
+        Greeting: '&a<NPC> says Welcome, <PLAYER>'
+      location:
+        world: world
+        x: '10075.699999988079'
+        y: '63.0'
+        z: '-10012.300000011921'
+        yaw: '176.61636352539062'
+        pitch: '0.0'
+      spawned: true
+    traitnames: owner,spawned,type,sentry,equipment,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: 100
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+last-created-npc-id: 9

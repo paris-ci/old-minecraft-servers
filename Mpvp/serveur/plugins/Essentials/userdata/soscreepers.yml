@@ -1,0 +1,32 @@
+lastlocation:
+  world: plotworld
+  x: -126.83611554290438
+  y: 66.60000002384186
+  z: -125.66212965349568
+  yaw: -186.61792
+  pitch: 25.303082
+timestamps:
+  login: 1375561420306
+  logout: 1375561891263
+  lastteleport: 1375560961332
+  kits:
+    start: 1375106222244
+    color: 1375106284090
+    firework: 1375277103210
+    notch: 1375106182042
+ipAddress: 77.200.194.162
+logoutlocation:
+  world: plotworld
+  x: -131.47555428693747
+  y: 65.0
+  z: -134.36713267633166
+  yaw: 340.57126
+  pitch: -1.3111026
+money: '415.0'
+mail:
+- 'eyesofcreeper: Pour me repondre : /mail send eyesofcreeper MESSAGE'
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

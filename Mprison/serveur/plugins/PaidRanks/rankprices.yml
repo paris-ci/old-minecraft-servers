@@ -1,0 +1,24 @@
+DefaultPaidRanks:
+  #Format =    <rank>:   Example below.
+  #Required      Price: <price>
+  #Optional      permission: <permission>
+  
+  #When true it will use /rankup
+  Enabled: true
+  #There must be a permission here.
+  Permission: paidranks.normal
+  d:
+    Price: 0
+    #This one is optional
+  # ^^^^ These are examples of permissions with groups
+  #vvv it can look like this too. But it will use the Permission defined at the top.
+  c:
+    Price: 15000
+  b:
+    Price: 40000
+  a:
+    Price: 75000
+  f:
+    Price: 100000
+  guard_test:
+    Price: 1000000

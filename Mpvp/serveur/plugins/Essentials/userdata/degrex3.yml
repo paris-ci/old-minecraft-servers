@@ -1,0 +1,23 @@
+lastlocation:
+  world: world
+  x: 2965.8786597883636
+  y: 110.0
+  z: 4625.792777296147
+  yaw: -260.45212
+  pitch: -1.1229379
+timestamps:
+  login: 1374670134166
+  lastteleport: 1374673497333
+  logout: 1374674373133
+ipAddress: 90.57.101.193
+ban:
+  reason: 'Banni : pas d''insultes meme sur skype'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: 9198.208156884722
+  y: 73.0
+  z: 9549.248034433522
+  yaw: -270.3141
+  pitch: 8.9184065
+money: '326.0'

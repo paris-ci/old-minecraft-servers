@@ -1,0 +1,35 @@
+lastlocation:
+  world: world
+  x: 9198.0
+  y: 73.0
+  z: 9549.0
+  yaw: 0.0
+  pitch: 0.0
+timestamps:
+  login: 1374682956444
+  logout: 1374683024598
+  lastteleport: 1374666959750
+  kits:
+    start: 1374619652759
+ipAddress: 92.147.81.217
+logoutlocation:
+  world: world
+  x: 10043.046887906807
+  y: 73.16610926093821
+  z: 11210.811173135919
+  yaw: -82.95125
+  pitch: 10.349998
+money: '1427.0'
+homes:
+  home:
+    world: world
+    x: 9884.816765020005
+    y: 180.0
+    z: 9796.095250531816
+    yaw: 90.104614
+    pitch: 4.649985
+afk: false
+ban:
+  reason: 'Banni : insultes envers joueurs je suis en convo skype avec ces personnes
+    pour iformation'
+  timeout: 0

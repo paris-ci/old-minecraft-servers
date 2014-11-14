@@ -1,0 +1,19 @@
+lastlocation:
+  world: world
+  x: 9198.0
+  y: 73.0
+  z: 9549.0
+  yaw: 0.0
+  pitch: 0.0
+timestamps:
+  login: 1375826442514
+  logout: 1375826522859
+ipAddress: 2.88.14.86
+logoutlocation:
+  world: world
+  x: 9187.61659110472
+  y: 61.0
+  z: 9525.665270786123
+  yaw: -193.24483
+  pitch: -41.259083
+money: '77.0'

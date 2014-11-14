@@ -1,0 +1,44 @@
+lastlocation:
+  world: world
+  x: 9124.023836077833
+  y: 102.0
+  z: 9558.957554560971
+  yaw: -27.476288
+  pitch: 90.0
+timestamps:
+  login: 1377039191368
+  logout: 1377039664612
+  lastteleport: 1373196853182
+  kits:
+    tools: 1370695295708
+    firework: 1370377036850
+ipAddress: 90.7.192.126
+logoutlocation:
+  world: world
+  x: 9110.699999988079
+  y: 65.0
+  z: 9568.420593296894
+  yaw: -247.9574
+  pitch: 26.306286
+money: '4844.0'
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0
+godmode: false
+homes:
+  spawnerblaze:
+    world: world_nether
+    x: 198.41097147387296
+    y: 70.0
+    z: -103.54820854777766
+    yaw: -89.71008
+    pitch: 44.700005
+  nether:
+    world: world_nether
+    x: 128.02625119858547
+    y: 51.0
+    z: -17.90788238437009
+    yaw: 3.3932629
+    pitch: 42.75001
+socialspy: true
+afk: false

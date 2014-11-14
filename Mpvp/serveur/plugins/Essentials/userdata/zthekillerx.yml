@@ -1,0 +1,24 @@
+lastlocation:
+  world: world
+  x: 9152.676213350434
+  y: 55.0
+  z: 9400.871795466346
+  yaw: 23.438683
+  pitch: -46.075935
+timestamps:
+  login: 1374624996639
+  lastteleport: 1374625499886
+  logout: 1374625581736
+  kits:
+    firework: 1374622531541
+    start: 1374622453492
+    notch: 1374622502844
+ipAddress: 187.126.130.216
+money: '219.0'
+logoutlocation:
+  world: world
+  x: 9097.748608266376
+  y: 74.0
+  z: 9580.731010361795
+  yaw: -326.01697
+  pitch: 36.232227

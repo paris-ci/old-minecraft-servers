@@ -1,0 +1,164 @@
+settings:
+  permissionsdebug:
+    enabled: false
+  declinerules:
+    enabled: false
+    rankup: prisoner
+  acceptrules:
+    enabled: false
+    rankup: user
+    rulepages: 3
+    playersneedtoreadrules: false
+  signtext: '[RankUp]'
+  vault:
+    enabled: true
+  tellplayerstoreadrules:
+    scheduletime: 30
+    enabled: false
+    antipermission: CommandRank.DoNotToReadRules
+  rankupinformation:
+    enabled: true
+  dontadddefaults: true
+autorankups:
+  main:
+    enabled: true
+    scheduletime: 600
+  explevel:
+    enabled: false
+    list:
+    - 5:user
+    - 30:builder
+  points:
+    enabled: false
+    list:
+    - 500:user
+    - 2500:builder
+  kills:
+    enabled: true
+    list:
+    - 1:Member
+    - 50:MemberKnown
+  onlinetime:
+    enabled: true
+    list:
+    - 3600:user
+    - 36000:builder
+commandrankuplist:
+  enabled: false
+  list:
+  - CommandRank.isGroup.user:builder
+  - CommandRank.isGroup.guest:user
+passwordrankuplist:
+  enabled: false
+  list:
+  - password:user
+  - 9f8zfsio:builder
+rankups:
+  membre:
+    message: '&4Tu fais maintenant reelement partie du serveur !!'
+    economy:
+      price: 500
+      enabled: false
+    onlinetime:
+      time: 3600
+      enabled: true
+    needxplevel:
+      amount: 10
+      enabled: false
+    needitems:
+      list:
+      - LOG:10
+      - DIRT:60
+      enabled: false
+    needkills:
+      amount: 0
+      enabled: false
+    commands:
+      byplayer:
+        list:
+        - warp user
+        - me is now user
+        enabled: true
+      byconsole:
+        list:
+        - permissions player setgroup %name% user
+        - heal %name%
+        - feed %name%
+        enabled: true
+    giveitems:
+      list:
+      - LOG:10
+      - TORCH:15
+      equiparmor: false
+      enabled: true
+  builder:
+    message: '&4You are now builder!'
+    economy:
+      price: 1500
+      enabled: false
+    onlinetime:
+      time: 36000
+      enabled: false
+    needxplevel:
+      amount: 40
+      enabled: true
+    needkills:
+      amount: 50
+      enabled: false
+    needitems:
+      list:
+      - DIAMOND_BLOCK:2
+      - IRON_INGOT:40
+      enabled: false
+    commands:
+      byplayer:
+        list:
+        - warp builder
+        - me is now builder
+        enabled: true
+      byconsole:
+        list:
+        - permissions player setgroup %name% builder
+        - heal %name%
+        - feed %name%
+        enabled: true
+    giveitems:
+      list:
+      - WOOL:64
+      - GLASS:64
+      - OBSIDIAN:10
+      equiparmor: false
+      enabled: false
+  prisoner:
+    message: '&4You are now prisoner!'
+    economy:
+      price: 0
+      enabled: false
+    onlinetime:
+      time: 0
+      enabled: false
+    needxplevel:
+      amount: 0
+      enabled: false
+    needkills:
+      amount: 0
+      enabled: false
+    needitems:
+      list:
+      - DIRT:1
+      enabled: false
+    commands:
+      byplayer:
+        list:
+        - warp prison
+        - me is now prisoner...
+        enabled: true
+      byconsole:
+        list:
+        - permissions player setgroup %name% prisoner
+        enabled: true
+    giveitems:
+      list:
+      - DIRT:1
+      equiparmor: false
+      enabled: false

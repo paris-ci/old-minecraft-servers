@@ -1,0 +1,25 @@
+lastlocation:
+  world: world_nether
+  x: 938.3849364932499
+  y: 53.0
+  z: 1457.5126603961457
+  yaw: 98.0061
+  pitch: 17.100018
+timestamps:
+  login: 1374445142112
+  lastteleport: 1374445454950
+  kits:
+    start: 1374443161597
+  logout: 1374445556350
+ipAddress: 90.7.207.246
+logoutlocation:
+  world: world
+  x: 9996.79194492301
+  y: 58.0
+  z: 11155.941301236562
+  yaw: 74.10126
+  pitch: 22.049984
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0
+money: '187.0'

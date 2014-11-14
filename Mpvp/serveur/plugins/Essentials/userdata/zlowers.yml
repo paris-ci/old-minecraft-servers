@@ -1,0 +1,25 @@
+timestamps:
+  login: 1376569025146
+  lastteleport: 1375629032812
+  kits:
+    start: 1376569063685
+    color: 1375628590958
+    firework: 1375628727150
+    notch: 1376569061173
+  logout: 1376569471159
+ipAddress: 78.227.133.177
+lastlocation:
+  world: world
+  x: 9124.084129142824
+  y: 103.46906598197572
+  z: 9558.798755733806
+  yaw: 273.72668
+  pitch: 78.77973
+logoutlocation:
+  world: world
+  x: 9063.558669958546
+  y: 65.0
+  z: 9561.946311715325
+  yaw: 262.10065
+  pitch: 6.140736
+money: '172.0'

@@ -1,0 +1,21 @@
+timestamps:
+  login: 1378137842392
+  logout: 1378137931334
+  jail: 0
+ipAddress: 2.14.182.80
+lastlocation:
+  world: world
+  x: 45.458365868182696
+  y: 63.0
+  z: -128.38998925758293
+  yaw: -21.760468
+  pitch: -8.250432
+logoutlocation:
+  world: world
+  x: 70.83988569463413
+  y: 76.875
+  z: -312.02430101199195
+  yaw: -255.47711
+  pitch: 16.65001
+afk: false
+jailed: false

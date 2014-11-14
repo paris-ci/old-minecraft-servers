@@ -1,0 +1,23 @@
+timestamps:
+  login: 1379176508148
+  logout: 1379176531050
+  lastteleport: 1378309251410
+ipAddress: 92.139.101.230
+lastlocation:
+  world: world
+  x: 9195.59896686435
+  y: 90.0
+  z: 9551.504898855215
+  yaw: 93.152275
+  pitch: 21.951576
+logoutlocation:
+  world: world
+  x: 9202.380421036516
+  y: 95.11439199948106
+  z: 9546.757715657777
+  yaw: 2.702301
+  pitch: 17.751575
+afk: false
+ban:
+  reason: Banni temporairement du serveur pour 59 secondes.
+  timeout: 0

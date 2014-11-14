@@ -1,0 +1,22 @@
+lastlocation:
+  world: world
+  x: 9198.5
+  y: 73.0
+  z: 9549.5
+  yaw: -270.3141
+  pitch: 8.9184065
+timestamps:
+  login: 1375544243704
+  logout: 1375544704248
+ipAddress: 81.14.70.157
+logoutlocation:
+  world: world
+  x: 9180.738175605897
+  y: 72.0
+  z: 9549.336277584982
+  yaw: -238.35034
+  pitch: 15.000013
+ban:
+  reason: 'Banni : c''est de la bombe'
+  timeout: 0
+money: '14.0'

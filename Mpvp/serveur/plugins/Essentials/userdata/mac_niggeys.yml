@@ -1,0 +1,25 @@
+lastlocation:
+  world: world
+  x: 9170.297662657073
+  y: 72.0
+  z: 9547.00674848044
+  yaw: -274.21408
+  pitch: 33.749985
+timestamps:
+  login: 1375785849018
+  logout: 1375786611406
+  lastteleport: 1375785902498
+  kits:
+    start: 1375711037159
+ipAddress: 88.165.17.11
+logoutlocation:
+  world: plotworld
+  x: -41.568558612495174
+  y: 123.3148347780661
+  z: -47.78798240822347
+  yaw: 285.7345
+  pitch: 76.649994
+money: '26.0'
+ban:
+  reason: 'Banni : insultes & flood'
+  timeout: 0

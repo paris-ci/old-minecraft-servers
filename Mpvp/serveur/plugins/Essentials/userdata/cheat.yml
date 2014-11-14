@@ -1,0 +1,27 @@
+lastlocation:
+  world: world
+  x: 9183.539236357998
+  y: 68.5
+  z: 9537.788116176718
+  yaw: -190.51428
+  pitch: 35.16841
+timestamps:
+  login: 1373735969725
+  logout: 1373735978718
+  lastteleport: 1373735760269
+  mute: 0
+  jail: 0
+  kits:
+    notch: 1372939418896
+ipAddress: 78.125.188.72
+logoutlocation:
+  world: world
+  x: 5808.2125565429105
+  y: 63.0
+  z: 9659.389051069735
+  yaw: 21.334051
+  pitch: 16.934422
+money: '794.0'
+muted: false
+jailed: false
+afk: false

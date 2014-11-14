@@ -1,0 +1,26 @@
+lastlocation:
+  world: world_the_end
+  x: 100.5
+  y: 49.0
+  z: 0.5
+  yaw: 92.45755
+  pitch: 0.61441827
+timestamps:
+  login: 1375548216953
+  kits:
+    firework: 1375548334440
+    color: 1375548303259
+    start: 1375548256418
+    notch: 1375548269059
+  lastteleport: 1375549058282
+  logout: 1375549056327
+ipAddress: 188.54.44.239
+afk: false
+logoutlocation:
+  world: world_the_end
+  x: 100.5
+  y: 49.0
+  z: 0.5
+  yaw: 92.45755
+  pitch: 0.61441827
+money: '137.0'

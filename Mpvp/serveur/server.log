@@ -1,0 +1,1281 @@
+2014-11-14 23:58:29 [INFO] Starting minecraft server version 1.6.2
+2014-11-14 23:58:29 [INFO] Loading properties
+2014-11-14 23:58:29 [INFO] Default game type: SURVIVAL
+2014-11-14 23:58:30 [INFO] This server is running CraftBukkit version git-Spigot-1067 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2014-11-14 23:58:30 [INFO] Generating keypair
+2014-11-14 23:58:31 [INFO] Starting Minecraft server on *:25560
+2014-11-14 23:58:32 [INFO] DataSourcePool [TeleportSigns] autoCommit[false] transIsolation[SERIALIZABLE] min[2] max[20]
+2014-11-14 23:58:34 [INFO] SubClassFactory parent ClassLoader [org.bukkit.plugin.java.PluginClassLoader]
+2014-11-14 23:58:39 [INFO] Entities enhanced[0] subclassed[1]
+2014-11-14 23:58:40 [INFO] [PermissionsEx] sql backend registered!
+2014-11-14 23:58:40 [INFO] [PermissionsEx] file backend registered!
+2014-11-14 23:58:40 [INFO] [PermissionsEx] PermissionEx plugin initialized.
+2014-11-14 23:58:41 [INFO] [TeleportSigns] Loading TeleportSigns v1.3-b45
+2014-11-14 23:58:41 [INFO] [WorldEdit] Loading WorldEdit v5.5.6
+2014-11-14 23:58:41 [INFO] [Wardrobe] Loading Wardrobe v1.5
+2014-11-14 23:58:41 [INFO] [Spawner] Loading Spawner v1.7b
+2014-11-14 23:58:41 [INFO] [NoCheatPlus] Loading NoCheatPlus v3.10.1-SNAPSHOT-sMD5NET-b600
+2014-11-14 23:58:41 [INFO] [BattleTracker] Loading BattleTracker v2.5.3.7.1
+2014-11-14 23:58:41 [INFO] [CommandRank] Loading CommandRank v3.1.6
+2014-11-14 23:58:41 [INFO] [SuperJump] Loading SuperJump v0.8
+2014-11-14 23:58:41 [INFO] [mcore] Loading mcore v6.5.0
+2014-11-14 23:58:41 [INFO] [Vault] Loading Vault v1.2.25-b320
+2014-11-14 23:58:41 [INFO] [SimpleVanish] Loading SimpleVanish v0.4
+2014-11-14 23:58:41 [INFO] [PlotMe] Loading PlotMe v0.13b
+2014-11-14 23:58:41 [INFO] [PlayerHeads] Loading PlayerHeads v3.2-jenkins-PlayerHeads-1-11-gb37e970
+2014-11-14 23:58:41 [INFO] [PermissionsEx] Loading PermissionsEx v1.19.5
+2014-11-14 23:58:41 [INFO] [PermissionsEx] Initializing file backend
+2014-11-14 23:58:41 [INFO] Permissions file successfully reloaded
+2014-11-14 23:58:41 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+2014-11-14 23:58:41 [INFO] [CombatTag] Loading CombatTag v5.9.2
+2014-11-14 23:58:41 [INFO] [CookieMonster] Loading CookieMonster v1.7.4.1
+2014-11-14 23:58:41 [INFO] [WorldGuard] Loading WorldGuard v5.7.4
+2014-11-14 23:58:41 [INFO] [RemoteToolkitPlugin] Loading RemoteToolkitPlugin vR10_A14.5
+2014-11-14 23:58:41 [INFO] [ToolStats] Loading ToolStats v1.1.4
+2014-11-14 23:58:41 [INFO] [DoubleJump] Loading DoubleJump v0.1
+2014-11-14 23:58:41 [INFO] [GlobalMarket] Loading GlobalMarket v1.2.2
+2014-11-14 23:58:41 [INFO] [AutoMessage] Loading AutoMessage v2.3.1
+2014-11-14 23:58:41 [INFO] [MessageControl] Loading MessageControl v1.5
+2014-11-14 23:58:41 [INFO] [JukeBoxGUI] Loading JukeBoxGUI v1.5.2
+2014-11-14 23:58:41 [INFO] [BanSync] Loading BanSync v1.0-b30
+2014-11-14 23:58:41 [INFO] [AntiAdvertising] Loading AntiAdvertising v2.1.5
+2014-11-14 23:58:41 [INFO] [PvPReward] Loading PvPReward v1.9.0
+2014-11-14 23:58:41 [INFO] [Modifyworld] Loading Modifyworld v1.19.4
+2014-11-14 23:58:41 [INFO] [Essentials] Loading Essentials vDev2.12.53
+2014-11-14 23:58:41 [INFO] [Citizens] Loading Citizens v2.0.9-SNAPSHOT (build 912)
+2014-11-14 23:58:41 [INFO] [EssentialsProtect] Loading EssentialsProtect vDev2.12.53
+2014-11-14 23:58:41 [INFO] [EssentialsSpawn] Loading EssentialsSpawn vDev2.12.53
+2014-11-14 23:58:41 [INFO] [CreativeGates] Loading CreativeGates v2.0.1
+2014-11-14 23:58:41 [INFO] [Reforestation] Loading Reforestation v1.8.0
+2014-11-14 23:58:41 [INFO] [BOSEconomy] Loading BOSEconomy v0.7.3.1
+2014-11-14 23:58:41 [INFO] [JSONAPI] Loading JSONAPI v5.0.0
+2014-11-14 23:58:41 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild vDev2.12.53
+2014-11-14 23:58:41 [INFO] [Timeismoney] Loading Timeismoney v1.3
+2014-11-14 23:58:41 [INFO] [EssentialsChat] Loading EssentialsChat vDev2.12.53
+2014-11-14 23:58:41 [INFO] [Factions] Loading Factions v1.8.2
+2014-11-14 23:58:41 [INFO] [Sentry] Loading Sentry v1.4.1
+2014-11-14 23:58:41 [INFO] [mcore] Enabling mcore v6.5.0
+2014-11-14 23:58:41 [INFO] [mcore 6.5.0] === ENABLE START ===
+2014-11-14 23:58:41 [INFO] [mcore 6.5.0] Setup of SenderIdMixinDefault took 57ms.
+2014-11-14 23:58:42 [INFO] [mcore 6.5.0] === ENABLE COMPLETE (Took 477ms) ===
+2014-11-14 23:58:42 [INFO] [Vault] Enabling Vault v1.2.25-b320
+2014-11-14 23:58:42 [INFO] [Vault][Economy] BOSEconomy7 found: Waiting
+2014-11-14 23:58:42 [INFO] [Vault][Economy] Essentials Economy found: Waiting
+2014-11-14 23:58:42 [INFO] [Vault][Permission] PermissionsEx found: Waiting
+2014-11-14 23:58:42 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2014-11-14 23:58:42 [INFO] [Vault][Chat] PermissionsEx found: Waiting
+2014-11-14 23:58:42 [INFO] [Vault] Enabled Version 1.2.25-b320
+2014-11-14 23:58:42 [INFO] [mcore 6.5.0] Activated integration with Vault
+2014-11-14 23:58:42 [INFO] [Vault][Economy] BOSEconomy hooked.
+2014-11-14 23:58:42 [INFO] [Vault][Economy] Essentials Economy hooked.
+2014-11-14 23:58:42 [INFO] [Vault][Permission] PermissionsEx hooked.
+2014-11-14 23:58:42 [INFO] [PlotMe] Enabling PlotMe v0.13b
+2014-11-14 23:58:43 [INFO] §9[PlotMe] §r 50 plots loaded
+2014-11-14 23:58:43 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-11-14 23:58:43 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-11-14 23:58:43 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-11-14 23:58:43 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-11-14 23:58:44 [INFO] Preparing level "world"
+2014-11-14 23:58:44 [INFO] -------- World Settings For [world] --------
+2014-11-14 23:58:44 [INFO] View Distance: 6
+2014-11-14 23:58:44 [INFO] Chunks to Grow per Tick: 650
+2014-11-14 23:58:44 [INFO] Experience Merge Radius: 3.0
+2014-11-14 23:58:44 [INFO] Item Merge Radius: 2.5
+2014-11-14 23:58:44 [INFO] Anti X-Ray: true
+2014-11-14 23:58:44 [INFO] 	Engine Mode: 1
+2014-11-14 23:58:44 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-11-14 23:58:44 [INFO] Mob Spawn Range: 4
+2014-11-14 23:58:44 [INFO] Cactus Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Cane Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Melon Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Mushroom Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Pumpkin Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Sapling Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Wheat Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-11-14 23:58:44 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-11-14 23:58:44 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-11-14 23:58:44 [INFO] Random Lighting Updates: true
+2014-11-14 23:58:44 [INFO] -------- World Settings For [world_nether] --------
+2014-11-14 23:58:44 [INFO] View Distance: 6
+2014-11-14 23:58:44 [INFO] Chunks to Grow per Tick: 650
+2014-11-14 23:58:44 [INFO] Experience Merge Radius: 3.0
+2014-11-14 23:58:44 [INFO] Item Merge Radius: 2.5
+2014-11-14 23:58:44 [INFO] Anti X-Ray: true
+2014-11-14 23:58:44 [INFO] 	Engine Mode: 1
+2014-11-14 23:58:44 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-11-14 23:58:44 [INFO] Mob Spawn Range: 4
+2014-11-14 23:58:44 [INFO] Cactus Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Cane Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Melon Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Mushroom Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Pumpkin Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Sapling Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Wheat Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-11-14 23:58:44 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-11-14 23:58:44 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-11-14 23:58:44 [INFO] Random Lighting Updates: true
+2014-11-14 23:58:44 [INFO] -------- World Settings For [world_the_end] --------
+2014-11-14 23:58:44 [INFO] View Distance: 6
+2014-11-14 23:58:44 [INFO] Chunks to Grow per Tick: 650
+2014-11-14 23:58:44 [INFO] Experience Merge Radius: 3.0
+2014-11-14 23:58:44 [INFO] Item Merge Radius: 2.5
+2014-11-14 23:58:44 [INFO] Anti X-Ray: true
+2014-11-14 23:58:44 [INFO] 	Engine Mode: 1
+2014-11-14 23:58:44 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-11-14 23:58:44 [INFO] Mob Spawn Range: 4
+2014-11-14 23:58:44 [INFO] Cactus Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Cane Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Melon Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Mushroom Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Pumpkin Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Sapling Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Wheat Growth Modifier: 100%
+2014-11-14 23:58:44 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-11-14 23:58:44 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-11-14 23:58:44 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-11-14 23:58:44 [INFO] Random Lighting Updates: true
+2014-11-14 23:58:44 [INFO] Preparing start region for level 0 (Seed: -72206553528179552)
+2014-11-14 23:58:45 [INFO] Preparing spawn area: 18%
+2014-11-14 23:58:46 [INFO] Preparing spawn area: 77%
+2014-11-14 23:58:47 [INFO] Preparing start region for level 1 (Seed: -72206553528179552)
+2014-11-14 23:58:48 [INFO] Preparing spawn area: 68%
+2014-11-14 23:58:48 [INFO] Preparing start region for level 2 (Seed: -2199309310656497319)
+2014-11-14 23:58:49 [INFO] [TeleportSigns] Enabling TeleportSigns v1.3-b45
+2014-11-14 23:58:49 [INFO] [WorldEdit] Enabling WorldEdit v5.5.6
+2014-11-14 23:58:49 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-11-14 23:58:50 [INFO] [Wardrobe] Enabling Wardrobe v1.5
+2014-11-14 23:58:50 [INFO] Wardrobe Version 1.5 Enabled!
+2014-11-14 23:58:50 [INFO] [Spawner] Enabling Spawner v1.7b
+2014-11-14 23:58:50 [INFO] [Spawner] Loading language.yml
+2014-11-14 23:58:50 [INFO] [NoCheatPlus] Enabling NoCheatPlus v3.10.1-SNAPSHOT-sMD5NET-b600
+2014-11-14 23:58:50 [INFO] [NoCheatPlus] McAccess set to: 1.6.2 / CB2808-DEV
+2014-11-14 23:58:50 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+2014-11-14 23:58:50 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+2014-11-14 23:58:50 [INFO] [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+2014-11-14 23:58:50 [INFO] [NoCheatPlus] Version 3.10.1-SNAPSHOT-sMD5NET-b600 is enabled.
+2014-11-14 23:58:50 [INFO] [BattleTracker] Enabling BattleTracker v2.5.3.7.1
+2014-11-14 23:58:50 [INFO] [BattleTracker v2.5.3.7.1] enabled!
+2014-11-14 23:58:51 [INFO] [CommandRank] Enabling CommandRank v3.1.6
+2014-11-14 23:58:52 [INFO] [CommandRank] Vault found!
+2014-11-14 23:58:52 [INFO] [CommandRank] Hmm.. Vault was enabled but you are not using the economy part...
+2014-11-14 23:58:52 [INFO] [CommandRank] v3.1.6 was enabled.
+2014-11-14 23:58:52 [INFO] [SuperJump] Enabling SuperJump v0.8
+2014-11-14 23:58:52 [INFO] [SuperJump] Enabling SuperJump 0.8
+2014-11-14 23:58:52 [INFO] [SimpleVanish] Enabling SimpleVanish v0.4
+2014-11-14 23:58:52 [INFO] [PlayerHeads] Enabling PlayerHeads v3.2-jenkins-PlayerHeads-1-11-gb37e970
+2014-11-14 23:58:54 [INFO] [PermissionsEx] Enabling PermissionsEx v1.19.5
+2014-11-14 23:58:54 [INFO] [PermissionsEx] Superperms support enabled.
+2014-11-14 23:58:54 [INFO] [PermissionsEx] v1.19.5 enabled
+2014-11-14 23:58:54 [INFO] WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+2014-11-14 23:58:54 [INFO] [Vault][Chat] PermissionsEx_Chat hooked.
+2014-11-14 23:58:54 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+2014-11-14 23:58:54 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-11-14 23:58:54 [INFO] [AllPay] - Version 10.0 - hooked into BOSEconomy for Multiverse-Core v2.4-b527
+2014-11-14 23:58:54 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -72206553528179552
+2014-11-14 23:58:54 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -72206553528179552
+2014-11-14 23:58:54 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -2199309310656497319
+2014-11-14 23:58:55 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 1455301276081882205 & generator: PlotMe
+2014-11-14 23:58:55 [INFO] -------- World Settings For [plotworld] --------
+2014-11-14 23:58:55 [INFO] View Distance: 6
+2014-11-14 23:58:55 [INFO] Chunks to Grow per Tick: 650
+2014-11-14 23:58:55 [INFO] Experience Merge Radius: 3.0
+2014-11-14 23:58:55 [INFO] Item Merge Radius: 2.5
+2014-11-14 23:58:55 [INFO] Anti X-Ray: true
+2014-11-14 23:58:55 [INFO] 	Engine Mode: 1
+2014-11-14 23:58:55 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-11-14 23:58:55 [INFO] Mob Spawn Range: 4
+2014-11-14 23:58:55 [INFO] Cactus Growth Modifier: 100%
+2014-11-14 23:58:55 [INFO] Cane Growth Modifier: 100%
+2014-11-14 23:58:55 [INFO] Melon Growth Modifier: 100%
+2014-11-14 23:58:55 [INFO] Mushroom Growth Modifier: 100%
+2014-11-14 23:58:55 [INFO] Pumpkin Growth Modifier: 100%
+2014-11-14 23:58:55 [INFO] Sapling Growth Modifier: 100%
+2014-11-14 23:58:55 [INFO] Wheat Growth Modifier: 100%
+2014-11-14 23:58:55 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-11-14 23:58:55 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-11-14 23:58:55 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-11-14 23:58:55 [INFO] Random Lighting Updates: true
+2014-11-14 23:58:55 [INFO] Preparing start region for level 3 (Seed: 1455301276081882205)
+2014-11-14 23:58:56 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2014-11-14 23:58:56 [INFO] [CombatTag] Enabling CombatTag v5.9.2
+2014-11-14 23:58:56 [INFO] [CombatTag] has loaded with a tag time of 10 seconds
+2014-11-14 23:58:56 [INFO] [CookieMonster] Enabling CookieMonster v1.7.4.1
+2014-11-14 23:58:56 [INFO] [CookieMonster] Using Vault v1.2.25-b320 for economy
+2014-11-14 23:58:56 [INFO] [CookieMonster]  v1.7.4.1 loaded successfully.
+2014-11-14 23:58:56 [INFO] [CookieMonster]  Developed by: [jascotty2, Coelho]
+2014-11-14 23:58:56 [INFO] [WorldGuard] Enabling WorldGuard v5.7.4
+2014-11-14 23:58:56 [INFO] [WorldGuard] (world) TNT ignition is PERMITTED.
+2014-11-14 23:58:56 [INFO] [WorldGuard] (world) Lighters are PERMITTED.
+2014-11-14 23:58:56 [INFO] [WorldGuard] (world) Lava fire is blocked.
+2014-11-14 23:58:56 [INFO] [WorldGuard] (world) Fire spread is UNRESTRICTED.
+2014-11-14 23:58:56 [INFO] [WorldGuard] Loaded configuration for world 'world'
+2014-11-14 23:58:56 [INFO] [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+2014-11-14 23:58:56 [INFO] [WorldGuard] (world_nether) Lighters are PERMITTED.
+2014-11-14 23:58:56 [INFO] [WorldGuard] (world_nether) Lava fire is blocked.
+2014-11-14 23:58:56 [INFO] [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+2014-11-14 23:58:56 [INFO] [WorldGuard] Loaded configuration for world 'world_nether'
+2014-11-14 23:58:56 [INFO] [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+2014-11-14 23:58:56 [INFO] [WorldGuard] (world_the_end) Lighters are PERMITTED.
+2014-11-14 23:58:56 [INFO] [WorldGuard] (world_the_end) Lava fire is blocked.
+2014-11-14 23:58:56 [INFO] [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+2014-11-14 23:58:56 [INFO] [WorldGuard] Loaded configuration for world 'world_the_end'
+2014-11-14 23:58:56 [INFO] [WorldGuard] (plotworld) TNT ignition is PERMITTED.
+2014-11-14 23:58:56 [INFO] [WorldGuard] (plotworld) Lighters are PERMITTED.
+2014-11-14 23:58:56 [INFO] [WorldGuard] (plotworld) Lava fire is blocked.
+2014-11-14 23:58:56 [INFO] [WorldGuard] (plotworld) Fire spread is UNRESTRICTED.
+2014-11-14 23:58:56 [INFO] [WorldGuard] Loaded configuration for world 'plotworld'
+2014-11-14 23:58:56 [INFO] [WorldGuard] 13 regions loaded for 'world'
+2014-11-14 23:58:56 [INFO] [WorldGuard] 1 regions loaded for 'world_nether'
+2014-11-14 23:58:56 [INFO] [WorldGuard] 0 regions loaded for 'world_the_end'
+2014-11-14 23:58:56 [INFO] [WorldGuard] 1 regions loaded for 'plotworld'
+2014-11-14 23:58:56 [INFO] [RemoteToolkitPlugin] Enabling RemoteToolkitPlugin vR10_A14.5
+2014-11-14 23:58:57 [INFO] Memory max: 2051604480 bytes
+2014-11-14 23:58:57 [INFO] Memory total: 1038090240 bytes
+2014-11-14 23:58:57 [INFO] Remote Toolkit Plugin R10_A14.5 enabled!
+2014-11-14 23:58:57 [INFO] [ToolStats] Enabling ToolStats v1.1.4
+2014-11-14 23:58:57 [INFO] [DoubleJump] Enabling DoubleJump v0.1
+2014-11-14 23:58:57 [INFO] [GlobalMarket] Enabling GlobalMarket v1.2.2
+2014-11-14 23:58:58 [INFO] [AutoMessage] Enabling AutoMessage v2.3.1
+2014-11-14 23:58:58 [INFO] [MessageControl] Enabling MessageControl v1.5
+2014-11-14 23:58:58 [INFO] [MessageControl] v.1.5 loaded!
+2014-11-14 23:58:58 [INFO] [JukeBoxGUI] Enabling JukeBoxGUI v1.5.2
+2014-11-14 23:58:58 [INFO] [BanSync] Enabling BanSync v1.0-b30
+2014-11-14 23:58:58 [INFO] [BanSync] [INFO] LWC not Found
+2014-11-14 23:58:58 [INFO] [BanSync] [INFO] PlotMe was found, hooked into PlotMe
+2014-11-14 23:58:58 [INFO] [BanSync] [INFO] Vault Found, hooking into Vault.
+2014-11-14 23:58:58 [INFO] [BanSync] [INFO] Grief Prevention not Found
+2014-11-14 23:58:58 [INFO] [BanSync] [INFO] WorldGuard Found, hooking into WorldGuard.
+2014-11-14 23:58:58 [INFO] [BanSync] [INFO] Essentials Found, hooking into Essentials.
+2014-11-14 23:58:58 [INFO] [AntiAdvertising] Enabling AntiAdvertising v2.1.5
+2014-11-14 23:58:58 [INFO] [AntiAdvertising] (Re-)loading config...
+2014-11-14 23:58:58 [INFO] [AntiAdvertising] (Re-)loading config finished
+2014-11-14 23:58:58 [INFO] [PvPReward] Enabling PvPReward v1.9.0
+2014-11-14 23:58:58 [INFO] [PvPReward] PvPReward 1.9.0 (Build 718) is enabled!
+2014-11-14 23:58:58 [INFO] [Modifyworld] Enabling Modifyworld v1.19.4
+2014-11-14 23:58:58 [INFO] [Modifyworld] Modifyworld enabled!
+2014-11-14 23:58:58 [INFO] [Essentials] Enabling Essentials vDev2.12.53
+2014-11-14 23:58:59 [INFO] Le format de la version de Bukkit a été changé. La version n'a pas été vérifiée.
+2014-11-14 23:58:59 [INFO] git-Spigot-1067 (MC: 1.6.2)
+2014-11-14 23:58:59 [INFO] 1.6.2-R0.1-SNAPSHOT
+2014-11-14 23:58:59 [INFO] Essentials: Using PermissionsEx based permissions.
+2014-11-14 23:58:59 [INFO] [Essentials] Payment method found (Vault - Economy: BOSEconomy version: 1.2.25-b320)
+2014-11-14 23:58:59 [INFO] [Citizens] Enabling Citizens v2.0.9-SNAPSHOT (build 912)
+2014-11-14 23:59:00 [INFO] [EssentialsProtect] Enabling EssentialsProtect vDev2.12.53
+2014-11-14 23:59:00 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn vDev2.12.53
+2014-11-14 23:59:00 [INFO] [CreativeGates] Enabling CreativeGates v2.0.1
+2014-11-14 23:59:00 [INFO] [0;36;22m[[0;36;1mCreativeGates 2.0.1[0;36;22m] [0;33;1m=== ENABLE START ===[m
+2014-11-14 23:59:00 [INFO] [0;36;22m[[0;36;1mCreativeGates 2.0.1[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m206ms[0;33;1m) ===[m
+2014-11-14 23:59:00 [INFO] [Reforestation] Enabling Reforestation v1.8.0
+2014-11-14 23:59:00 [INFO] [Reforestation] Residence not found, ignoring support
+2014-11-14 23:59:00 [INFO] [Reforestation] WorldGuard support has been enabled
+2014-11-14 23:59:01 [INFO] [Reforestation] Reforestation has detected 4 plants. Replant delay at 200 ticks, or 10.0 second(s).
+2014-11-14 23:59:01 [INFO] [BOSEconomy] Enabling BOSEconomy v0.7.3.1
+2014-11-14 23:59:02 [INFO] BOSEconomy v0.7.3.1 enabled.
+2014-11-14 23:59:02 [INFO] [JSONAPI] Enabling JSONAPI v5.0.0
+2014-11-14 23:59:02 [INFO] [JSONAPI] Injected packet: 0x47
+2014-11-14 23:59:02 [INFO] [JSONAPI] Injected packet: 0x51
+2014-11-14 23:59:02 [INFO] [JSONAPI] Logging to file: true
+2014-11-14 23:59:02 [INFO] [JSONAPI] Logging to console: false
+2014-11-14 23:59:02 [INFO] [JSONAPI] IP Whitelist = None, all requests are allowed.
+2014-11-14 23:59:03 [INFO] [JSONAPI] Attempting to use port 20059
+2014-11-14 23:59:03 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild vDev2.12.53
+2014-11-14 23:59:03 [INFO] [Timeismoney] Enabling Timeismoney v1.3
+2014-11-14 23:59:03 [INFO] [Timeismoney] Vault dependency found. Economy plugin found: BOSEconomy
+2014-11-14 23:59:03 [INFO] Timeismoney is now enabled
+2014-11-14 23:59:03 [INFO] [EssentialsChat] Enabling EssentialsChat vDev2.12.53
+2014-11-14 23:59:03 [INFO] [Factions] Enabling Factions v1.8.2
+2014-11-14 23:59:03 [INFO] [Factions v1.8.2] === ENABLE START ===
+2014-11-14 23:59:04 [INFO] [Factions v1.8.2] Loading board from disk
+2014-11-14 23:59:04 [INFO] [Factions v1.8.2] Economy integration through Vault plugin successful.
+2014-11-14 23:59:04 [INFO] [Factions v1.8.2] NOTE: Economy is disabled. You can enable it with the command: f config econEnabled true
+2014-11-14 23:59:04 [INFO] [Factions v1.8.2] === ENABLE DONE (Took 1275ms) ===
+2014-11-14 23:59:04 [INFO] [Sentry] Enabling Sentry v1.4.1
+2014-11-14 23:59:04 [INFO] [Sentry] Could not register with Denizen
+2014-11-14 23:59:04 [INFO] [Sentry] Could not find or register with Towny
+2014-11-14 23:59:04 [INFO] [Sentry] Registered with Factions sucessfully. the FACTION: target will function
+2014-11-14 23:59:04 [INFO] [Sentry] Could not find or register with War. 
+2014-11-14 23:59:04 [INFO] [Sentry] Could not find or register with SimpleClans. 
+2014-11-14 23:59:05 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-11-14 23:59:06 [INFO] Done (22,051s)! For help, type "help" or "?"
+2014-11-14 23:59:07 [INFO] [Sentry] Registered sucessfully with Vault: 8 groups found. The GROUP: target will function
+2014-11-14 23:59:08 [SEVERE] [Citizens] Abandon sur une carractéristique erronée ou manquante blacksmith pendant le chargement de lID {1}. Le nom as-til changé ?
+2014-11-14 23:59:08 [INFO] [Citizens] 10 PNJs chargé(s).
+2014-11-14 23:59:11 [INFO] eyesofcreeper[/127.0.0.1:59813] logged in with entity id 689 at ([world] 9142.784627491186, 98.0, 9535.780887632698)
+2014-11-14 23:59:45 [INFO] eyesofcreeper issued server command: /pl
+2014-11-15 00:00:12 [INFO] [[0;36;1mPVP[m] Coucou a toi ![m
+2014-11-15 00:00:28 [INFO] [0;35;1m[Server] **SAUVGARDE DE LA MAP**[m
+2014-11-15 00:00:28 [INFO] CONSOLE: Forcing save..[m
+2014-11-15 00:00:28 [INFO] CONSOLE: Save complete.[m
+2014-11-15 00:00:28 [INFO] [0;35;1m[Server] **SAUVEGARDE TERMINEE**[m
+2014-11-15 00:01:07 [WARNING] [WorldEdit] No compatible nms block class found.
+2014-11-15 00:01:13 [INFO] [[0;36;1mPVP[m] besoin d'un admin ? /calladmin raison[m
+2014-11-15 00:02:13 [INFO] [[0;36;1mPVP[m] Coucou a toi ![m
+2014-11-15 00:02:28 [INFO] [0;35;1m[Server] **SAUVGARDE DE LA MAP**[m
+2014-11-15 00:02:28 [INFO] CONSOLE: Forcing save..[m
+2014-11-15 00:02:28 [INFO] CONSOLE: Save complete.[m
+2014-11-15 00:02:28 [INFO] [0;35;1m[Server] **SAUVEGARDE TERMINEE**[m
+2014-11-15 00:03:13 [INFO] [[0;36;1mPVP[m] besoin d'un admin ? /calladmin raison[m
+2014-11-15 00:04:14 [INFO] [[0;36;1mPVP[m] Coucou a toi ![m
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player SLC987 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player mokimokoko was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player AssasEnder was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player chikencrap was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player nijanuuub was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player CannonGamer was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Viperious37 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Viperious37 left the faction: Vibrasteam
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player xOvercraftx was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player vipc1 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Melman35 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Evil_Dante was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Evil_Dante left the faction: Crazyfight
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player whitecat8524 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player matt66 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] matt66 left the faction: Crazyfight
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Mireio was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Mireio left the faction: Crazyfight
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Nintendos was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player ksa195 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player archer 1 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Hades1999C was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player ksa2013 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player archer 2 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Bestdragonpt was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Bestdragonpt left the faction: hubre
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Abel_11 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Eankalt was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player layth95 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player lulutoine was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] The faction DarkLulu (323) has been disbanded since it has no members left.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 323 from [world,19,-6]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Reset faction data (invalid faction) for player lulutoine
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Kaeric was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Kaeric left the faction: shadowteam
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Azetor was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Azetor left the faction: Crazyfight
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Xkiller4evarX was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Nxen was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Nxen left the faction: MyNameIs
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player hector_victor was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player XxXTremeGamerXxX was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player mazenalharbi was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Nintori was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Nintori left the faction: Crazyfight
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player gogot was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player MrGoldShoot was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player danny78320 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player oceane12yeah was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] oceane12yeah left the faction: Vibrasteam
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Enqo55 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player loueibe was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player 7modde was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Kirihara_Yukawa was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Faction Crazyfight (212) leader was removed. Replacement leader: LeaverBoy
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Kirihara_Yukawa left the faction: Crazyfight
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player vidiass was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player brancoxminecraft was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player canon was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player venonilho was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player PvpLogger1 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player cdj05 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Pacito2 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player xXxGamesxXx was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player iksa9999 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player M7MDQ8 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player ksa9999 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player pizzaguy315 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player viper_33 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player bratmort was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Faction Vibrasteam (157) leader was removed. Replacement leader: fable999
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] bratmort left the faction: Vibrasteam
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Airponeisme was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player huble was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Faction hubre (295) leader was removed. Replacement leader: loshermanos
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] huble left the faction: hubre
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player vekich was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] vekich left the faction: Crazyfight
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player mineminou was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player jojomegamdr was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Gumknuckles was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] The faction ThePunch (298) has been disbanded since it has no members left.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 298 from [world,529,561]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Reset faction data (invalid faction) for player Gumknuckles
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player loshermanos was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] The faction hubre (295) has been disbanded since it has no members left.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 295 from [world,624,659]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 295 from [world,616,650]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 295 from [world,623,660]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 295 from [world,623,659]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 295 from [world,620,651]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 295 from [world,620,650]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 295 from [world,620,649]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 295 from [world,619,651]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 295 from [world,619,652]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 295 from [world,618,651]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 295 from [world,618,650]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 295 from [world,618,652]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 295 from [world,618,649]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 295 from [world,617,650]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Reset faction data (invalid faction) for player loshermanos
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Alan0068 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Mlle_moustache was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Matinou was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] The faction Solitaire (320) has been disbanded since it has no members left.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Reset faction data (invalid faction) for player Matinou
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player MrBOBOdu15 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player zombie10man was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] The faction zombie (324) has been disbanded since it has no members left.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Reset faction data (invalid faction) for player zombie10man
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Jonnyboy was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Alexzhan2002 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Sweechy was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Lacrim was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Donuts was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] The faction MyNameIs (327) has been disbanded since it has no members left.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 327 from [world,538,598]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 327 from [world,538,597]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 327 from [world,538,596]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 327 from [world,538,595]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 327 from [world,536,596]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 327 from [world,536,597]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 327 from [world,536,598]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 327 from [world,537,596]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 327 from [world,537,597]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 327 from [world,537,595]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 327 from [world,537,598]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 327 from [world,537,599]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Reset faction data (invalid faction) for player Donuts
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player antonyzaqzaq was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] The faction shadowteam (326) has been disbanded since it has no members left.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 326 from [world,322,588]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Reset faction data (invalid faction) for player antonyzaqzaq
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player medo_ks__a was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Eldore62 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Eldore62 left the faction: Crazyfight
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player skillew was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Carlacraft was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player GYM was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player fable999 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] The faction Vibrasteam (157) has been disbanded since it has no members left.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,16,2]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,93,-147]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,102,-144]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,102,-147]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,102,-148]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,102,-151]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,94,-147]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,101,-144]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,101,-146]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,101,-148]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,101,-149]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,101,-150]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,94,-146]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,109,-131]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,91,-147]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,100,-144]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,100,-145]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,100,-146]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,100,-141]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,1,-48]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,1,-49]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,100,-149]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,92,-148]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,92,-147]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,99,-144]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,99,-145]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,92,-146]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,92,-145]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,89,-142]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,89,-144]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,106,-141]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,106,-142]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,97,-148]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,97,-142]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,97,-140]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,97,-145]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,97,-144]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,97,-143]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,97,-136]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,90,-145]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,90,-144]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,105,-141]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,105,-142]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,105,-143]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,98,-145]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,98,-143]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,98,-142]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,98,-141]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,98,-137]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,98,-136]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,104,-143]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,104,-141]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,104,-142]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,87,-143]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,95,-145]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,95,-143]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,87,-148]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,104,-150]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,104,-151]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,88,-145]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,96,-147]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,96,-136]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,96,-145]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,96,-144]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 157 from [world,103,-151]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Reset faction data (invalid faction) for player fable999
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player LeaverBoy was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] The faction Crazyfight (212) has been disbanded since it has no members left.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,188,289]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,188,290]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,187,291]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,187,289]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,187,288]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,187,286]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,187,285]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,597,655]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,597,654]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,597,656]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,597,648]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,597,649]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,597,646]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,597,647]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,597,652]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,597,653]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,597,650]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,597,651]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,186,289]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,186,288]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,186,287]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,186,286]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,186,291]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,186,290]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,186,284]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,185,285]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,185,284]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,185,290]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,185,291]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,185,288]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,185,289]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,185,286]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,185,287]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,-15,-9]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,-15,-11]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,184,284]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,184,288]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,184,289]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,184,286]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,184,287]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,184,290]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,184,291]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,-14,-10]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,183,285]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,183,284]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,183,283]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,183,290]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,183,291]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,183,288]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,183,289]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,183,286]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,183,287]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,182,285]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,182,284]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,182,288]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,182,289]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,182,287]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Board cleaner removed 212 from [world,182,290]
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Reset faction data (invalid faction) for player LeaverBoy
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player Wolf_Man1997 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player mediatheque was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] mediatheque left the faction: Phoenix
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Player loulou200 was auto-removed due to inactivity.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] The faction Phoenix (325) has been disbanded since it has no members left.
+2014-11-15 00:04:14 [INFO] [Factions v1.8.2] Reset faction data (invalid faction) for player loulou200
+2014-11-15 00:04:28 [INFO] [0;35;1m[Server] **SAUVGARDE DE LA MAP**[m
+2014-11-15 00:04:28 [INFO] CONSOLE: Forcing save..[m
+2014-11-15 00:04:28 [INFO] CONSOLE: Save complete.[m
+2014-11-15 00:04:28 [INFO] [0;35;1m[Server] **SAUVEGARDE TERMINEE**[m
+2014-11-15 00:05:14 [INFO] [[0;36;1mPVP[m] besoin d'un admin ? /calladmin raison[m
+2014-11-15 00:06:15 [INFO] [[0;36;1mPVP[m] Coucou a toi ![m
+2014-11-15 00:06:28 [INFO] [0;35;1m[Server] **SAUVGARDE DE LA MAP**[m
+2014-11-15 00:06:28 [INFO] CONSOLE: Forcing save..[m
+2014-11-15 00:06:28 [INFO] CONSOLE: Save complete.[m
+2014-11-15 00:06:28 [INFO] [0;35;1m[Server] **SAUVEGARDE TERMINEE**[m
+2014-11-15 00:06:52 [INFO] Disconnecting /92.90.26.112:15700: Protocol error
+2014-11-15 00:07:02 [INFO] eyesofcreeper lost connection: disconnect.quitting
+2014-11-15 00:07:08 [INFO] eyesofcreeper[/127.0.0.1:60336] logged in with entity id 1835 at ([world] 9181.26681992359, 72.0, 9551.668355793809)
+2014-11-15 00:07:17 [INFO] [[0;36;1mPVP[m] besoin d'un admin ? /calladmin raison[m
+2014-11-15 00:07:31 [INFO] Disconnecting /92.90.26.112:24855: Protocol error
+2014-11-15 00:08:17 [INFO] [[0;36;1mPVP[m] Coucou a toi ![m
+2014-11-15 00:08:28 [INFO] [0;35;1m[Server] **SAUVGARDE DE LA MAP**[m
+2014-11-15 00:08:28 [INFO] CONSOLE: Forcing save..[m
+2014-11-15 00:08:28 [INFO] CONSOLE: Save complete.[m
+2014-11-15 00:08:28 [INFO] [0;35;1m[Server] **SAUVEGARDE TERMINEE**[m
+2014-11-15 00:08:34 [INFO] Disconnecting /92.90.26.112:65122: Protocol error
+2014-11-15 00:08:50 [INFO] eyesofcreeper issued server command: /F admin
+2014-11-15 00:08:50 [INFO] [Factions v1.8.2] eyesofcreeper has ENABLED admin bypass mode.
+2014-11-15 00:09:11 [INFO] eyesofcreeper issued server command: /Gm 0
+2014-11-15 00:09:17 [INFO] [[0;36;1mPVP[m] besoin d'un admin ? /calladmin raison[m
+2014-11-15 00:09:20 [INFO] _Turrok_[/92.90.26.112:5947] logged in with entity id 2140 at ([world] 9202.5, 110.0, 9550.5)
+2014-11-15 00:09:22 [INFO] Création d'une configuration vierge : /Users/ucatchit/Desktop/DST2/home/arthur/minecraft/Mpvp/serveur/plugins/Essentials/userdata/_turrok_.yml
+2014-11-15 00:09:22 [SEVERE] java.lang.ArrayIndexOutOfBoundsException: -1
+2014-11-15 00:09:22 [SEVERE] 	at java.util.concurrent.CopyOnWriteArrayList.get(CopyOnWriteArrayList.java:368)
+2014-11-15 00:09:22 [SEVERE] 	at java.util.concurrent.CopyOnWriteArrayList.get(CopyOnWriteArrayList.java:377)
+2014-11-15 00:09:22 [SEVERE] 	at net.minecraft.server.v1_6_R2.PlayerList.tick(PlayerList.java:731)
+2014-11-15 00:09:22 [SEVERE] 	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:596)
+2014-11-15 00:09:22 [SEVERE] 	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:239)
+2014-11-15 00:09:22 [SEVERE] 	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:481)
+2014-11-15 00:09:22 [SEVERE] 	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:413)
+2014-11-15 00:09:22 [SEVERE] 	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+2014-11-15 00:09:22 [SEVERE] Encountered an unexpected exception ArrayIndexOutOfBoundsException
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.concurrent.CopyOnWriteArrayList.get(CopyOnWriteArrayList.java:368)
+	at java.util.concurrent.CopyOnWriteArrayList.get(CopyOnWriteArrayList.java:377)
+	at net.minecraft.server.v1_6_R2.PlayerList.tick(PlayerList.java:731)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:596)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:239)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:481)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:413)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+2014-11-15 00:09:22 [SEVERE] This crash report has been saved to: /Users/ucatchit/Desktop/DST2/home/arthur/minecraft/Mpvp/serveur/./crash-reports/crash-2014-11-15_00.09.22-server.txt
+2014-11-15 00:10:00 [INFO] Starting minecraft server version 1.6.2
+2014-11-15 00:10:00 [INFO] Loading properties
+2014-11-15 00:10:00 [INFO] Default game type: SURVIVAL
+2014-11-15 00:10:00 [INFO] This server is running CraftBukkit version git-Spigot-1067 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2014-11-15 00:10:01 [INFO] Generating keypair
+2014-11-15 00:10:01 [INFO] Starting Minecraft server on *:25560
+2014-11-15 00:10:02 [INFO] DataSourcePool [TeleportSigns] autoCommit[false] transIsolation[SERIALIZABLE] min[2] max[20]
+2014-11-15 00:10:04 [INFO] SubClassFactory parent ClassLoader [org.bukkit.plugin.java.PluginClassLoader]
+2014-11-15 00:10:05 [INFO] Entities enhanced[0] subclassed[1]
+2014-11-15 00:10:05 [INFO] [PermissionsEx] sql backend registered!
+2014-11-15 00:10:05 [INFO] [PermissionsEx] file backend registered!
+2014-11-15 00:10:05 [INFO] [PermissionsEx] PermissionEx plugin initialized.
+2014-11-15 00:10:06 [INFO] [TeleportSigns] Loading TeleportSigns v1.3-b45
+2014-11-15 00:10:06 [INFO] [WorldEdit] Loading WorldEdit v5.5.6
+2014-11-15 00:10:06 [INFO] [Wardrobe] Loading Wardrobe v1.5
+2014-11-15 00:10:06 [INFO] [Spawner] Loading Spawner v1.7b
+2014-11-15 00:10:06 [INFO] [NoCheatPlus] Loading NoCheatPlus v3.10.1-SNAPSHOT-sMD5NET-b600
+2014-11-15 00:10:06 [INFO] [BattleTracker] Loading BattleTracker v2.5.3.7.1
+2014-11-15 00:10:06 [INFO] [CommandRank] Loading CommandRank v3.1.6
+2014-11-15 00:10:06 [INFO] [SuperJump] Loading SuperJump v0.8
+2014-11-15 00:10:06 [INFO] [mcore] Loading mcore v6.5.0
+2014-11-15 00:10:06 [INFO] [Vault] Loading Vault v1.2.25-b320
+2014-11-15 00:10:06 [INFO] [SimpleVanish] Loading SimpleVanish v0.4
+2014-11-15 00:10:06 [INFO] [PlotMe] Loading PlotMe v0.13b
+2014-11-15 00:10:06 [INFO] [PlayerHeads] Loading PlayerHeads v3.2-jenkins-PlayerHeads-1-11-gb37e970
+2014-11-15 00:10:06 [INFO] [PermissionsEx] Loading PermissionsEx v1.19.5
+2014-11-15 00:10:06 [INFO] [PermissionsEx] Initializing file backend
+2014-11-15 00:10:06 [INFO] Permissions file successfully reloaded
+2014-11-15 00:10:06 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+2014-11-15 00:10:06 [INFO] [CombatTag] Loading CombatTag v5.9.2
+2014-11-15 00:10:06 [INFO] [CookieMonster] Loading CookieMonster v1.7.4.1
+2014-11-15 00:10:06 [INFO] [WorldGuard] Loading WorldGuard v5.7.4
+2014-11-15 00:10:06 [INFO] [RemoteToolkitPlugin] Loading RemoteToolkitPlugin vR10_A14.5
+2014-11-15 00:10:06 [INFO] [ToolStats] Loading ToolStats v1.1.4
+2014-11-15 00:10:06 [INFO] [DoubleJump] Loading DoubleJump v0.1
+2014-11-15 00:10:06 [INFO] [GlobalMarket] Loading GlobalMarket v1.2.2
+2014-11-15 00:10:06 [INFO] [AutoMessage] Loading AutoMessage v2.3.1
+2014-11-15 00:10:06 [INFO] [MessageControl] Loading MessageControl v1.5
+2014-11-15 00:10:06 [INFO] [JukeBoxGUI] Loading JukeBoxGUI v1.5.2
+2014-11-15 00:10:06 [INFO] [BanSync] Loading BanSync v1.0-b30
+2014-11-15 00:10:06 [INFO] [AntiAdvertising] Loading AntiAdvertising v2.1.5
+2014-11-15 00:10:06 [INFO] [PvPReward] Loading PvPReward v1.9.0
+2014-11-15 00:10:06 [INFO] [Modifyworld] Loading Modifyworld v1.19.4
+2014-11-15 00:10:06 [INFO] [Essentials] Loading Essentials vDev2.12.53
+2014-11-15 00:10:06 [INFO] [Citizens] Loading Citizens v2.0.9-SNAPSHOT (build 912)
+2014-11-15 00:10:06 [INFO] [EssentialsProtect] Loading EssentialsProtect vDev2.12.53
+2014-11-15 00:10:06 [INFO] [EssentialsSpawn] Loading EssentialsSpawn vDev2.12.53
+2014-11-15 00:10:06 [INFO] [CreativeGates] Loading CreativeGates v2.0.1
+2014-11-15 00:10:06 [INFO] [Reforestation] Loading Reforestation v1.8.0
+2014-11-15 00:10:06 [INFO] [BOSEconomy] Loading BOSEconomy v0.7.3.1
+2014-11-15 00:10:06 [INFO] [JSONAPI] Loading JSONAPI v5.0.0
+2014-11-15 00:10:06 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild vDev2.12.53
+2014-11-15 00:10:06 [INFO] [Timeismoney] Loading Timeismoney v1.3
+2014-11-15 00:10:06 [INFO] [EssentialsChat] Loading EssentialsChat vDev2.12.53
+2014-11-15 00:10:06 [INFO] [Factions] Loading Factions v1.8.2
+2014-11-15 00:10:06 [INFO] [Sentry] Loading Sentry v1.4.1
+2014-11-15 00:10:06 [INFO] [mcore] Enabling mcore v6.5.0
+2014-11-15 00:10:06 [INFO] [mcore 6.5.0] === ENABLE START ===
+2014-11-15 00:10:06 [INFO] [mcore 6.5.0] Setup of SenderIdMixinDefault took 54ms.
+2014-11-15 00:10:06 [INFO] [mcore 6.5.0] === ENABLE COMPLETE (Took 353ms) ===
+2014-11-15 00:10:06 [INFO] [Vault] Enabling Vault v1.2.25-b320
+2014-11-15 00:10:07 [INFO] [Vault][Economy] BOSEconomy7 found: Waiting
+2014-11-15 00:10:07 [INFO] [Vault][Economy] Essentials Economy found: Waiting
+2014-11-15 00:10:07 [INFO] [Vault][Permission] PermissionsEx found: Waiting
+2014-11-15 00:10:07 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2014-11-15 00:10:07 [INFO] [Vault][Chat] PermissionsEx found: Waiting
+2014-11-15 00:10:07 [INFO] [Vault] Enabled Version 1.2.25-b320
+2014-11-15 00:10:07 [INFO] [mcore 6.5.0] Activated integration with Vault
+2014-11-15 00:10:07 [INFO] [Vault][Economy] BOSEconomy hooked.
+2014-11-15 00:10:07 [INFO] [Vault][Economy] Essentials Economy hooked.
+2014-11-15 00:10:07 [INFO] [Vault][Permission] PermissionsEx hooked.
+2014-11-15 00:10:07 [INFO] [PlotMe] Enabling PlotMe v0.13b
+2014-11-15 00:10:08 [INFO] §9[PlotMe] §r 50 plots loaded
+2014-11-15 00:10:08 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-11-15 00:10:08 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-11-15 00:10:08 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-11-15 00:10:08 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-11-15 00:10:08 [INFO] Preparing level "world"
+2014-11-15 00:10:08 [INFO] -------- World Settings For [world] --------
+2014-11-15 00:10:08 [INFO] Anti X-Ray: true
+2014-11-15 00:10:08 [INFO] 	Engine Mode: 1
+2014-11-15 00:10:08 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-11-15 00:10:08 [INFO] Mob Spawn Range: 4
+2014-11-15 00:10:08 [INFO] Cactus Growth Modifier: 100%
+2014-11-15 00:10:08 [INFO] Cane Growth Modifier: 100%
+2014-11-15 00:10:08 [INFO] Melon Growth Modifier: 100%
+2014-11-15 00:10:08 [INFO] Mushroom Growth Modifier: 100%
+2014-11-15 00:10:08 [INFO] Pumpkin Growth Modifier: 100%
+2014-11-15 00:10:08 [INFO] Sapling Growth Modifier: 100%
+2014-11-15 00:10:08 [INFO] Wheat Growth Modifier: 100%
+2014-11-15 00:10:08 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-11-15 00:10:08 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-11-15 00:10:08 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-11-15 00:10:08 [INFO] Random Lighting Updates: true
+2014-11-15 00:10:08 [INFO] Item Merge Radius: 2.5
+2014-11-15 00:10:08 [INFO] View Distance: 6
+2014-11-15 00:10:08 [INFO] Chunks to Grow per Tick: 650
+2014-11-15 00:10:08 [INFO] Experience Merge Radius: 3.0
+2014-11-15 00:10:09 [INFO] -------- World Settings For [world_nether] --------
+2014-11-15 00:10:09 [INFO] Anti X-Ray: true
+2014-11-15 00:10:09 [INFO] 	Engine Mode: 1
+2014-11-15 00:10:09 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-11-15 00:10:09 [INFO] Mob Spawn Range: 4
+2014-11-15 00:10:09 [INFO] Cactus Growth Modifier: 100%
+2014-11-15 00:10:09 [INFO] Cane Growth Modifier: 100%
+2014-11-15 00:10:09 [INFO] Melon Growth Modifier: 100%
+2014-11-15 00:10:09 [INFO] Mushroom Growth Modifier: 100%
+2014-11-15 00:10:09 [INFO] Pumpkin Growth Modifier: 100%
+2014-11-15 00:10:09 [INFO] Sapling Growth Modifier: 100%
+2014-11-15 00:10:09 [INFO] Wheat Growth Modifier: 100%
+2014-11-15 00:10:09 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-11-15 00:10:09 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-11-15 00:10:09 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-11-15 00:10:09 [INFO] Random Lighting Updates: true
+2014-11-15 00:10:09 [INFO] Item Merge Radius: 2.5
+2014-11-15 00:10:09 [INFO] View Distance: 6
+2014-11-15 00:10:09 [INFO] Chunks to Grow per Tick: 650
+2014-11-15 00:10:09 [INFO] Experience Merge Radius: 3.0
+2014-11-15 00:10:09 [INFO] -------- World Settings For [world_the_end] --------
+2014-11-15 00:10:09 [INFO] Anti X-Ray: true
+2014-11-15 00:10:09 [INFO] 	Engine Mode: 1
+2014-11-15 00:10:09 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-11-15 00:10:09 [INFO] Mob Spawn Range: 4
+2014-11-15 00:10:09 [INFO] Cactus Growth Modifier: 100%
+2014-11-15 00:10:09 [INFO] Cane Growth Modifier: 100%
+2014-11-15 00:10:09 [INFO] Melon Growth Modifier: 100%
+2014-11-15 00:10:09 [INFO] Mushroom Growth Modifier: 100%
+2014-11-15 00:10:09 [INFO] Pumpkin Growth Modifier: 100%
+2014-11-15 00:10:09 [INFO] Sapling Growth Modifier: 100%
+2014-11-15 00:10:09 [INFO] Wheat Growth Modifier: 100%
+2014-11-15 00:10:09 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-11-15 00:10:09 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-11-15 00:10:09 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-11-15 00:10:09 [INFO] Random Lighting Updates: true
+2014-11-15 00:10:09 [INFO] Item Merge Radius: 2.5
+2014-11-15 00:10:09 [INFO] View Distance: 6
+2014-11-15 00:10:09 [INFO] Chunks to Grow per Tick: 650
+2014-11-15 00:10:09 [INFO] Experience Merge Radius: 3.0
+2014-11-15 00:10:09 [INFO] Preparing start region for level 0 (Seed: -72206553528179552)
+2014-11-15 00:10:10 [INFO] Preparing spawn area: 61%
+2014-11-15 00:10:10 [INFO] Preparing start region for level 1 (Seed: -72206553528179552)
+2014-11-15 00:10:11 [INFO] Preparing spawn area: 97%
+2014-11-15 00:10:11 [INFO] Preparing start region for level 2 (Seed: -2199309310656497319)
+2014-11-15 00:10:11 [INFO] [TeleportSigns] Enabling TeleportSigns v1.3-b45
+2014-11-15 00:10:12 [INFO] [WorldEdit] Enabling WorldEdit v5.5.6
+2014-11-15 00:10:12 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-11-15 00:10:12 [INFO] [Wardrobe] Enabling Wardrobe v1.5
+2014-11-15 00:10:12 [INFO] Wardrobe Version 1.5 Enabled!
+2014-11-15 00:10:12 [INFO] [Spawner] Enabling Spawner v1.7b
+2014-11-15 00:10:12 [INFO] [Spawner] Loading language.yml
+2014-11-15 00:10:12 [INFO] [NoCheatPlus] Enabling NoCheatPlus v3.10.1-SNAPSHOT-sMD5NET-b600
+2014-11-15 00:10:12 [INFO] [NoCheatPlus] McAccess set to: 1.6.2 / CB2808-DEV
+2014-11-15 00:10:13 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+2014-11-15 00:10:13 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+2014-11-15 00:10:13 [INFO] [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+2014-11-15 00:10:13 [INFO] [NoCheatPlus] Version 3.10.1-SNAPSHOT-sMD5NET-b600 is enabled.
+2014-11-15 00:10:13 [INFO] [BattleTracker] Enabling BattleTracker v2.5.3.7.1
+2014-11-15 00:10:13 [INFO] [BattleTracker v2.5.3.7.1] enabled!
+2014-11-15 00:10:14 [INFO] [CommandRank] Enabling CommandRank v3.1.6
+2014-11-15 00:10:14 [INFO] [CommandRank] Vault found!
+2014-11-15 00:10:14 [INFO] [CommandRank] Hmm.. Vault was enabled but you are not using the economy part...
+2014-11-15 00:10:14 [INFO] [CommandRank] v3.1.6 was enabled.
+2014-11-15 00:10:14 [INFO] [SuperJump] Enabling SuperJump v0.8
+2014-11-15 00:10:14 [INFO] [SuperJump] Enabling SuperJump 0.8
+2014-11-15 00:10:14 [INFO] [SimpleVanish] Enabling SimpleVanish v0.4
+2014-11-15 00:10:14 [INFO] [PlayerHeads] Enabling PlayerHeads v3.2-jenkins-PlayerHeads-1-11-gb37e970
+2014-11-15 00:10:15 [INFO] [PermissionsEx] Enabling PermissionsEx v1.19.5
+2014-11-15 00:10:15 [INFO] [PermissionsEx] Superperms support enabled.
+2014-11-15 00:10:15 [INFO] [PermissionsEx] v1.19.5 enabled
+2014-11-15 00:10:15 [INFO] WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+2014-11-15 00:10:15 [INFO] [Vault][Chat] PermissionsEx_Chat hooked.
+2014-11-15 00:10:15 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+2014-11-15 00:10:15 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-11-15 00:10:15 [INFO] [AllPay] - Version 10.0 - hooked into BOSEconomy for Multiverse-Core v2.4-b527
+2014-11-15 00:10:16 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -72206553528179552
+2014-11-15 00:10:16 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -72206553528179552
+2014-11-15 00:10:16 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -2199309310656497319
+2014-11-15 00:10:16 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 1455301276081882205 & generator: PlotMe
+2014-11-15 00:10:16 [INFO] -------- World Settings For [plotworld] --------
+2014-11-15 00:10:16 [INFO] Anti X-Ray: true
+2014-11-15 00:10:16 [INFO] 	Engine Mode: 1
+2014-11-15 00:10:16 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-11-15 00:10:16 [INFO] Mob Spawn Range: 4
+2014-11-15 00:10:16 [INFO] Cactus Growth Modifier: 100%
+2014-11-15 00:10:16 [INFO] Cane Growth Modifier: 100%
+2014-11-15 00:10:16 [INFO] Melon Growth Modifier: 100%
+2014-11-15 00:10:16 [INFO] Mushroom Growth Modifier: 100%
+2014-11-15 00:10:16 [INFO] Pumpkin Growth Modifier: 100%
+2014-11-15 00:10:16 [INFO] Sapling Growth Modifier: 100%
+2014-11-15 00:10:16 [INFO] Wheat Growth Modifier: 100%
+2014-11-15 00:10:16 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-11-15 00:10:16 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-11-15 00:10:16 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-11-15 00:10:16 [INFO] Random Lighting Updates: true
+2014-11-15 00:10:16 [INFO] Item Merge Radius: 2.5
+2014-11-15 00:10:16 [INFO] View Distance: 6
+2014-11-15 00:10:16 [INFO] Chunks to Grow per Tick: 650
+2014-11-15 00:10:16 [INFO] Experience Merge Radius: 3.0
+2014-11-15 00:10:16 [INFO] Preparing start region for level 3 (Seed: 1455301276081882205)
+2014-11-15 00:10:17 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2014-11-15 00:10:17 [INFO] [CombatTag] Enabling CombatTag v5.9.2
+2014-11-15 00:10:17 [INFO] [CombatTag] has loaded with a tag time of 10 seconds
+2014-11-15 00:10:17 [INFO] [CookieMonster] Enabling CookieMonster v1.7.4.1
+2014-11-15 00:10:17 [INFO] [CookieMonster] Using Vault v1.2.25-b320 for economy
+2014-11-15 00:10:17 [INFO] [CookieMonster]  v1.7.4.1 loaded successfully.
+2014-11-15 00:10:17 [INFO] [CookieMonster]  Developed by: [jascotty2, Coelho]
+2014-11-15 00:10:17 [INFO] [WorldGuard] Enabling WorldGuard v5.7.4
+2014-11-15 00:10:17 [INFO] [WorldGuard] (world) TNT ignition is PERMITTED.
+2014-11-15 00:10:17 [INFO] [WorldGuard] (world) Lighters are PERMITTED.
+2014-11-15 00:10:17 [INFO] [WorldGuard] (world) Lava fire is blocked.
+2014-11-15 00:10:17 [INFO] [WorldGuard] (world) Fire spread is UNRESTRICTED.
+2014-11-15 00:10:17 [INFO] [WorldGuard] Loaded configuration for world 'world'
+2014-11-15 00:10:17 [INFO] [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+2014-11-15 00:10:17 [INFO] [WorldGuard] (world_nether) Lighters are PERMITTED.
+2014-11-15 00:10:17 [INFO] [WorldGuard] (world_nether) Lava fire is blocked.
+2014-11-15 00:10:17 [INFO] [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+2014-11-15 00:10:17 [INFO] [WorldGuard] Loaded configuration for world 'world_nether'
+2014-11-15 00:10:17 [INFO] [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+2014-11-15 00:10:17 [INFO] [WorldGuard] (world_the_end) Lighters are PERMITTED.
+2014-11-15 00:10:17 [INFO] [WorldGuard] (world_the_end) Lava fire is blocked.
+2014-11-15 00:10:17 [INFO] [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+2014-11-15 00:10:17 [INFO] [WorldGuard] Loaded configuration for world 'world_the_end'
+2014-11-15 00:10:17 [INFO] [WorldGuard] (plotworld) TNT ignition is PERMITTED.
+2014-11-15 00:10:17 [INFO] [WorldGuard] (plotworld) Lighters are PERMITTED.
+2014-11-15 00:10:17 [INFO] [WorldGuard] (plotworld) Lava fire is blocked.
+2014-11-15 00:10:17 [INFO] [WorldGuard] (plotworld) Fire spread is UNRESTRICTED.
+2014-11-15 00:10:17 [INFO] [WorldGuard] Loaded configuration for world 'plotworld'
+2014-11-15 00:10:17 [INFO] [WorldGuard] 13 regions loaded for 'world'
+2014-11-15 00:10:17 [INFO] [WorldGuard] 1 regions loaded for 'world_nether'
+2014-11-15 00:10:17 [INFO] [WorldGuard] 0 regions loaded for 'world_the_end'
+2014-11-15 00:10:17 [INFO] [WorldGuard] 1 regions loaded for 'plotworld'
+2014-11-15 00:10:17 [INFO] [RemoteToolkitPlugin] Enabling RemoteToolkitPlugin vR10_A14.5
+2014-11-15 00:10:18 [INFO] Memory max: 2051604480 bytes
+2014-11-15 00:10:18 [INFO] Memory total: 1038090240 bytes
+2014-11-15 00:10:18 [INFO] Remote Toolkit Plugin R10_A14.5 enabled!
+2014-11-15 00:10:18 [INFO] [ToolStats] Enabling ToolStats v1.1.4
+2014-11-15 00:10:18 [INFO] [DoubleJump] Enabling DoubleJump v0.1
+2014-11-15 00:10:18 [INFO] [GlobalMarket] Enabling GlobalMarket v1.2.2
+2014-11-15 00:10:19 [INFO] [AutoMessage] Enabling AutoMessage v2.3.1
+2014-11-15 00:10:19 [INFO] [MessageControl] Enabling MessageControl v1.5
+2014-11-15 00:10:19 [INFO] [MessageControl] v.1.5 loaded!
+2014-11-15 00:10:20 [INFO] [JukeBoxGUI] Enabling JukeBoxGUI v1.5.2
+2014-11-15 00:10:20 [INFO] [BanSync] Enabling BanSync v1.0-b30
+2014-11-15 00:10:20 [INFO] [BanSync] [INFO] LWC not Found
+2014-11-15 00:10:20 [INFO] [BanSync] [INFO] PlotMe was found, hooked into PlotMe
+2014-11-15 00:10:20 [INFO] [BanSync] [INFO] Vault Found, hooking into Vault.
+2014-11-15 00:10:20 [INFO] [BanSync] [INFO] Grief Prevention not Found
+2014-11-15 00:10:20 [INFO] [BanSync] [INFO] WorldGuard Found, hooking into WorldGuard.
+2014-11-15 00:10:20 [INFO] [BanSync] [INFO] Essentials Found, hooking into Essentials.
+2014-11-15 00:10:20 [INFO] [AntiAdvertising] Enabling AntiAdvertising v2.1.5
+2014-11-15 00:10:20 [INFO] [AntiAdvertising] (Re-)loading config...
+2014-11-15 00:10:20 [INFO] [AntiAdvertising] (Re-)loading config finished
+2014-11-15 00:10:20 [INFO] [PvPReward] Enabling PvPReward v1.9.0
+2014-11-15 00:10:20 [INFO] [PvPReward] PvPReward 1.9.0 (Build 718) is enabled!
+2014-11-15 00:10:20 [INFO] [Modifyworld] Enabling Modifyworld v1.19.4
+2014-11-15 00:10:20 [INFO] [Modifyworld] Modifyworld enabled!
+2014-11-15 00:10:20 [INFO] [Essentials] Enabling Essentials vDev2.12.53
+2014-11-15 00:10:20 [INFO] Le format de la version de Bukkit a été changé. La version n'a pas été vérifiée.
+2014-11-15 00:10:20 [INFO] git-Spigot-1067 (MC: 1.6.2)
+2014-11-15 00:10:20 [INFO] 1.6.2-R0.1-SNAPSHOT
+2014-11-15 00:10:20 [INFO] Essentials: Using PermissionsEx based permissions.
+2014-11-15 00:10:20 [INFO] [Essentials] Payment method found (Vault - Economy: BOSEconomy version: 1.2.25-b320)
+2014-11-15 00:10:20 [INFO] [Citizens] Enabling Citizens v2.0.9-SNAPSHOT (build 912)
+2014-11-15 00:10:21 [INFO] [EssentialsProtect] Enabling EssentialsProtect vDev2.12.53
+2014-11-15 00:10:21 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn vDev2.12.53
+2014-11-15 00:10:21 [INFO] [CreativeGates] Enabling CreativeGates v2.0.1
+2014-11-15 00:10:21 [INFO] [0;36;22m[[0;36;1mCreativeGates 2.0.1[0;36;22m] [0;33;1m=== ENABLE START ===[m
+2014-11-15 00:10:21 [INFO] [0;36;22m[[0;36;1mCreativeGates 2.0.1[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m145ms[0;33;1m) ===[m
+2014-11-15 00:10:21 [INFO] [Reforestation] Enabling Reforestation v1.8.0
+2014-11-15 00:10:21 [INFO] [Reforestation] Residence not found, ignoring support
+2014-11-15 00:10:21 [INFO] [Reforestation] WorldGuard support has been enabled
+2014-11-15 00:10:21 [INFO] [Reforestation] Reforestation has detected 4 plants. Replant delay at 200 ticks, or 10.0 second(s).
+2014-11-15 00:10:21 [INFO] [BOSEconomy] Enabling BOSEconomy v0.7.3.1
+2014-11-15 00:10:22 [INFO] BOSEconomy v0.7.3.1 enabled.
+2014-11-15 00:10:23 [INFO] [JSONAPI] Enabling JSONAPI v5.0.0
+2014-11-15 00:10:23 [INFO] [JSONAPI] Injected packet: 0x47
+2014-11-15 00:10:23 [INFO] [JSONAPI] Injected packet: 0x51
+2014-11-15 00:10:23 [INFO] [JSONAPI] Logging to file: true
+2014-11-15 00:10:23 [INFO] [JSONAPI] Logging to console: false
+2014-11-15 00:10:23 [INFO] [JSONAPI] IP Whitelist = None, all requests are allowed.
+2014-11-15 00:10:23 [INFO] [JSONAPI] Attempting to use port 20059
+2014-11-15 00:10:23 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild vDev2.12.53
+2014-11-15 00:10:23 [INFO] [Timeismoney] Enabling Timeismoney v1.3
+2014-11-15 00:10:23 [INFO] [Timeismoney] Vault dependency found. Economy plugin found: BOSEconomy
+2014-11-15 00:10:23 [INFO] Timeismoney is now enabled
+2014-11-15 00:10:23 [INFO] [EssentialsChat] Enabling EssentialsChat vDev2.12.53
+2014-11-15 00:10:23 [INFO] [Factions] Enabling Factions v1.8.2
+2014-11-15 00:10:23 [INFO] [Factions v1.8.2] === ENABLE START ===
+2014-11-15 00:10:24 [INFO] [Factions v1.8.2] Loading board from disk
+2014-11-15 00:10:24 [INFO] [Factions v1.8.2] Economy integration through Vault plugin successful.
+2014-11-15 00:10:24 [INFO] [Factions v1.8.2] NOTE: Economy is disabled. You can enable it with the command: f config econEnabled true
+2014-11-15 00:10:24 [INFO] [Factions v1.8.2] === ENABLE DONE (Took 971ms) ===
+2014-11-15 00:10:24 [INFO] [Sentry] Enabling Sentry v1.4.1
+2014-11-15 00:10:24 [INFO] [Sentry] Could not register with Denizen
+2014-11-15 00:10:24 [INFO] [Sentry] Could not find or register with Towny
+2014-11-15 00:10:24 [INFO] [Sentry] Registered with Factions sucessfully. the FACTION: target will function
+2014-11-15 00:10:24 [INFO] [Sentry] Could not find or register with War. 
+2014-11-15 00:10:24 [INFO] [Sentry] Could not find or register with SimpleClans. 
+2014-11-15 00:10:25 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-11-15 00:10:25 [INFO] Done (17,147s)! For help, type "help" or "?"
+2014-11-15 00:10:27 [INFO] [Sentry] Registered sucessfully with Vault: 8 groups found. The GROUP: target will function
+2014-11-15 00:10:27 [SEVERE] [Citizens] Abandon sur une carractéristique erronée ou manquante blacksmith pendant le chargement de lID {1}. Le nom as-til changé ?
+2014-11-15 00:10:27 [INFO] [Citizens] 10 PNJs chargé(s).
+2014-11-15 00:10:54 [INFO] eyesofcreeper[/127.0.0.1:60516] logged in with entity id 695 at ([world] 9129.241084143841, 68.16610926093821, 9559.389323301082)
+2014-11-15 00:11:09 [WARNING] [WorldEdit] No compatible nms block class found.
+2014-11-15 00:11:16 [INFO] _Turrok_[/92.90.26.112:40843] logged in with entity id 762 at ([world] 9198.0, 73.0, 9549.0)
+2014-11-15 00:11:18 [SEVERE] java.lang.ArrayIndexOutOfBoundsException: -1
+2014-11-15 00:11:18 [SEVERE] 	at java.util.concurrent.CopyOnWriteArrayList.get(CopyOnWriteArrayList.java:368)
+2014-11-15 00:11:18 [SEVERE] 	at java.util.concurrent.CopyOnWriteArrayList.get(CopyOnWriteArrayList.java:377)
+2014-11-15 00:11:18 [SEVERE] 	at net.minecraft.server.v1_6_R2.PlayerList.tick(PlayerList.java:731)
+2014-11-15 00:11:18 [SEVERE] 	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:596)
+2014-11-15 00:11:18 [SEVERE] 	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:239)
+2014-11-15 00:11:18 [SEVERE] 	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:481)
+2014-11-15 00:11:18 [SEVERE] 	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:413)
+2014-11-15 00:11:18 [SEVERE] 	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+2014-11-15 00:11:18 [SEVERE] Encountered an unexpected exception ArrayIndexOutOfBoundsException
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.concurrent.CopyOnWriteArrayList.get(CopyOnWriteArrayList.java:368)
+	at java.util.concurrent.CopyOnWriteArrayList.get(CopyOnWriteArrayList.java:377)
+	at net.minecraft.server.v1_6_R2.PlayerList.tick(PlayerList.java:731)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:596)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:239)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:481)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:413)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+2014-11-15 00:11:19 [SEVERE] This crash report has been saved to: /Users/ucatchit/Desktop/DST2/home/arthur/minecraft/Mpvp/serveur/./crash-reports/crash-2014-11-15_00.11.19-server.txt
+2014-11-15 00:11:59 [INFO] [0;35;1m[Server] **SAUVGARDE DE LA MAP**[m
+2014-11-15 00:11:59 [INFO] CONSOLE: Forcing save..[m
+2014-11-15 00:11:59 [INFO] CONSOLE: Save complete.[m
+2014-11-15 00:11:59 [INFO] [0;35;1m[Server] **SAUVEGARDE TERMINEE**[m
+2014-11-15 00:12:26 [INFO] Starting minecraft server version 1.6.2
+2014-11-15 00:12:26 [INFO] Loading properties
+2014-11-15 00:12:26 [INFO] Default game type: SURVIVAL
+2014-11-15 00:12:27 [INFO] This server is running CraftBukkit version git-Spigot-1067 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2014-11-15 00:12:28 [INFO] Generating keypair
+2014-11-15 00:12:29 [INFO] Starting Minecraft server on *:25560
+2014-11-15 00:12:29 [INFO] DataSourcePool [TeleportSigns] autoCommit[false] transIsolation[SERIALIZABLE] min[2] max[20]
+2014-11-15 00:12:31 [INFO] SubClassFactory parent ClassLoader [org.bukkit.plugin.java.PluginClassLoader]
+2014-11-15 00:12:32 [INFO] Entities enhanced[0] subclassed[1]
+2014-11-15 00:12:32 [INFO] [PermissionsEx] sql backend registered!
+2014-11-15 00:12:32 [INFO] [PermissionsEx] file backend registered!
+2014-11-15 00:12:32 [INFO] [PermissionsEx] PermissionEx plugin initialized.
+2014-11-15 00:12:33 [INFO] [TeleportSigns] Loading TeleportSigns v1.3-b45
+2014-11-15 00:12:33 [INFO] [WorldEdit] Loading WorldEdit v5.5.6
+2014-11-15 00:12:33 [INFO] [Wardrobe] Loading Wardrobe v1.5
+2014-11-15 00:12:33 [INFO] [Spawner] Loading Spawner v1.7b
+2014-11-15 00:12:33 [INFO] [NoCheatPlus] Loading NoCheatPlus v3.10.1-SNAPSHOT-sMD5NET-b600
+2014-11-15 00:12:33 [INFO] [BattleTracker] Loading BattleTracker v2.5.3.7.1
+2014-11-15 00:12:33 [INFO] [CommandRank] Loading CommandRank v3.1.6
+2014-11-15 00:12:33 [INFO] [SuperJump] Loading SuperJump v0.8
+2014-11-15 00:12:33 [INFO] [mcore] Loading mcore v6.5.0
+2014-11-15 00:12:33 [INFO] [Vault] Loading Vault v1.2.25-b320
+2014-11-15 00:12:33 [INFO] [SimpleVanish] Loading SimpleVanish v0.4
+2014-11-15 00:12:33 [INFO] [PlotMe] Loading PlotMe v0.13b
+2014-11-15 00:12:33 [INFO] [PlayerHeads] Loading PlayerHeads v3.2-jenkins-PlayerHeads-1-11-gb37e970
+2014-11-15 00:12:33 [INFO] [PermissionsEx] Loading PermissionsEx v1.19.5
+2014-11-15 00:12:33 [INFO] [PermissionsEx] Initializing file backend
+2014-11-15 00:12:33 [INFO] Permissions file successfully reloaded
+2014-11-15 00:12:33 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+2014-11-15 00:12:33 [INFO] [CombatTag] Loading CombatTag v5.9.2
+2014-11-15 00:12:33 [INFO] [CookieMonster] Loading CookieMonster v1.7.4.1
+2014-11-15 00:12:33 [INFO] [WorldGuard] Loading WorldGuard v5.7.4
+2014-11-15 00:12:33 [INFO] [RemoteToolkitPlugin] Loading RemoteToolkitPlugin vR10_A14.5
+2014-11-15 00:12:33 [INFO] [ToolStats] Loading ToolStats v1.1.4
+2014-11-15 00:12:33 [INFO] [DoubleJump] Loading DoubleJump v0.1
+2014-11-15 00:12:33 [INFO] [GlobalMarket] Loading GlobalMarket v1.2.2
+2014-11-15 00:12:33 [INFO] [AutoMessage] Loading AutoMessage v2.3.1
+2014-11-15 00:12:33 [INFO] [MessageControl] Loading MessageControl v1.5
+2014-11-15 00:12:33 [INFO] [JukeBoxGUI] Loading JukeBoxGUI v1.5.2
+2014-11-15 00:12:33 [INFO] [BanSync] Loading BanSync v1.0-b30
+2014-11-15 00:12:33 [INFO] [AntiAdvertising] Loading AntiAdvertising v2.1.5
+2014-11-15 00:12:33 [INFO] [PvPReward] Loading PvPReward v1.9.0
+2014-11-15 00:12:33 [INFO] [Modifyworld] Loading Modifyworld v1.19.4
+2014-11-15 00:12:33 [INFO] [Essentials] Loading Essentials vDev2.12.53
+2014-11-15 00:12:33 [INFO] [Citizens] Loading Citizens v2.0.9-SNAPSHOT (build 912)
+2014-11-15 00:12:33 [INFO] [EssentialsProtect] Loading EssentialsProtect vDev2.12.53
+2014-11-15 00:12:33 [INFO] [EssentialsSpawn] Loading EssentialsSpawn vDev2.12.53
+2014-11-15 00:12:33 [INFO] [CreativeGates] Loading CreativeGates v2.0.1
+2014-11-15 00:12:33 [INFO] [Reforestation] Loading Reforestation v1.8.0
+2014-11-15 00:12:33 [INFO] [BOSEconomy] Loading BOSEconomy v0.7.3.1
+2014-11-15 00:12:33 [INFO] [JSONAPI] Loading JSONAPI v5.0.0
+2014-11-15 00:12:33 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild vDev2.12.53
+2014-11-15 00:12:33 [INFO] [Timeismoney] Loading Timeismoney v1.3
+2014-11-15 00:12:33 [INFO] [EssentialsChat] Loading EssentialsChat vDev2.12.53
+2014-11-15 00:12:33 [INFO] [Factions] Loading Factions v1.8.2
+2014-11-15 00:12:33 [INFO] [Sentry] Loading Sentry v1.4.1
+2014-11-15 00:12:33 [INFO] [mcore] Enabling mcore v6.5.0
+2014-11-15 00:12:33 [INFO] [mcore 6.5.0] === ENABLE START ===
+2014-11-15 00:12:33 [INFO] [mcore 6.5.0] Setup of SenderIdMixinDefault took 55ms.
+2014-11-15 00:12:34 [INFO] [mcore 6.5.0] === ENABLE COMPLETE (Took 350ms) ===
+2014-11-15 00:12:34 [INFO] [Vault] Enabling Vault v1.2.25-b320
+2014-11-15 00:12:34 [INFO] [Vault][Economy] BOSEconomy7 found: Waiting
+2014-11-15 00:12:34 [INFO] [Vault][Economy] Essentials Economy found: Waiting
+2014-11-15 00:12:34 [INFO] [Vault][Permission] PermissionsEx found: Waiting
+2014-11-15 00:12:34 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2014-11-15 00:12:34 [INFO] [Vault][Chat] PermissionsEx found: Waiting
+2014-11-15 00:12:34 [INFO] [Vault] Enabled Version 1.2.25-b320
+2014-11-15 00:12:34 [INFO] [mcore 6.5.0] Activated integration with Vault
+2014-11-15 00:12:34 [INFO] [Vault][Economy] BOSEconomy hooked.
+2014-11-15 00:12:34 [INFO] [Vault][Economy] Essentials Economy hooked.
+2014-11-15 00:12:34 [INFO] [Vault][Permission] PermissionsEx hooked.
+2014-11-15 00:12:34 [INFO] [PlotMe] Enabling PlotMe v0.13b
+2014-11-15 00:12:35 [INFO] §9[PlotMe] §r 50 plots loaded
+2014-11-15 00:12:35 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-11-15 00:12:35 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-11-15 00:12:35 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-11-15 00:12:35 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-11-15 00:12:35 [INFO] Preparing level "world"
+2014-11-15 00:12:35 [INFO] -------- World Settings For [world] --------
+2014-11-15 00:12:35 [INFO] Anti X-Ray: true
+2014-11-15 00:12:35 [INFO] 	Engine Mode: 1
+2014-11-15 00:12:35 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-11-15 00:12:35 [INFO] Mob Spawn Range: 4
+2014-11-15 00:12:35 [INFO] Cactus Growth Modifier: 100%
+2014-11-15 00:12:35 [INFO] Cane Growth Modifier: 100%
+2014-11-15 00:12:35 [INFO] Melon Growth Modifier: 100%
+2014-11-15 00:12:35 [INFO] Mushroom Growth Modifier: 100%
+2014-11-15 00:12:35 [INFO] Pumpkin Growth Modifier: 100%
+2014-11-15 00:12:35 [INFO] Sapling Growth Modifier: 100%
+2014-11-15 00:12:35 [INFO] Wheat Growth Modifier: 100%
+2014-11-15 00:12:35 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-11-15 00:12:35 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-11-15 00:12:35 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-11-15 00:12:35 [INFO] Random Lighting Updates: true
+2014-11-15 00:12:35 [INFO] Item Merge Radius: 2.5
+2014-11-15 00:12:35 [INFO] View Distance: 6
+2014-11-15 00:12:35 [INFO] Chunks to Grow per Tick: 650
+2014-11-15 00:12:35 [INFO] Experience Merge Radius: 3.0
+2014-11-15 00:12:36 [INFO] -------- World Settings For [world_nether] --------
+2014-11-15 00:12:36 [INFO] Anti X-Ray: true
+2014-11-15 00:12:36 [INFO] 	Engine Mode: 1
+2014-11-15 00:12:36 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-11-15 00:12:36 [INFO] Mob Spawn Range: 4
+2014-11-15 00:12:36 [INFO] Cactus Growth Modifier: 100%
+2014-11-15 00:12:36 [INFO] Cane Growth Modifier: 100%
+2014-11-15 00:12:36 [INFO] Melon Growth Modifier: 100%
+2014-11-15 00:12:36 [INFO] Mushroom Growth Modifier: 100%
+2014-11-15 00:12:36 [INFO] Pumpkin Growth Modifier: 100%
+2014-11-15 00:12:36 [INFO] Sapling Growth Modifier: 100%
+2014-11-15 00:12:36 [INFO] Wheat Growth Modifier: 100%
+2014-11-15 00:12:36 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-11-15 00:12:36 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-11-15 00:12:36 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-11-15 00:12:36 [INFO] Random Lighting Updates: true
+2014-11-15 00:12:36 [INFO] Item Merge Radius: 2.5
+2014-11-15 00:12:36 [INFO] View Distance: 6
+2014-11-15 00:12:36 [INFO] Chunks to Grow per Tick: 650
+2014-11-15 00:12:36 [INFO] Experience Merge Radius: 3.0
+2014-11-15 00:12:36 [INFO] -------- World Settings For [world_the_end] --------
+2014-11-15 00:12:36 [INFO] Anti X-Ray: true
+2014-11-15 00:12:36 [INFO] 	Engine Mode: 1
+2014-11-15 00:12:36 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-11-15 00:12:36 [INFO] Mob Spawn Range: 4
+2014-11-15 00:12:36 [INFO] Cactus Growth Modifier: 100%
+2014-11-15 00:12:36 [INFO] Cane Growth Modifier: 100%
+2014-11-15 00:12:36 [INFO] Melon Growth Modifier: 100%
+2014-11-15 00:12:36 [INFO] Mushroom Growth Modifier: 100%
+2014-11-15 00:12:36 [INFO] Pumpkin Growth Modifier: 100%
+2014-11-15 00:12:36 [INFO] Sapling Growth Modifier: 100%
+2014-11-15 00:12:36 [INFO] Wheat Growth Modifier: 100%
+2014-11-15 00:12:36 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-11-15 00:12:36 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-11-15 00:12:36 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-11-15 00:12:36 [INFO] Random Lighting Updates: true
+2014-11-15 00:12:36 [INFO] Item Merge Radius: 2.5
+2014-11-15 00:12:36 [INFO] View Distance: 6
+2014-11-15 00:12:36 [INFO] Chunks to Grow per Tick: 650
+2014-11-15 00:12:36 [INFO] Experience Merge Radius: 3.0
+2014-11-15 00:12:36 [INFO] Preparing start region for level 0 (Seed: -72206553528179552)
+2014-11-15 00:12:37 [INFO] Preparing spawn area: 60%
+2014-11-15 00:12:37 [INFO] Preparing start region for level 1 (Seed: -72206553528179552)
+2014-11-15 00:12:38 [INFO] Preparing spawn area: 96%
+2014-11-15 00:12:38 [INFO] Preparing start region for level 2 (Seed: -2199309310656497319)
+2014-11-15 00:12:39 [INFO] [TeleportSigns] Enabling TeleportSigns v1.3-b45
+2014-11-15 00:12:39 [INFO] [WorldEdit] Enabling WorldEdit v5.5.6
+2014-11-15 00:12:39 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-11-15 00:12:39 [INFO] [Wardrobe] Enabling Wardrobe v1.5
+2014-11-15 00:12:39 [INFO] Wardrobe Version 1.5 Enabled!
+2014-11-15 00:12:39 [INFO] [Spawner] Enabling Spawner v1.7b
+2014-11-15 00:12:39 [INFO] [Spawner] Loading language.yml
+2014-11-15 00:12:39 [INFO] [NoCheatPlus] Enabling NoCheatPlus v3.10.1-SNAPSHOT-sMD5NET-b600
+2014-11-15 00:12:39 [INFO] [NoCheatPlus] McAccess set to: 1.6.2 / CB2808-DEV
+2014-11-15 00:12:40 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+2014-11-15 00:12:40 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+2014-11-15 00:12:40 [INFO] [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+2014-11-15 00:12:40 [INFO] [NoCheatPlus] Version 3.10.1-SNAPSHOT-sMD5NET-b600 is enabled.
+2014-11-15 00:12:40 [INFO] [BattleTracker] Enabling BattleTracker v2.5.3.7.1
+2014-11-15 00:12:40 [INFO] [BattleTracker v2.5.3.7.1] enabled!
+2014-11-15 00:12:41 [INFO] [CommandRank] Enabling CommandRank v3.1.6
+2014-11-15 00:12:41 [INFO] [CommandRank] Vault found!
+2014-11-15 00:12:41 [INFO] [CommandRank] Hmm.. Vault was enabled but you are not using the economy part...
+2014-11-15 00:12:41 [INFO] [CommandRank] v3.1.6 was enabled.
+2014-11-15 00:12:41 [INFO] [SuperJump] Enabling SuperJump v0.8
+2014-11-15 00:12:41 [INFO] [SuperJump] Enabling SuperJump 0.8
+2014-11-15 00:12:41 [INFO] [SimpleVanish] Enabling SimpleVanish v0.4
+2014-11-15 00:12:41 [INFO] [PlayerHeads] Enabling PlayerHeads v3.2-jenkins-PlayerHeads-1-11-gb37e970
+2014-11-15 00:12:43 [INFO] [PermissionsEx] Enabling PermissionsEx v1.19.5
+2014-11-15 00:12:43 [INFO] [PermissionsEx] Superperms support enabled.
+2014-11-15 00:12:43 [INFO] [PermissionsEx] v1.19.5 enabled
+2014-11-15 00:12:43 [INFO] WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+2014-11-15 00:12:43 [INFO] [Vault][Chat] PermissionsEx_Chat hooked.
+2014-11-15 00:12:43 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+2014-11-15 00:12:43 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-11-15 00:12:43 [INFO] [AllPay] - Version 10.0 - hooked into BOSEconomy for Multiverse-Core v2.4-b527
+2014-11-15 00:12:44 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -72206553528179552
+2014-11-15 00:12:44 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -72206553528179552
+2014-11-15 00:12:44 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -2199309310656497319
+2014-11-15 00:12:44 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 1455301276081882205 & generator: PlotMe
+2014-11-15 00:12:44 [INFO] -------- World Settings For [plotworld] --------
+2014-11-15 00:12:44 [INFO] Anti X-Ray: true
+2014-11-15 00:12:44 [INFO] 	Engine Mode: 1
+2014-11-15 00:12:44 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-11-15 00:12:44 [INFO] Mob Spawn Range: 4
+2014-11-15 00:12:44 [INFO] Cactus Growth Modifier: 100%
+2014-11-15 00:12:44 [INFO] Cane Growth Modifier: 100%
+2014-11-15 00:12:44 [INFO] Melon Growth Modifier: 100%
+2014-11-15 00:12:44 [INFO] Mushroom Growth Modifier: 100%
+2014-11-15 00:12:44 [INFO] Pumpkin Growth Modifier: 100%
+2014-11-15 00:12:44 [INFO] Sapling Growth Modifier: 100%
+2014-11-15 00:12:44 [INFO] Wheat Growth Modifier: 100%
+2014-11-15 00:12:44 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-11-15 00:12:44 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-11-15 00:12:44 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-11-15 00:12:44 [INFO] Random Lighting Updates: true
+2014-11-15 00:12:44 [INFO] Item Merge Radius: 2.5
+2014-11-15 00:12:44 [INFO] View Distance: 6
+2014-11-15 00:12:44 [INFO] Chunks to Grow per Tick: 650
+2014-11-15 00:12:44 [INFO] Experience Merge Radius: 3.0
+2014-11-15 00:12:44 [INFO] Preparing start region for level 3 (Seed: 1455301276081882205)
+2014-11-15 00:12:45 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2014-11-15 00:12:45 [INFO] [CombatTag] Enabling CombatTag v5.9.2
+2014-11-15 00:12:45 [INFO] [CombatTag] has loaded with a tag time of 10 seconds
+2014-11-15 00:12:45 [INFO] [CookieMonster] Enabling CookieMonster v1.7.4.1
+2014-11-15 00:12:45 [INFO] [CookieMonster] Using Vault v1.2.25-b320 for economy
+2014-11-15 00:12:45 [INFO] [CookieMonster]  v1.7.4.1 loaded successfully.
+2014-11-15 00:12:45 [INFO] [CookieMonster]  Developed by: [jascotty2, Coelho]
+2014-11-15 00:12:45 [INFO] [WorldGuard] Enabling WorldGuard v5.7.4
+2014-11-15 00:12:45 [INFO] [WorldGuard] (world) TNT ignition is PERMITTED.
+2014-11-15 00:12:45 [INFO] [WorldGuard] (world) Lighters are PERMITTED.
+2014-11-15 00:12:45 [INFO] [WorldGuard] (world) Lava fire is blocked.
+2014-11-15 00:12:45 [INFO] [WorldGuard] (world) Fire spread is UNRESTRICTED.
+2014-11-15 00:12:45 [INFO] [WorldGuard] Loaded configuration for world 'world'
+2014-11-15 00:12:45 [INFO] [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+2014-11-15 00:12:45 [INFO] [WorldGuard] (world_nether) Lighters are PERMITTED.
+2014-11-15 00:12:45 [INFO] [WorldGuard] (world_nether) Lava fire is blocked.
+2014-11-15 00:12:45 [INFO] [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+2014-11-15 00:12:45 [INFO] [WorldGuard] Loaded configuration for world 'world_nether'
+2014-11-15 00:12:45 [INFO] [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+2014-11-15 00:12:45 [INFO] [WorldGuard] (world_the_end) Lighters are PERMITTED.
+2014-11-15 00:12:45 [INFO] [WorldGuard] (world_the_end) Lava fire is blocked.
+2014-11-15 00:12:45 [INFO] [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+2014-11-15 00:12:45 [INFO] [WorldGuard] Loaded configuration for world 'world_the_end'
+2014-11-15 00:12:45 [INFO] [WorldGuard] (plotworld) TNT ignition is PERMITTED.
+2014-11-15 00:12:45 [INFO] [WorldGuard] (plotworld) Lighters are PERMITTED.
+2014-11-15 00:12:45 [INFO] [WorldGuard] (plotworld) Lava fire is blocked.
+2014-11-15 00:12:45 [INFO] [WorldGuard] (plotworld) Fire spread is UNRESTRICTED.
+2014-11-15 00:12:45 [INFO] [WorldGuard] Loaded configuration for world 'plotworld'
+2014-11-15 00:12:45 [INFO] [WorldGuard] 13 regions loaded for 'world'
+2014-11-15 00:12:45 [INFO] [WorldGuard] 1 regions loaded for 'world_nether'
+2014-11-15 00:12:45 [INFO] [WorldGuard] 0 regions loaded for 'world_the_end'
+2014-11-15 00:12:45 [INFO] [WorldGuard] 1 regions loaded for 'plotworld'
+2014-11-15 00:12:45 [INFO] [RemoteToolkitPlugin] Enabling RemoteToolkitPlugin vR10_A14.5
+2014-11-15 00:12:45 [INFO] Memory max: 2051604480 bytes
+2014-11-15 00:12:45 [INFO] Memory total: 1038024704 bytes
+2014-11-15 00:12:45 [INFO] Remote Toolkit Plugin R10_A14.5 enabled!
+2014-11-15 00:12:45 [INFO] [ToolStats] Enabling ToolStats v1.1.4
+2014-11-15 00:12:45 [INFO] [DoubleJump] Enabling DoubleJump v0.1
+2014-11-15 00:12:45 [INFO] [GlobalMarket] Enabling GlobalMarket v1.2.2
+2014-11-15 00:12:46 [INFO] [AutoMessage] Enabling AutoMessage v2.3.1
+2014-11-15 00:12:46 [INFO] [MessageControl] Enabling MessageControl v1.5
+2014-11-15 00:12:46 [INFO] [MessageControl] v.1.5 loaded!
+2014-11-15 00:12:46 [INFO] [JukeBoxGUI] Enabling JukeBoxGUI v1.5.2
+2014-11-15 00:12:46 [INFO] [BanSync] Enabling BanSync v1.0-b30
+2014-11-15 00:12:46 [INFO] [BanSync] [INFO] LWC not Found
+2014-11-15 00:12:46 [INFO] [BanSync] [INFO] PlotMe was found, hooked into PlotMe
+2014-11-15 00:12:46 [INFO] [BanSync] [INFO] Vault Found, hooking into Vault.
+2014-11-15 00:12:46 [INFO] [BanSync] [INFO] Grief Prevention not Found
+2014-11-15 00:12:47 [INFO] [BanSync] [INFO] WorldGuard Found, hooking into WorldGuard.
+2014-11-15 00:12:47 [INFO] [BanSync] [INFO] Essentials Found, hooking into Essentials.
+2014-11-15 00:12:47 [INFO] [AntiAdvertising] Enabling AntiAdvertising v2.1.5
+2014-11-15 00:12:47 [INFO] [AntiAdvertising] (Re-)loading config...
+2014-11-15 00:12:47 [INFO] [AntiAdvertising] (Re-)loading config finished
+2014-11-15 00:12:47 [INFO] [PvPReward] Enabling PvPReward v1.9.0
+2014-11-15 00:12:47 [INFO] [PvPReward] PvPReward 1.9.0 (Build 718) is enabled!
+2014-11-15 00:12:47 [INFO] [Modifyworld] Enabling Modifyworld v1.19.4
+2014-11-15 00:12:47 [INFO] [Modifyworld] Modifyworld enabled!
+2014-11-15 00:12:47 [INFO] [Essentials] Enabling Essentials vDev2.12.53
+2014-11-15 00:12:47 [INFO] Le format de la version de Bukkit a été changé. La version n'a pas été vérifiée.
+2014-11-15 00:12:47 [INFO] git-Spigot-1067 (MC: 1.6.2)
+2014-11-15 00:12:47 [INFO] 1.6.2-R0.1-SNAPSHOT
+2014-11-15 00:12:48 [INFO] Essentials: Using PermissionsEx based permissions.
+2014-11-15 00:12:48 [INFO] [Essentials] Payment method found (Vault - Economy: BOSEconomy version: 1.2.25-b320)
+2014-11-15 00:12:48 [INFO] [Citizens] Enabling Citizens v2.0.9-SNAPSHOT (build 912)
+2014-11-15 00:12:48 [INFO] [EssentialsProtect] Enabling EssentialsProtect vDev2.12.53
+2014-11-15 00:12:48 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn vDev2.12.53
+2014-11-15 00:12:48 [INFO] [CreativeGates] Enabling CreativeGates v2.0.1
+2014-11-15 00:12:48 [INFO] [0;36;22m[[0;36;1mCreativeGates 2.0.1[0;36;22m] [0;33;1m=== ENABLE START ===[m
+2014-11-15 00:12:49 [INFO] [0;36;22m[[0;36;1mCreativeGates 2.0.1[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m92ms[0;33;1m) ===[m
+2014-11-15 00:12:49 [INFO] [Reforestation] Enabling Reforestation v1.8.0
+2014-11-15 00:12:49 [INFO] [Reforestation] Residence not found, ignoring support
+2014-11-15 00:12:49 [INFO] [Reforestation] WorldGuard support has been enabled
+2014-11-15 00:12:49 [INFO] [Reforestation] Reforestation has detected 4 plants. Replant delay at 200 ticks, or 10.0 second(s).
+2014-11-15 00:12:49 [INFO] [BOSEconomy] Enabling BOSEconomy v0.7.3.1
+2014-11-15 00:12:50 [INFO] BOSEconomy v0.7.3.1 enabled.
+2014-11-15 00:12:50 [INFO] [JSONAPI] Enabling JSONAPI v5.0.0
+2014-11-15 00:12:50 [INFO] [JSONAPI] Injected packet: 0x47
+2014-11-15 00:12:50 [INFO] [JSONAPI] Injected packet: 0x51
+2014-11-15 00:12:50 [INFO] [JSONAPI] Logging to file: true
+2014-11-15 00:12:50 [INFO] [JSONAPI] Logging to console: false
+2014-11-15 00:12:50 [INFO] [JSONAPI] IP Whitelist = None, all requests are allowed.
+2014-11-15 00:12:50 [INFO] [JSONAPI] Attempting to use port 20059
+2014-11-15 00:12:50 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild vDev2.12.53
+2014-11-15 00:12:50 [INFO] [Timeismoney] Enabling Timeismoney v1.3
+2014-11-15 00:12:50 [INFO] [Timeismoney] Vault dependency found. Economy plugin found: BOSEconomy
+2014-11-15 00:12:50 [INFO] Timeismoney is now enabled
+2014-11-15 00:12:50 [INFO] [EssentialsChat] Enabling EssentialsChat vDev2.12.53
+2014-11-15 00:12:50 [INFO] [Factions] Enabling Factions v1.8.2
+2014-11-15 00:12:50 [INFO] [Factions v1.8.2] === ENABLE START ===
+2014-11-15 00:12:50 [INFO] [Factions v1.8.2] Loading board from disk
+2014-11-15 00:12:51 [INFO] [Factions v1.8.2] Economy integration through Vault plugin successful.
+2014-11-15 00:12:51 [INFO] [Factions v1.8.2] NOTE: Economy is disabled. You can enable it with the command: f config econEnabled true
+2014-11-15 00:12:51 [INFO] [Factions v1.8.2] === ENABLE DONE (Took 1154ms) ===
+2014-11-15 00:12:52 [INFO] [Sentry] Enabling Sentry v1.4.1
+2014-11-15 00:12:52 [INFO] [Sentry] Could not register with Denizen
+2014-11-15 00:12:52 [INFO] [Sentry] Could not find or register with Towny
+2014-11-15 00:12:52 [INFO] [Sentry] Registered with Factions sucessfully. the FACTION: target will function
+2014-11-15 00:12:52 [INFO] [Sentry] Could not find or register with War. 
+2014-11-15 00:12:52 [INFO] [Sentry] Could not find or register with SimpleClans. 
+2014-11-15 00:12:52 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-11-15 00:12:53 [INFO] Done (17,544s)! For help, type "help" or "?"
+2014-11-15 00:12:54 [INFO] [Sentry] Registered sucessfully with Vault: 8 groups found. The GROUP: target will function
+2014-11-15 00:12:55 [SEVERE] [Citizens] Abandon sur une carractéristique erronée ou manquante blacksmith pendant le chargement de lID {1}. Le nom as-til changé ?
+2014-11-15 00:12:55 [INFO] [Citizens] 10 PNJs chargé(s).
+2014-11-15 00:13:11 [INFO] eyesofcreeper[/127.0.0.1:60589] logged in with entity id 687 at ([world] 9126.340818247758, 67.0, 9551.995346077678)
+2014-11-15 00:13:56 [INFO] [[0;36;1mPVP[m] Coucou a toi ![m
+2014-11-15 00:14:22 [INFO] [0;35;1m[Server] **SAUVGARDE DE LA MAP**[m
+2014-11-15 00:14:22 [INFO] CONSOLE: Forcing save..[m
+2014-11-15 00:14:22 [INFO] CONSOLE: Save complete.[m
+2014-11-15 00:14:22 [INFO] [0;35;1m[Server] **SAUVEGARDE TERMINEE**[m
+2014-11-15 00:14:57 [INFO] [[0;36;1mPVP[m] besoin d'un admin ? /calladmin raison[m

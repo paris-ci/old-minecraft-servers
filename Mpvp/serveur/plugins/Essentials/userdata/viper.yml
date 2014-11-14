@@ -1,0 +1,23 @@
+lastlocation:
+  world: plotworld
+  x: -21.05975987400141
+  y: 84.85261167313324
+  z: 70.45640444541962
+  yaw: 353.75897
+  pitch: 2.2499976
+timestamps:
+  login: 1375442487485
+  lastteleport: 1375442527319
+  logout: 1375442837719
+ipAddress: 5.48.97.144
+logoutlocation:
+  world: plotworld
+  x: -97.99309484497644
+  y: 66.0
+  z: -33.788930099217914
+  yaw: 6.75
+  pitch: 2.2500002
+ban:
+  reason: 'Banni : CDB'
+  timeout: 0
+money: '110.0'

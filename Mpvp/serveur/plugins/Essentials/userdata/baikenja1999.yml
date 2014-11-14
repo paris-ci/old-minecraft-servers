@@ -1,0 +1,28 @@
+lastlocation:
+  world: plotworld
+  x: 0.13965129350208774
+  y: 69.0
+  z: -0.5006710652016908
+  yaw: 186.50902
+  pitch: 20.96281
+timestamps:
+  login: 1375564153953
+  lastteleport: 1375564087151
+  logout: 1375564195391
+ipAddress: 91.178.111.8
+homes:
+  home:
+    world: plotworld
+    x: -145.29981275208144
+    y: 65.0
+    z: -107.46632459568222
+    yaw: -32.534706
+    pitch: 3.9422185
+logoutlocation:
+  world: plotworld
+  x: -139.6214558526894
+  y: 76.52882134626569
+  z: -83.10146943888418
+  yaw: 326.31418
+  pitch: 30.390757
+money: '106.0'

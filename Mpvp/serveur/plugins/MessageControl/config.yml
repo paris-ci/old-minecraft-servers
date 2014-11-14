@@ -1,0 +1,8 @@
+# Developed by Vivaax! ColorCode Support! &a - &f, &0 - &9, &k - &o
+JoinMessage: '&e[&a+&e] &e$p.'
+QuitMessage: '&e[&4-&e] &e$p.'
+KickMessage: '&e[&4- KICKE -&e] &e$p.'
+DisableJoinMessage: false
+DisableQuitMessage: false
+DisableKickMessage: false
+DisableDeathMessage: false

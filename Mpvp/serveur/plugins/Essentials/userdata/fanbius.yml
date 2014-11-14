@@ -1,0 +1,25 @@
+lastlocation:
+  world: world
+  x: 9129.159660393138
+  y: 69.0
+  z: 9573.96410901426
+  yaw: -234.52048
+  pitch: -16.82055
+timestamps:
+  login: 1373910264948
+  lastteleport: 1373908789816
+  logout: 1373910619297
+  mute: 1373910821867
+ipAddress: 92.143.118.196
+logoutlocation:
+  world: world
+  x: 9129.67971743275
+  y: 68.0
+  z: 9579.94658782095
+  yaw: -244.9044
+  pitch: 78.89641
+money: '127.0'
+muted: true
+ban:
+  reason: 'Banni : double compte avec kill sur l''ip 92.143.118.196'
+  timeout: 0

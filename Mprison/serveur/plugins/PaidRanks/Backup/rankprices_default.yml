@@ -1,0 +1,46 @@
+DefaultPaidRanks:
+  #Format =    <rank>:   Example below.
+  #Required      Price: <price>
+  #Optional      permission: <permission>
+  
+  #When true it will use /rankup
+  Enabled: false
+  #There must be a permission here.
+  Permission: paidranks.normal
+  default:
+    Price: 100
+    #This one is optional
+    Permission: paidranks.normal.default
+  # ^^^^ These are examples of permissions with groups
+  #vvv it can look like this too. But it will use the Permission defined at the top.
+  moderator:
+    Price: 200
+NewLadders:
+  #Format = <ladder>:
+  #Required   <rank>:
+  #Required     Price: <price> Example below.
+  #Optional     Permission: <permission>
+  
+  #When true it will use /rankup <ladder>
+  Enabled: false
+  #The ladder name
+  EpicLadder:
+    #There must be a permission here. This is the main perm for the ladder
+    Permission: paidranks.ladder.EpicLadder
+    #This is the group
+    donator:
+      #This is the price (Required)
+      Price: 200
+      #This one is optional
+      Permission: paidranks.ladder.EpicLadder.donator
+    # ^^^^ These are examples of permissions with groups
+    #vvv it can look like this too. But it will use the Permission defined at the top.
+    donator+:
+      Price: 300
+
+# These lists are ordered from lowest rank to highest rank.
+# If you change default make sure you change it to the group
+# that your users enter when they join the server
+# or this plugin will not work. Group names must match
+# the group names in your permissions.yml file
+# or ranking up will not function properly.

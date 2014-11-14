@@ -1,0 +1,25 @@
+lastlocation:
+  world: world_nether
+  x: -22.40681110876591
+  y: 74.0
+  z: -2.480465730915019
+  yaw: 166.16351
+  pitch: -8.060851
+timestamps:
+  login: 1371920925070
+  lastteleport: 1371920974546
+  logout: 1371921557594
+ipAddress: 91.88.13.149
+logoutlocation:
+  world: world
+  x: -10.482141296724057
+  y: 63.0
+  z: 18.699999988079075
+  yaw: 18.717108
+  pitch: 36.246136
+money: '180.0'
+afk: false
+mail:
+- 'eyesofcreeper: Pour me repondre : /mail send eyesofcreeper MESSAGE'
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'

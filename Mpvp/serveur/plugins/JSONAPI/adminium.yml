@@ -1,0 +1,8 @@
+settings:
+  player_joined: false
+  player_quit: false
+  admin_call: true
+  severe_log: false
+devices:
+- 22ce45fe9c92d2953dae574a508fc7be9ce58860271c97023203c3a4d460a973
+- 18ee5b4bb847ef3bb8fba1f877402f2eb7d7c7219d3544776f8447166b49277c

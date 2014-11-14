@@ -1,0 +1,4 @@
+14-11-2014 22:58:04 [INFO] [LOAD] Starting main ...
+14-11-2014 22:58:04 [ATTENTION] Bon serveur pvp : pvp.api-d.com
+14-11-2014 22:58:04 [ATTENTION] Bon serveur HG : hg.api-d.com:25566
+14-11-2014 22:58:05 [ERREUR] Une erreur est survenue ... Le script s'arette !

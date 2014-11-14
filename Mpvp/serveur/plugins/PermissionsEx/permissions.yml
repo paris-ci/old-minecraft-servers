@@ -1,0 +1,406 @@
+# 
+#    visiteur:
+#        prefix: '&0(&8V&7isiteur&0)&7 '
+#        default: true
+#        options:
+#            rank: '1000'
+#        permissions:
+#        - modifyworld.chat
+groups:
+  Member:
+    prefix: '&0(&8M&7embre&0)&7 '
+    default: true
+    permissions:
+    - -bukkit.command.help
+    - plotme.limit.1
+    - modifyworld.*
+    - wardrobe.use
+    - spawner.break.*
+    - spawner.mine.*
+    - spawner.help
+    - globalmarket.create
+    - globalmarket.send
+    - globalmarket.quickmail
+    - essentials.spawnmob.wolf
+    - essentials.kit
+    - essentials.kit.others
+    - essentials.kits.color
+    - essentials.kits.notch
+    - essentials.kits.firework
+    - essentials.kits.start
+    - essentials.balance
+    - essentials.balancetop
+    - essentials.pay
+    - essentials.afk.auto
+    - essentials.depth
+    - essentials.getpos
+    - creativegates.use
+    - essentials.list
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.motd
+    - essentials.msg
+    - essentials.rules
+    - essentials.seen
+    - essentials.seen.banreason
+    - essentials.gc
+    - essentials.ping
+    - essentials.spawn
+    - essentials.delhome
+    - essentials.home
+    - essentials.home.bed
+    - essentials.signs.use.*
+    - essentials.sethome
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.tptoggle
+    - essentials.warp
+    - essentials.warps.*
+    - essentials.warp.list
+    - essentials.build.*
+    - -essentials.chat.url
+    - jobs.use
+    - jobs.command.browse
+    - jobs.command.stats
+    - jobs.command.join
+    - jobs.command.leave
+    - jobs.command.info
+    - essentials.help
+    - jukeboxgui.*
+    - ChestShop.shop.*
+    - factions.kit.fullplayer
+    - -essentials.enchant
+    - arena.spleef.join
+    - arena.leave
+    - -doublejump.use
+    - plotme.use
+    - -plotme.use.clear
+    - plotme.use.add
+    - plotme.use.remove
+    worlds:
+      plotworld:
+        permissions:
+        - essentials.fly
+        - -doublejump.use
+  VIP:
+    prefix: '&0(&6V&eIP&0)&7 '
+    inheritance:
+    - Member
+    permissions:
+    - -modifyworld.mobtarget.monster.creeper
+    - plotme.limit.2
+    - doublejump.use
+    - essentials.hat
+    - essentials.ptime
+    - essentials.repair
+    - essentials.repair.armor
+    - essentials.repair.enchanted
+    - essentials.workbench
+    - essentials.balance.others
+    - essentials.afk.kickexempt
+    - essentials.ignore
+    - essentials.me
+    - essentials.msg.color
+    - essentials.msg.format
+    - essentials.msg.magic
+    - essentials.near
+    - essentials.powertool
+    - essentials.powertool.append
+    - essentials.powertooltoggle
+    - essentials.suicide
+    - essentials.enderchest
+    - essentials.weather
+    - essentials.back.ondeath
+    - essentials.back
+    - essentials.keepxp
+    - essentials.sethome.multiple
+    - essentials.tptoggle
+    - essentials.chat.color
+    - essentials.chat.format
+    - essentials.chat.magic
+    - essentials.chat.question
+    - essentials.geoip.show
+    - essentials.joinfullserver
+    - creativegates.create
+    - essentials.kits.vip
+    - -chestshop.create
+  Helper:
+    prefix: '&0(&6H&eelper&0)&2 '
+    inheritance:
+    - VIP
+    permissions:
+    - -modifyworld.mobtarget.monster.*
+    - plotme.limit.3
+    options:
+      rank: '750'
+  Builder:
+    prefix: '&0(&1B&3uilder&0)&2 '
+    inheritance:
+    - VIP
+    permissions:
+    - -modifyworld.mobtarget.*
+    - essentials.gamemode
+    - essentials.gamemode.*
+    - essentials.protect
+    - essentials.chat.url
+    - essentials.fly.safelogin
+    - essentials.fly
+    - essentials.god
+    - -essentials.kits
+    - essentials.speed
+    - factions.*
+    - essentials.tree
+    - -essentials.eco.loan
+    - essentials.itemdb
+    - essentials.spawner
+    - essentials.spawner.*
+    - essentials.ban.exempt
+    - essentials.clearinventory
+    - essentials.invsee
+    - essentials.invsee.preventmodify
+    - essentials.kick.exempt
+    - essentials.killall
+    - essentials.mute.exempt
+    - essentials.setjail
+    - essentials.spawnmob
+    - essentials.spawnmob.*
+    - essentials.sudo.exempt
+    - essentials.tempban.exempt
+    - essentials.jail.exempt
+    - essentials.worlds.*
+    - essentials.jump
+    - essentials.top
+    - essentials.tppos
+    - essentials.teleport.cooldown.bypass
+    - essentials.teleport.timer.move
+    - essentials.world
+    - essentials.protect.admin
+    - worldedit.*
+    - worldguard.*
+    - ChestShop.admin
+    options:
+      rank: '100'
+  Moderator:
+    prefix: '&0(&1M&boderateur&0)&2 '
+    inheritance:
+    - VIP
+    permissions:
+    - -modifyworld.mobtarget.*
+    - modifyworld.*
+    - ChestShop.admin
+    - plotme.admin
+    - worldguard.*
+    - essentials.protect
+    - -chestshop.*
+    - essentials.protect.admin
+    - essentials.protect.alerts
+    - essentials.chat.url
+    - essentials.top
+    - essentials.sethome.multiple.unlimited
+    - essentials.fly.safelogin
+    - essentials.fly
+    - essentials.afk.others
+    - essentials.gamemode
+    - essentials.god
+    - essentials.god.pvp
+    - -essentials.eco.loan
+    - -essentials.kits
+    - essentials.speed
+    - essentials.getpos
+    - essentials.list.hidden
+    - essentials.feed
+    - essentials.heal
+    - essentials.chat.ignoreexempt
+    - essentials.list.hidden
+    - essentials.mail.sendall
+    - essentials.msg.url
+    - essentials.seen.extra
+    - essentials.seen.ipsearch
+    - essentials.geoip.show
+    - essentials.list.hidden
+    - essentials.whois
+    - essentials.ban
+    - essentials.ban.exempt
+    - essentials.ban.offline
+    - essentials.broadcast
+    - essentials.burn
+    - essentials.invsee
+    - essentials.invsee.modify
+    - essentials.invsee.preventmodify
+    - essentials.jails
+    - essentials.kick
+    - essentials.kick.exempt
+    - essentials.kill
+    - essentials.kill.force
+    - essentials.killall
+    - essentials.lightning
+    - essentials.lightning.others
+    - essentials.mute
+    - essentials.mute.exempt
+    - essentials.mute.notify
+    - essentials.socialspy
+    - essentials.sudo
+    - essentials.sudo.exempt
+    - essentials.tempban
+    - essentials.tempban.exempt
+    - essentials.tempban.offline
+    - essentials.thunder
+    - essentials.jail.exempt
+    - essentials.togglejail
+    - essentials.unban
+    - essentials.list.hidden
+    - essentials.vanish
+    - essentials.vanish.see
+    - essentials.spawn.others
+    - essentials.worlds.*
+    - essentials.home.others
+    - essentials.jump
+    - essentials.tp
+    - essentials.tp.others
+    - essentials.teleport.hidden
+    - factions.*
+    - essentials.tphere
+    - essentials.tppos
+    - essentials.teleport.cooldown.bypass
+    - essentials.teleport.timer.move
+    - essentials.world
+    - essentials.chat.spy
+    - essentials.gamemode
+    - essentials.gamemode.*
+    - simplevanish.*
+    options:
+      rank: '100'
+  Admin:
+    prefix: '&0(&4A&cdmin&0)&2 '
+    inheritance:
+    - Moderator
+    permissions:
+    - essentials.nick.magic
+    - essentials.nick.format
+    - essentials.nick.color
+    - essentials.realname
+    - essentials.backup
+    - essentials.ban.notify
+    - essentials.banip
+    - essentials.enderchest.modify
+    - essentials.enderchest.others
+    - essentials.kick.notify
+    - essentials.kickall
+    - essentials.nuke
+    - essentials.setjail
+    - essentials.tempban.unlimited
+    - essentials.jail.exempt
+    - essentials.togglejail.offline
+    - essentials.tptoggle.others
+    - essentials.unban
+    - essentials.teleport.hidden
+    - essentials.setspawn
+    - essentials.delwarp
+    - essentials.sethome.others
+    - essentials.setwarp
+    - -essentials.enchant
+    options:
+      rank: '2'
+  SAdmin:
+    prefix: '&0(&4Super A&cdmin&0)&2 '
+    inheritance:
+    - Admin
+    permissions:
+    - -modifyworld.mobtarget.*
+    - -essentials.unbanip
+    - -permissions.*
+    - -essentials.enchant
+    - '*'
+    options:
+      rank: '1'
+  Creator:
+    prefix: '&0(&4C&dreateur&0)&4 '
+    inheritance:
+    - Admin
+    permissions:
+    - -modifyworld.mobtarget.*
+    - essentials.unbanip
+    - '*'
+    options:
+      rank: '1'
+users:
+  goow:
+    group:
+    - Builder
+  donuts:
+    group:
+    - Admin
+    - Builder
+  Azetor:
+    group:
+    - Moderator
+    - Builder
+  fable999:
+    group:
+    - Builder
+  gabmancube:
+    group:
+    - Moderator
+    - Builder
+  antonyot:
+    group:
+    - Admin
+  SOYKABRA:
+    group:
+    - Admin
+  goowza:
+    group:
+    - Admin
+    - Designer
+  cratererapace8:
+    group:
+    - SAdmin
+  matinou:
+    group:
+    - SAdmin
+  erico:
+    group:
+    - SAdmin
+  kuyumi:
+    group:
+    - helper
+  eyesofcreeper:
+    group:
+    - Creator
+  ticown:
+    group:
+    - VIP
+  Gumknuckles:
+    group:
+    - VIP
+  remy13140:
+    group:
+    - VIP
+  BGdinoea:
+    group:
+    - VIP
+  Kirihara_Yukawa:
+    group:
+    - Builder
+  darkdydy:
+    group:
+    - Builder
+  SweetChildren:
+    group:
+    - Moderator
+    - Builder
+  alexd124641:
+    group:
+    - VIP
+  Isildur:
+    group:
+    - SAdmin
+  Bratmort:
+    group:
+    - Builder
+worlds:
+  plotworld:
+    inheritance:
+    - world

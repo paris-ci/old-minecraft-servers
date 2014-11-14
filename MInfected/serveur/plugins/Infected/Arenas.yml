@@ -1,0 +1,147 @@
+# Default Arena.yml, Last Edited in v1.6.1
+Arenas:
+  mall:
+    Plain Zombie Survival: false
+    Allow Breaking Of:
+      Global:
+      - '55'
+      - '20'
+      Human: '[]'
+      Zombie: '[]'
+    Spawns:
+    - world,9238,64,9425,-269.79092,2.7552009
+    - world,9227,64,9425,-89.771706,8.89919
+    - world,9208,67,9432,-105.131805,5.2127585
+    - world,9191,66,9442,270.26663,9.513559
+    - world,9192,68,9428,267.19464,7.6703496
+    - world,9197,67,9405,-28.331856,5.212749
+    - world,9228,69,9448,-90.386185,8.284798
+    - world,9233,69,9438,-1.9125736,8.899199
+    - world,9244,69,9447,-88.54298,-2.7744038
+    - world,9258,69,9452,90.24744,16.271994
+  pvp-tunnels:
+    Allow Breaking Of:
+      Global:
+      - '55'
+      - '20'
+      Human: '[]'
+      Zombie: '[]'
+    Plain Zombie Survival: false
+    Spawns:
+    - world,9347,73,9520,296.64868,2.6412268
+  small-rustic-pvp:
+    Allow Breaking Of:
+      Global:
+      - '55'
+      - '20'
+      Human: '[]'
+      Zombie: '[]'
+    Plain Zombie Survival: false
+    Spawns:
+    - world,9297,82,9605,-16.695557,29.174389
+    - world,9319,68,9658,138.13324,-3.9839926
+    - world,9341,66,9653,-181.35487,10.147208
+    - world,9324,68,9614,-91.038025,16.905603
+    - world,9309,73,9671,-157.39326,11.990404
+  pvp-play-arena:
+    Allow Breaking Of:
+      Global:
+      - '55'
+      - '20'
+      Human: '[]'
+      Zombie: '[]'
+    Plain Zombie Survival: false
+    Spawns:
+    - world,9453,77,9555,-73.87326,21.187199
+    - world,9469,81,9559,-217.02832,31.017591
+  family-house-2-162:
+    Allow Breaking Of:
+      Global:
+      - '55'
+      - '20'
+      Human: '[]'
+      Zombie: '[]'
+    Plain Zombie Survival: false
+    Spawns:
+    - world,9465,63,9653,-90.461914,5.827215
+    - world,9500,63,9646,-80.01712,7.670417
+    - world,9520,63,9660,-41.924286,7.6704173
+  stone-cathedral:
+    Allow Breaking Of:
+      Global:
+      - '55'
+      - '20'
+      Human: '[]'
+      Zombie: '[]'
+    Plain Zombie Survival: false
+    Spawns:
+    - world,9360,71,9742,273.33972,13.833606
+  minecraft-biophere:
+    Allow Breaking Of:
+      Global:
+      - '55'
+      - '20'
+      Human: '[]'
+      Zombie: '[]'
+    Plain Zombie Survival: false
+    Spawns:
+    - world,9658,95,9899,-65.65967,11.356798
+    - world,9733,111,9902,-243.1825,90.0
+  paintball-playground:
+    Allow Breaking Of:
+      Global:
+      - '55'
+      - '20'
+      Human: '[]'
+      Zombie: '[]'
+    Plain Zombie Survival: false
+    Spawns:
+    - world,9854,107,9874,-211.88818,18.1152
+  leaves-maze-labyrinth:
+    Allow Breaking Of:
+      Global:
+      - '55'
+      - '20'
+      Human: '[]'
+      Zombie: '[]'
+    Plain Zombie Survival: false
+    Spawns:
+    - world,10001,132,9954,-178.0584,39.619225
+    - world,9997,128,9922,-94.53848,70.953606
+  garden-of-eden:
+    Allow Breaking Of:
+      Global:
+      - '55'
+      - '20'
+      Human: '[]'
+      Zombie: '[]'
+    Plain Zombie Survival: false
+    Spawns:
+    - world,9172,102,9321,-180.55743,90.0
+    - world,9172,104,9305,-180.55743,90.0
+    - world,9156,104,9315,-180.55743,90.0
+    - world,9173,104,9338,-180.55743,90.0
+  grand-hotel:
+    Allow Breaking Of:
+      Global:
+      - '55'
+      - '20'
+      Human: '[]'
+      Zombie: '[]'
+    Plain Zombie Survival: false
+    Spawns:
+    - world,9275,79,9144,213.27293,75.25441
+    - world,9271,79,9118,1.3434143,42.076813
+    - world,9256,77,9165,283.31464,50.064014
+    - world,9303,70,9142,256.28104,61.123215
+    - world,9316,74,9141,34.521088,42.691216
+  cascade-city:
+    Allow Breaking Of:
+      Global:
+      - '55'
+      - '20'
+      Human: '[]'
+      Zombie: '[]'
+    Plain Zombie Survival: false
+    Spawns:
+    - world,9477,94,9271,153.2538,90.0

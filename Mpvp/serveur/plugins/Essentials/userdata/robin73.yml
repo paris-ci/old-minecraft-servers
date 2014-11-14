@@ -1,0 +1,33 @@
+lastlocation:
+  world: world
+  x: 9200.342309900188
+  y: 72.0
+  z: 9553.452138475313
+  yaw: -259.1455
+  pitch: 9.916709
+timestamps:
+  login: 1373300810555
+  lastteleport: 1372174676554
+  logout: 1373302350295
+  kits:
+    tools: 1372174571766
+    color: 1373301247557
+    start: 1373300968202
+    notch: 1373301218548
+ipAddress: 62.34.9.175
+logoutlocation:
+  world: world
+  x: 9198.0
+  y: 73.0
+  z: 9549.0
+  yaw: 0.0
+  pitch: 0.0
+money: '228.0'
+ban:
+  reason: Banni temporairement du serveur pour 5 jours.
+  timeout: 0
+mail:
+- 'eyesofcreeper: Pour me repondre : /mail send eyesofcreeper MESSAGE'
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'
+afk: false

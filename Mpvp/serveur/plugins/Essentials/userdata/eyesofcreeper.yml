@@ -1,0 +1,69 @@
+timestamps:
+  login: 1416006794311
+  logout: 1416006420450
+  lastteleport: 1376435167891
+  kits:
+    vip: 1373406042742
+    tools: 1370695084545
+    color: 1372865366927
+    firework: 1374493300399
+    start: 1373406028593
+    notch: 1373543799905
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 9138.141002406928
+  y: 67.0
+  z: 9550.157460795937
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 9181.26681992359
+  y: 72.0
+  z: 9551.668355793809
+  yaw: -266.80368
+  pitch: 15.657607
+afk: false
+socialspy: true
+money: '121638.0'
+ban:
+  timeout: 0
+homes:
+  crat:
+    world: world
+    x: 6378.300000011921
+    y: 87.0
+    z: -8198.699999988075
+    yaw: -354.03015
+    pitch: 90.0
+  bellebase:
+    world: world
+    x: 537.8931202511787
+    y: 50.0
+    z: -143.783041999495
+    yaw: 97.38428
+    pitch: 8.284732
+  event:
+    world: world
+    x: 10659.699999988079
+    y: 104.0
+    z: 9798.699999988079
+    yaw: -223.9242
+    pitch: 3.9840097
+  pc:
+    world: world
+    x: 8633.615820219366
+    y: 63.0
+    z: 9602.172435741268
+    yaw: -351.9355
+    pitch: 3.3887758
+  huble:
+    world: world
+    x: 9867.5
+    y: 63.0
+    z: 10401.5
+    yaw: 155.1488
+    pitch: 50.063976
+powertools: {}
+nickname: eyesofcreeper

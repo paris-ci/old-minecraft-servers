@@ -1,0 +1,8 @@
+03-08-2013 19:37:22 [INFO] [LOAD] Starting main ...
+03-08-2013 19:37:22 [ATTENTION] Bon serveur pvp : pvp.api-d.com
+03-08-2013 19:37:22 [ATTENTION] Bon serveur HG : hg.api-d.com:25566
+03-08-2013 19:37:27 [ERREUR] Une erreur est survenue ... Le script s'arette !
+20-08-2013 16:31:10 [INFO] [LOAD] Starting main ...
+20-08-2013 16:31:10 [ATTENTION] Bon serveur pvp : pvp.api-d.com
+20-08-2013 16:31:10 [ATTENTION] Bon serveur HG : hg.api-d.com:25566
+20-08-2013 16:31:27 [ERREUR] Une erreur est survenue ... Le script s'arette !

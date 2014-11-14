@@ -1,0 +1,30 @@
+lastlocation:
+  world: world
+  x: 0.0
+  y: 63.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+timestamps:
+  login: 1372623408435
+  logout: 1372623904802
+  lastteleport: 1370630176271
+  kits:
+    tools: 1371900806617
+    firework: 1370629593279
+ipAddress: 86.210.172.151
+logoutlocation:
+  world: world
+  x: -51.69999998807907
+  y: 63.0
+  z: 4.978795449772382
+  yaw: -133.01605
+  pitch: 16.65001
+money: '47.0'
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0
+mail:
+- 'eyesofcreeper: Pour me repondre : /mail send eyesofcreeper MESSAGE'
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'

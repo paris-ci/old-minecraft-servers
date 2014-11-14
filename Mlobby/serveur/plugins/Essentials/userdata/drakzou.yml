@@ -1,0 +1,19 @@
+lastlocation:
+  world: world_the_end
+  x: 19.30000001192093
+  y: 61.0
+  z: 26.69999998807907
+  yaw: -164.85011
+  pitch: 34.349987
+timestamps:
+  login: 1378151411517
+  lastteleport: 1378151448725
+  logout: 1378152270967
+ipAddress: 62.241.107.150
+logoutlocation:
+  world: world_the_end
+  x: 19.30000001192093
+  y: 61.0
+  z: 25.30000001192093
+  yaw: -338.33618
+  pitch: 47.849785

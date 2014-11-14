@@ -1,0 +1,27 @@
+lastlocation:
+  world: world
+  x: 0.5
+  y: 63.0
+  z: 0.5
+  yaw: -89.70232
+  pitch: 0.91199374
+timestamps:
+  login: 1372351426347
+  logout: 1372351887275
+ipAddress: 93.221.227.163
+afk: false
+logoutlocation:
+  world: world
+  x: -22.57526771143951
+  y: 63.0
+  z: 30.39343309320621
+  yaw: -104.82175
+  pitch: 7.642304
+ban:
+  reason: 'Banni : i think you know why goodbye dude'
+  timeout: 0
+money: '114.0'
+mail:
+- 'eyesofcreeper: Pour me repondre : /mail send eyesofcreeper MESSAGE'
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'

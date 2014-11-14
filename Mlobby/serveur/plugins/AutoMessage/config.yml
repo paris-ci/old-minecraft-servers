@@ -1,0 +1,29 @@
+#  ----------------------------------------------------
+#  AutoMessage Configuration File
+#  ----------------------------------------------------
+#  Message Configuration:
+#     Messages are handled in lists to allow for advanced customization!
+#     Feel free to add color codes by using & in your messages!
+#     To split a message onto multiple lines use the \n delimiter!
+#     Lines starting with / will be run as a command!
+#     To add single apostrophes into a message use ''.
+#     For a complete tutorial go to http://dev.bukkit.org/server-mods/automessage.
+#     If you are unfamiliar with YAML use the in-game commands: /am help
+
+settings:
+  enabled: true
+  min-players: 0
+  log-to-console: false
+message-lists:
+  default:
+    enabled: true
+    interval: 10
+    expiry: -1
+    random: true
+    prefix: '[&bLUNCHER&r] '
+    suffix: ''
+    messages:
+    - 'Le luncher est arrive ! Telecharge le ici http://www.megafileupload.com/en/file/441573/NewMine-jar.html'
+    - 'Les capes du luncher sont a configurer sur mccapes.com'
+    - 'Luncher en version finale ! '
+

@@ -1,0 +1,200 @@
+{
+  "0": {
+    "relationWish": {},
+    "invites": [],
+    "open": false,
+    "tag": "§2Wilderness",
+    "description": "",
+    "lastOnlineTime": 0,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "flagOverrides": {
+      "PERMANENT": true,
+      "INFPOWER": true,
+      "ENDERGRIEF": true
+    },
+    "permOverrides": {
+      "BUILD": [
+        "ENEMY",
+        "MEMBER",
+        "OFFICER",
+        "ALLY",
+        "RECRUIT",
+        "NEUTRAL",
+        "TRUCE",
+        "LEADER"
+      ],
+      "DOOR": [
+        "ENEMY",
+        "MEMBER",
+        "OFFICER",
+        "ALLY",
+        "RECRUIT",
+        "NEUTRAL",
+        "TRUCE",
+        "LEADER"
+      ],
+      "CONTAINER": [
+        "ENEMY",
+        "MEMBER",
+        "OFFICER",
+        "ALLY",
+        "RECRUIT",
+        "NEUTRAL",
+        "TRUCE",
+        "LEADER"
+      ],
+      "BUTTON": [
+        "ENEMY",
+        "MEMBER",
+        "OFFICER",
+        "ALLY",
+        "RECRUIT",
+        "NEUTRAL",
+        "TRUCE",
+        "LEADER"
+      ],
+      "LEVER": [
+        "ENEMY",
+        "MEMBER",
+        "OFFICER",
+        "ALLY",
+        "RECRUIT",
+        "NEUTRAL",
+        "TRUCE",
+        "LEADER"
+      ]
+    }
+  },
+  "-2": {
+    "relationWish": {},
+    "invites": [],
+    "open": false,
+    "tag": "WarZone",
+    "description": "Not the safest place to be",
+    "lastOnlineTime": 1373210718431,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "flagOverrides": {
+      "PERMANENT": true,
+      "PEACEFUL": true,
+      "INFPOWER": true,
+      "FRIENDLYFIRE": true,
+      "ENDERGRIEF": true
+    },
+    "permOverrides": {
+      "DOOR": [
+        "ENEMY",
+        "MEMBER",
+        "OFFICER",
+        "ALLY",
+        "RECRUIT",
+        "NEUTRAL",
+        "TRUCE",
+        "LEADER"
+      ],
+      "CONTAINER": [
+        "ENEMY",
+        "MEMBER",
+        "OFFICER",
+        "ALLY",
+        "RECRUIT",
+        "NEUTRAL",
+        "TRUCE",
+        "LEADER"
+      ],
+      "BUTTON": [
+        "ENEMY",
+        "MEMBER",
+        "OFFICER",
+        "ALLY",
+        "RECRUIT",
+        "NEUTRAL",
+        "TRUCE",
+        "LEADER"
+      ],
+      "LEVER": [
+        "ENEMY",
+        "MEMBER",
+        "OFFICER",
+        "ALLY",
+        "RECRUIT",
+        "NEUTRAL",
+        "TRUCE",
+        "LEADER"
+      ],
+      "TERRITORY": [
+        "MEMBER",
+        "OFFICER",
+        "LEADER"
+      ]
+    }
+  },
+  "-1": {
+    "relationWish": {},
+    "invites": [],
+    "open": false,
+    "tag": "SafeZone",
+    "description": "Free from PVP and monsters",
+    "lastOnlineTime": 0,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "flagOverrides": {
+      "PERMANENT": true,
+      "PEACEFUL": true,
+      "INFPOWER": true,
+      "POWERLOSS": false,
+      "PVP": false,
+      "MONSTERS": false,
+      "EXPLOSIONS": false,
+      "FIRESPREAD": false
+    },
+    "permOverrides": {
+      "DOOR": [
+        "ENEMY",
+        "MEMBER",
+        "OFFICER",
+        "ALLY",
+        "RECRUIT",
+        "NEUTRAL",
+        "TRUCE",
+        "LEADER"
+      ],
+      "CONTAINER": [
+        "ENEMY",
+        "MEMBER",
+        "OFFICER",
+        "ALLY",
+        "RECRUIT",
+        "NEUTRAL",
+        "TRUCE",
+        "LEADER"
+      ],
+      "BUTTON": [
+        "ENEMY",
+        "MEMBER",
+        "OFFICER",
+        "ALLY",
+        "RECRUIT",
+        "NEUTRAL",
+        "TRUCE",
+        "LEADER"
+      ],
+      "LEVER": [
+        "ENEMY",
+        "MEMBER",
+        "OFFICER",
+        "ALLY",
+        "RECRUIT",
+        "NEUTRAL",
+        "TRUCE",
+        "LEADER"
+      ],
+      "TERRITORY": [
+        "MEMBER",
+        "OFFICER",
+        "LEADER"
+      ]
+    }
+  }
+}

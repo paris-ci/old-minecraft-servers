@@ -1,0 +1,13 @@
+Version: 0.3.0
+Name: '1'
+Map: desert
+Active: true
+VIP: false
+Global-Chat: false
+Potions:
+- SPEED:2
+- JUMP:2
+MaxPlayers: 11
+MinPlayers: 2
+Sneak: true
+Nombre: 0

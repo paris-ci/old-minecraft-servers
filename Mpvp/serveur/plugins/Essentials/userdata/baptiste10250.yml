@@ -1,0 +1,38 @@
+lastlocation:
+  world: world
+  x: 1696.805605524594
+  y: 105.0
+  z: -2251.222028480815
+  yaw: -284.65308
+  pitch: 26.250004
+timestamps:
+  login: 1371916425546
+  lastteleport: 1371917815695
+  logout: 1371918885045
+ipAddress: 83.192.23.241
+logoutlocation:
+  world: world
+  x: 1556.300000011921
+  y: 75.0
+  z: -2244.4710841158694
+  yaw: -221.8009
+  pitch: 11.549962
+money: '304.0'
+homes:
+  home:
+    world: world
+    x: 1679.6549401343575
+    y: 100.0
+    z: -2264.6473660899987
+    yaw: -17.92749
+    pitch: 13.534108
+afk: false
+ban:
+  reason: 'Banni : insultes$'
+  timeout: 0
+mail:
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'
+- 'eyesofcreeper: Pour me repondre : /mail send eyesofcreeper MESSAGE'
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'

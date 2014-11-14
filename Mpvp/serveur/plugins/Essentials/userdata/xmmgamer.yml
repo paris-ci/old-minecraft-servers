@@ -1,0 +1,20 @@
+lastlocation:
+  world: world_nether
+  x: 1.699999988079071
+  y: 87.0
+  z: 0.30000001192092896
+  yaw: -308.4018
+  pitch: -90.0
+timestamps:
+  login: 1372954539996
+  lastteleport: 1372954632913
+  logout: 1372954651913
+ipAddress: 37.105.219.217
+logoutlocation:
+  world: world
+  x: 9188.74640858947
+  y: 72.0
+  z: 9543.74948236592
+  yaw: -233.7141
+  pitch: 37.86841
+money: '102.0'

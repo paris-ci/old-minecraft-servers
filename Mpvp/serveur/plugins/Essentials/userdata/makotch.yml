@@ -1,0 +1,31 @@
+lastlocation:
+  world: world
+  x: -386.79114552688753
+  y: 72.0
+  z: 17.30000001192093
+  yaw: -272.1051
+  pitch: 24.750015
+timestamps:
+  login: 1374660946863
+  lastteleport: 1374661034274
+  logout: 1374067362068
+ipAddress: 81.66.11.124
+homes:
+  home:
+    world: world
+    x: -342.09397865359944
+    y: 113.0
+    z: 18.792611855009223
+    yaw: -102.75465
+    pitch: 28.385477
+logoutlocation:
+  world: world
+  x: -340.13573930072187
+  y: 113.0
+  z: 18.480952632932137
+  yaw: 102.59491
+  pitch: -1.3145069
+money: '242.0'
+ban:
+  reason: 'Banni : Nameoh !'
+  timeout: 0

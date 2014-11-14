@@ -1,0 +1,29 @@
+lastlocation:
+  world: world
+  x: -1.6999999880790717
+  y: 22.0
+  z: -14.445087382675945
+  yaw: -339.802
+  pitch: 37.180805
+timestamps:
+  login: 1370772420908
+  lastteleport: 1370771972363
+  logout: 1370772547663
+ipAddress: 199.255.210.22
+logoutlocation:
+  world: world
+  x: 27.939499199381284
+  y: 64.0
+  z: 37.68522952265771
+  yaw: -28.224213
+  pitch: 19.95838
+ban:
+  reason: 'Banni : : SoyKabra , 12:09 , insultes envers des admin'
+  timeout: 0
+money: '124.0'
+mail:
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'
+- 'eyesofcreeper: Pour me repondre : /mail send eyesofcreeper MESSAGE'
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'

@@ -1,0 +1,28 @@
+timestamps:
+  login: 1378391648822
+  logout: 1378391660130
+  lastteleport: 1378304367405
+ipAddress: 109.28.233.150
+lastlocation:
+  world: world
+  x: 9209.983126074474
+  y: 94.48169146632061
+  z: 9538.169472500293
+  yaw: -24.032196
+  pitch: 28.465988
+logoutlocation:
+  world: world
+  x: 9212.5
+  y: 92.0
+  z: 9543.5
+  yaw: -24.032196
+  pitch: 28.465988
+afk: false
+homes:
+  futurlobby:
+    world: world
+    x: 9966.233702635815
+    y: 89.0
+    z: 10047.186338378862
+    yaw: -68.146484
+    pitch: 10.300592

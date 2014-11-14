@@ -1,0 +1,35 @@
+################################################
+#             ServerSwitcher GUI               #
+#                                              #
+#                Developed by                  #
+#                  Zandor300                   #
+################################################
+
+# Each number represents the slot in the compass GUI.
+# If the slot is not in use, set Enabled to False!
+# Item is the item to represent the teleport in the Compass GUI.
+# Use IDs for specifying an item:
+# http://www.minecraftwiki.net/wiki/Data_values
+# Pitch: -90 = Sky, +90 = Floor
+# The name and lore, aka description can have colour codes. The colourcode is '&', e.g. '&6' for gold
+# For colour codes please check:
+# http://www.minecraftwiki.net/wiki/Formatting_codes
+# Up to 6 rows are supported.
+# You can specify data values for the item. For example: 35:2
+# You can specify Essentials warps using the Warp option.
+# You can also specify BungeeCord servers using the Bungee option.
+# You can set up slots ingame with /cn setup!
+# Don't forget to add items to the config!
+
+Item: 345
+GUIName: '&4&lServerSwitcher GUI'
+Rows: 1
+1:
+  Enabled: true
+  Item: '51'
+  Name: '&6&lFire Land'
+  Desc: '&eTo the land of &6fire!'
+  Bungee: fireserver
+DisabledWorlds:
+  - example1
+  - example2

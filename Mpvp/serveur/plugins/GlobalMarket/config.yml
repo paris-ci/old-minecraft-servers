@@ -1,0 +1,36 @@
+server:
+  enable: false
+automatic_payments: false
+enable_cut: true
+cut_amount: 0.05
+enable_metrics: false
+max_price: 100000.0
+creation_fee: 0.05
+queue:
+  trade_time: 1
+  mail_time: 1
+  queue_mail_on_buy: true
+  queue_on_cancel: true
+  queue_mail_on_cancel: true
+max_listings_per_player: 0
+expire_time: 0
+price_check:
+  enable: true
+infinite:
+  seller: eyesofcreeper
+  account: eyesofcreeper
+notify_on_update: true
+blacklist:
+  item_name:
+  - Transaction Log
+  - Market History
+  - Bedrock
+  item_id:
+    '0': 0
+  enchant_id: []
+  enchant_lore: []
+  use_with_mail: false
+mailbox:
+  9177,72,9551: true
+stall:
+  9177,72,9547: true

@@ -1,0 +1,23 @@
+lastlocation:
+  world: world
+  x: 9135.050178687254
+  y: 67.0
+  z: 9549.36238337262
+  yaw: 81.58787
+  pitch: -53.42599
+timestamps:
+  login: 1373446851628
+  lastteleport: 1373446960396
+  logout: 1373447009696
+ipAddress: 192.168.44.1
+logoutlocation:
+  world: world
+  x: 9175.09848318802
+  y: 72.0
+  z: 9552.957837691529
+  yaw: -222.39082
+  pitch: 13.219202
+ban:
+  reason: 'Banni : pub'
+  timeout: 0
+money: '4.0'

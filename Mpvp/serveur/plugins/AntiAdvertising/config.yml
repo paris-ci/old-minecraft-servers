@@ -1,0 +1,33 @@
+enabled: true
+network:
+  timeout: 1000
+actions:
+  kick:
+    attempts: 1
+    once: false
+    message: PAS DE PUB !!
+  broadcast:
+    attempts: 1
+    once: false
+    message: '%NAME% vient d''etre kick pour avoir fais de la pub'
+  hide:
+    attempts: 1
+    once: false
+  nofityMods:
+    attempts: 0
+    once: false
+    message: '%NAME% as pub:'
+    format: '%MOTD% (%PLAYERS%/%MAX%)'
+  command:
+    attempts: 2
+    once: false
+    command: ban %NAME% pub
+  log:
+    attempts: 1
+    once: false
+  censor:
+    attempts: 1
+    once: false
+chat:
+  commands: []
+whitelist: []

@@ -1,0 +1,72 @@
+lastlocation:
+  world: world
+  x: 9190.5
+  y: 109.0
+  z: 9543.5
+  yaw: 0.0
+  pitch: 0.0
+timestamps:
+  login: 1374693345420
+  logout: 1374696786153
+  lastteleport: 1374583274221
+  kits:
+    firework: 1373562007543
+ipAddress: 83.194.125.24
+logoutlocation:
+  world: world
+  x: 10244.266624100108
+  y: 69.0
+  z: 11127.412707336
+  yaw: 239.56488
+  pitch: 38.549984
+afk: false
+homes:
+  ee:
+    world: world
+    x: 8611.319431588208
+    y: 27.0
+    z: 9523.757371688358
+    yaw: -152.56491
+    pitch: 32.100002
+  commando:
+    world: world
+    x: 8632.232047935488
+    y: 63.0
+    z: 9608.786311606595
+    yaw: 348.73315
+    pitch: 37.49985
+  planque:
+    world: world
+    x: 9803.699999988079
+    y: 49.0
+    z: 9459.699999988079
+    yaw: -232.229
+    pitch: 39.4499
+  nuc_aire:
+    world: world
+    x: 9691.773889002567
+    y: 65.52936759557846
+    z: 10222.8179757776
+    yaw: -10.484924
+    pitch: 46.49997
+  namadorak:
+    world: world
+    x: -620.0762603729687
+    y: 11.0
+    z: -81.57251602214887
+    yaw: 267.1023
+    pitch: 15.830433
+  segome:
+    world: world
+    x: -518.4231186826096
+    y: 69.0
+    z: 49.44996506874625
+    yaw: -307.54224
+    pitch: -67.350006
+money: '2459.0'
+ban:
+  reason: 'Banni : Le parcours commando c''est un pas de trop dans le give'
+  timeout: 0
+powertools:
+  '19':
+  - thor

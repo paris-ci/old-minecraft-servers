@@ -1,0 +1,73 @@
+groups:
+  eyesofcreeper:
+  - admin
+disabled_commands:
+- ""
+player_limit: -1
+stats: f0da9b98-1491-4296-a193-687eb9123c15
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  - bungeecord.command.find
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+  - bungeecord.command.send
+listeners:
+- fallback_server: lobby
+  max_players: 999
+  host: 0.0.0.0:25565
+  tab_size: 60
+  force_default_server: true
+  tab_list: GLOBAL_PING
+  motd: '&1Serveur lobby'
+  default_server: lobby
+  forced_hosts:
+    pvp.api-d.com: lobby
+timeout: 30000
+connection_throttle: 4000
+servers:
+  pvp:
+    address: localhost:25560
+    restricted: false
+    motd: '&1Serveur pvp de newmine'
+  hg:
+    address: localhost:25566
+    restricted: false
+    motd: '&1Serveur HG de newmine'
+  lobby:
+    address: localhost:25564
+    restricted: false
+    motd: '&1Serveur lobby de newmine'
+  infected:
+    address: localhost:25567
+    restricted: false
+    motd: '&1Serveur infected de newmine'
+  quake:
+    address: localhost:25568
+    restricted: false
+    motd: '&1Serveur quakecraft de newmine'
+  prison:
+    address: localhost:25569
+    restricted: false
+    motd: '&1Serveur prison de newmine'
+  donuts:
+    address: m37.minecraft-illimity.com:27684
+    restricted: false
+    motd: '&1Serveur de donuts'
+  viperious:
+    address: minecraft19.omgserv.com:10519
+    restricted: false
+    motd: '&1Serveur de viperious'
+  azecraft:
+    address: srv26.minecraft-mania.fr:29201
+    restricted: false
+    motd: '&1Serveur de viperious'
+  pamcraft:
+    address: pamcraft.servegame.com
+    restricted: false
+    motd: '&1Serveur de pamcraft'
+online_mode: true

@@ -1,0 +1,29 @@
+lastlocation:
+  world: world
+  x: 9198.0
+  y: 73.0
+  z: 9549.0
+  yaw: 0.0
+  pitch: 0.0
+timestamps:
+  login: 1373906083624
+  logout: 1373906092445
+  lastteleport: 1373282187972
+  kits:
+    vip: 1372963837723
+    start: 1372928294522
+    color: 1372860460252
+    firework: 1372851078922
+    notch: 1373033510274
+ipAddress: 188.7.7.116
+logoutlocation:
+  world: world
+  x: 9169.906848639741
+  y: 68.0
+  z: 9554.300000011921
+  yaw: -192.16528
+  pitch: 28.95
+money: '2351.0'
+afk: false
+godmode: true
+nickname: Erico

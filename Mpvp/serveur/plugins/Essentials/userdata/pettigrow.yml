@@ -1,0 +1,32 @@
+lastlocation:
+  world: world
+  x: -88.47381788106871
+  y: 4.0
+  z: 1112.699999988079
+  yaw: 102.383026
+  pitch: 7.500142
+timestamps:
+  login: 1372346901141
+  lastteleport: 1372346422195
+  logout: 1372347179369
+  mute: 0
+  kits:
+    color: 1372253640281
+ipAddress: 88.162.161.38
+logoutlocation:
+  world: world
+  x: -119.07913635967843
+  y: 4.0
+  z: 1126.1965765982948
+  yaw: -63.065414
+  pitch: -31.20001
+money: '16424.0'
+afk: false
+muted: false
+ban:
+  reason: 'Banni : oui... mais j''en veux pas'
+  timeout: 0
+mail:
+- 'eyesofcreeper: Pour me repondre : /mail send eyesofcreeper MESSAGE'
+- 'eyesofcreeper: Coucou ! Petit sondage, tu aimes le nouveaau spawn ? Es que tout
+  ce passe bien ? eyes'

@@ -1,0 +1,34 @@
+lastlocation:
+  world: world
+  x: 9132.360812221796
+  y: 68.11764019468036
+  z: 9553.395878756284
+  yaw: -299.79822
+  pitch: 20.91743
+timestamps:
+  login: 1377016113692
+  logout: 1377016249135
+  lastteleport: 1376921679058
+  mute: 0
+ipAddress: 90.18.156.182
+logoutlocation:
+  world: world
+  x: 9071.457460362992
+  y: 65.0
+  z: 9563.826084240905
+  yaw: -146.39882
+  pitch: 51.684452
+homes:
+  home:
+    world: world
+    x: 9705.092315513166
+    y: 67.0
+    z: 9363.968331883561
+    yaw: -227.70148
+    pitch: -0.9165983
+afk: false
+money: '4821.0'
+muted: false
+ban:
+  reason: 'Banni : tu dois s avoir pourquoi ?'
+  timeout: 0

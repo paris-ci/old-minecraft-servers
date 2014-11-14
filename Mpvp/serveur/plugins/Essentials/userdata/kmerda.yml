@@ -1,0 +1,27 @@
+lastlocation:
+  world: world
+  x: 9198.5
+  y: 73.0
+  z: 9549.5
+  yaw: -270.3141
+  pitch: 8.9184065
+timestamps:
+  login: 1372779205566
+  kits:
+    start: 1372779409875
+    firework: 1372779393315
+    color: 1372779367516
+    notch: 1372779347967
+  logout: 1372779765863
+ipAddress: 201.46.136.64
+logoutlocation:
+  world: world
+  x: 9198.208156884722
+  y: 73.0
+  z: 9549.248034433522
+  yaw: -270.3141
+  pitch: 8.9184065
+ban:
+  reason: 'Banni : euh'
+  timeout: 0
+money: '117.0'

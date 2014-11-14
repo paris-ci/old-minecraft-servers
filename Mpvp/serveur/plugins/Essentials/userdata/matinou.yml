@@ -1,0 +1,38 @@
+lastlocation:
+  world: world
+  x: 8412.228681602815
+  y: 78.0
+  z: 8761.973264304735
+  yaw: 144.13547
+  pitch: 36.900005
+timestamps:
+  login: 1376849662599
+  logout: 1376849925980
+  lastteleport: 1376849846528
+  kits:
+    vip: 1372784234002
+    color: 1372783821772
+    firework: 1372783831922
+    notch: 1372783732723
+ipAddress: 109.129.55.248
+logoutlocation:
+  world: world
+  x: 9190.94457169455
+  y: 72.0
+  z: 9544.180297104009
+  yaw: -273.1641
+  pitch: 14.618409
+money: '1983.0'
+homes:
+  home:
+    world: world
+    x: 8412.228681602815
+    y: 78.0
+    z: 8761.973264304735
+    yaw: 138.58548
+    pitch: 42.600006
+afk: false
+nickname: matinou
+ban:
+  reason: Banni temporairement du serveur pour 1 minute.
+  timeout: 0

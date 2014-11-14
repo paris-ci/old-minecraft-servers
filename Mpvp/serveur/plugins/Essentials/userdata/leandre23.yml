@@ -1,0 +1,31 @@
+lastlocation:
+  world: world
+  x: 9198.0
+  y: 73.0
+  z: 9549.0
+  yaw: 0.0
+  pitch: 0.0
+timestamps:
+  login: 1374750847327
+  kits:
+    tools: 1372258815646
+    start: 1374683148562
+    firework: 1374417119206
+    color: 1374062834922
+    notch: 1374006255079
+  lastteleport: 1374735478559
+  logout: 1374751256055
+  mute: 0
+ipAddress: 79.87.4.139
+logoutlocation:
+  world: world
+  x: 9200.984155626204
+  y: 72.0
+  z: 9528.517562582054
+  yaw: -125.36307
+  pitch: -15.213047
+money: '4214.0'
+muted: false
+ban:
+  reason: 'Banni : Bon alors degag'
+  timeout: 0

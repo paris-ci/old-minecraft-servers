@@ -1,0 +1,24 @@
+lastlocation:
+  world: world
+  x: -455.4217810864522
+  y: 63.0
+  z: -80.73977314862825
+  yaw: 87.91054
+  pitch: -3.7857373
+timestamps:
+  login: 1374080389714
+  logout: 1374082454009
+  lastteleport: 1374082343009
+ipAddress: 213.55.14.146
+logoutlocation:
+  world: world
+  x: -461.46393059830655
+  y: 102.0
+  z: -67.70420498911307
+  yaw: 112.165276
+  pitch: 82.88528
+money: '208.0'
+ban:
+  reason: 'Banni : les sceau de lave partout c''est non et si tu veut de l''obsi regarde
+    sur le wiki'
+  timeout: 0
