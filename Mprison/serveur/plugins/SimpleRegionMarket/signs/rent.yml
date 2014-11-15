@@ -65,12 +65,10 @@ world:
         Y: 59.0
         Z: -157.0
     price: 100.0
-    hidden: true
+    hidden: false
     renttime: 86400000
-    owner: Gumknuckles
     account: eyesofcreeper
-    expiredate: 1378409919861
-    taken: true
+    taken: false
   casier2:
     signs:
       '0':
@@ -79,12 +77,10 @@ world:
         Y: 59.0
         Z: -157.0
     price: 100.0
-    hidden: true
+    hidden: false
     renttime: 86400000
-    owner: mathieulaurent
     account: eyesofcreeper
-    expiredate: 1379263154056
-    taken: true
+    taken: false
   casier7:
     signs:
       '0':

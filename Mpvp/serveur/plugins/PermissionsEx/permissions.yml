@@ -400,6 +400,9 @@ users:
   Bratmort:
     group:
     - Builder
+  _Arcade_:
+    group:
+    - VIP
 worlds:
   plotworld:
     inheritance:

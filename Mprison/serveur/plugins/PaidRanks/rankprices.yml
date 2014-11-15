@@ -15,10 +15,10 @@ DefaultPaidRanks:
   c:
     Price: 15000
   b:
-    Price: 40000
+    Price: 50000
   a:
-    Price: 75000
-  f:
     Price: 100000
+  f:
+    Price: 200000
   guard_test:
     Price: 1000000

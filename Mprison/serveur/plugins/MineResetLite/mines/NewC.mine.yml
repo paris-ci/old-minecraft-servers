@@ -1,15 +1,24 @@
 mine:
   ==: com.koletar.jj.mineresetlite.Mine
   minZ: -265
-  resetDelay: 0
+  resetDelay: 25
   surface: '20:0'
-  resetClock: 0
+  resetClock: 13
   maxZ: -249
   maxY: 75
   maxX: 82
   minX: 60
   minY: 10
-  resetWarnings: []
+  resetWarnings:
+  - '14'
+  - '10'
+  - '8'
+  - '6'
+  - '5'
+  - '4'
+  - '3'
+  - '2'
+  - '1'
   fillMode: false
   name: NewC
   isSilent: false

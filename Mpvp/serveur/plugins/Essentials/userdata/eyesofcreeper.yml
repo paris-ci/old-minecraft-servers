@@ -1,7 +1,7 @@
 timestamps:
-  login: 1416006794311
+  login: 1416084177771
   logout: 1416006420450
-  lastteleport: 1376435167891
+  lastteleport: 1416084565971
   kits:
     vip: 1373406042742
     tools: 1370695084545
@@ -12,11 +12,11 @@ timestamps:
 ipAddress: 127.0.0.1
 lastlocation:
   world: world
-  x: 9138.141002406928
-  y: 67.0
-  z: 9550.157460795937
-  yaw: 0.0
-  pitch: 0.0
+  x: 9145.353851698423
+  y: 98.66553999538733
+  z: 9566.493629407485
+  yaw: 351.03705
+  pitch: 90.0
 logoutlocation:
   world: world
   x: 9181.26681992359

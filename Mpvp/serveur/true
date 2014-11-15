@@ -10100,3 +10100,83 @@
 2014-11-15 00:12:53 [INFO] [JSONAPI] Port 20060 is not properly forwarded.
 2014-11-15 00:12:53 [INFO] [JSONAPI] Port 20061 is not properly forwarded.
 2014-11-15 00:12:53 [INFO] [JSONAPI] -------------------------------------
+2014-11-15 21:33:03 [INFO] [JSONAPI] Loaded methods.json.
+2014-11-15 21:33:04 [INFO] [JSONAPI] Waiting 2,000 seconds to load methods so that all the other plugins load...
+2014-11-15 21:33:04 [INFO] [JSONAPI] Any requests in this time will not work...
+2014-11-15 21:33:06 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2014-11-15 21:33:06 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2014-11-15 21:33:06 [INFO] [JSONAPI] 375 methods loaded in 8 namespaces.
+2014-11-15 21:33:06 [INFO] [JSONAPI] ------[Connection information]-------
+2014-11-15 21:33:06 [INFO] [JSONAPI] JSON Server listening on 20059
+2014-11-15 21:33:06 [INFO] [JSONAPI] JSON Stream Server listening on 20060
+2014-11-15 21:33:06 [INFO] [JSONAPI] JSON WebSocket Stream Server listening on 20061
+2014-11-15 21:33:06 [INFO] [JSONAPI] Active and listening for requests.
+2014-11-15 21:33:07 [INFO] [JSONAPI] External IP: <html>
+2014-11-15 21:33:07 [INFO] [JSONAPI] Port 20059 is not properly forwarded.
+2014-11-15 21:33:07 [INFO] [JSONAPI] Port 20060 is not properly forwarded.
+2014-11-15 21:33:07 [INFO] [JSONAPI] Port 20061 is not properly forwarded.
+2014-11-15 21:33:07 [INFO] [JSONAPI] -------------------------------------
+2014-11-15 21:34:23 [INFO] [JSONAPI] Loaded methods.json.
+2014-11-15 21:34:23 [INFO] [JSONAPI] Waiting 2,000 seconds to load methods so that all the other plugins load...
+2014-11-15 21:34:23 [INFO] [JSONAPI] Any requests in this time will not work...
+2014-11-15 21:34:25 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2014-11-15 21:34:25 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2014-11-15 21:34:25 [INFO] [JSONAPI] 375 methods loaded in 8 namespaces.
+2014-11-15 21:34:25 [INFO] [JSONAPI] ------[Connection information]-------
+2014-11-15 21:34:25 [INFO] [JSONAPI] JSON Server listening on 20059
+2014-11-15 21:34:25 [INFO] [JSONAPI] JSON Stream Server listening on 20060
+2014-11-15 21:34:25 [INFO] [JSONAPI] JSON WebSocket Stream Server listening on 20061
+2014-11-15 21:34:25 [INFO] [JSONAPI] Active and listening for requests.
+2014-11-15 21:34:26 [INFO] [JSONAPI] External IP: <html>
+2014-11-15 21:34:26 [INFO] [JSONAPI] Port 20059 is not properly forwarded.
+2014-11-15 21:34:26 [INFO] [JSONAPI] Port 20060 is not properly forwarded.
+2014-11-15 21:34:26 [INFO] [JSONAPI] Port 20061 is not properly forwarded.
+2014-11-15 21:34:26 [INFO] [JSONAPI] -------------------------------------
+2014-11-15 21:36:37 [INFO] [JSONAPI] Loaded methods.json.
+2014-11-15 21:36:37 [INFO] [JSONAPI] Waiting 2,000 seconds to load methods so that all the other plugins load...
+2014-11-15 21:36:37 [INFO] [JSONAPI] Any requests in this time will not work...
+2014-11-15 21:36:39 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2014-11-15 21:36:39 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2014-11-15 21:36:39 [INFO] [JSONAPI] 375 methods loaded in 8 namespaces.
+2014-11-15 21:36:39 [INFO] [JSONAPI] ------[Connection information]-------
+2014-11-15 21:36:39 [INFO] [JSONAPI] JSON Server listening on 20059
+2014-11-15 21:36:39 [INFO] [JSONAPI] JSON Stream Server listening on 20060
+2014-11-15 21:36:39 [INFO] [JSONAPI] JSON WebSocket Stream Server listening on 20061
+2014-11-15 21:36:39 [INFO] [JSONAPI] Active and listening for requests.
+2014-11-15 21:36:39 [INFO] [JSONAPI] External IP: <html>
+2014-11-15 21:36:39 [INFO] [JSONAPI] Port 20059 is not properly forwarded.
+2014-11-15 21:36:39 [INFO] [JSONAPI] Port 20060 is not properly forwarded.
+2014-11-15 21:36:39 [INFO] [JSONAPI] Port 20061 is not properly forwarded.
+2014-11-15 21:36:39 [INFO] [JSONAPI] -------------------------------------
+2014-11-15 21:39:28 [INFO] [JSONAPI] Loaded methods.json.
+2014-11-15 21:39:28 [INFO] [JSONAPI] Waiting 2,000 seconds to load methods so that all the other plugins load...
+2014-11-15 21:39:28 [INFO] [JSONAPI] Any requests in this time will not work...
+2014-11-15 21:39:30 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2014-11-15 21:39:30 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2014-11-15 21:39:30 [INFO] [JSONAPI] 375 methods loaded in 8 namespaces.
+2014-11-15 21:39:30 [INFO] [JSONAPI] ------[Connection information]-------
+2014-11-15 21:39:30 [INFO] [JSONAPI] JSON Server listening on 20059
+2014-11-15 21:39:30 [INFO] [JSONAPI] JSON Stream Server listening on 20060
+2014-11-15 21:39:30 [INFO] [JSONAPI] JSON WebSocket Stream Server listening on 20061
+2014-11-15 21:39:30 [INFO] [JSONAPI] Active and listening for requests.
+2014-11-15 21:39:30 [INFO] [JSONAPI] External IP: <html>
+2014-11-15 21:39:30 [INFO] [JSONAPI] Port 20059 is not properly forwarded.
+2014-11-15 21:39:31 [INFO] [JSONAPI] Port 20060 is not properly forwarded.
+2014-11-15 21:39:31 [INFO] [JSONAPI] Port 20061 is not properly forwarded.
+2014-11-15 21:39:31 [INFO] [JSONAPI] -------------------------------------
+2014-11-15 21:41:44 [INFO] [JSONAPI] Loaded methods.json.
+2014-11-15 21:41:44 [INFO] [JSONAPI] Waiting 2,000 seconds to load methods so that all the other plugins load...
+2014-11-15 21:41:44 [INFO] [JSONAPI] Any requests in this time will not work...
+2014-11-15 21:41:46 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2014-11-15 21:41:46 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2014-11-15 21:41:46 [INFO] [JSONAPI] 375 methods loaded in 8 namespaces.
+2014-11-15 21:41:46 [INFO] [JSONAPI] ------[Connection information]-------
+2014-11-15 21:41:46 [INFO] [JSONAPI] JSON Server listening on 20059
+2014-11-15 21:41:46 [INFO] [JSONAPI] JSON Stream Server listening on 20060
+2014-11-15 21:41:46 [INFO] [JSONAPI] JSON WebSocket Stream Server listening on 20061
+2014-11-15 21:41:46 [INFO] [JSONAPI] Active and listening for requests.
+2014-11-15 21:41:46 [INFO] [JSONAPI] External IP: <html>
+2014-11-15 21:41:46 [INFO] [JSONAPI] Port 20059 is not properly forwarded.
+2014-11-15 21:41:46 [INFO] [JSONAPI] Port 20060 is not properly forwarded.
+2014-11-15 21:41:47 [INFO] [JSONAPI] Port 20061 is not properly forwarded.
+2014-11-15 21:41:47 [INFO] [JSONAPI] -------------------------------------

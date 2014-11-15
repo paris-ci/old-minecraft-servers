@@ -12,10 +12,10 @@ npc:
           mdata: 0
       location:
         world: world
-        x: '9127.458922424274'
+        x: '9126.499097013246'
         y: '67.0'
-        z: '9536.088511698277'
-        yaw: '-6296.0068359375'
+        z: '9548.217577732481'
+        yaw: '-360.558349609375'
         pitch: '0.0'
       owner: eyesofcreeper
       sentry:
@@ -77,7 +77,7 @@ npc:
                 pitch: '0.0'
         provider: linear
     name: Garde 1
-    traitnames: owner,waypoints,spawned,type,sentry,location,equipment
+    traitnames: owner,type,waypoints,location,equipment,sentry,spawned
     navigator:
       speed: '1.0'
       pathfindingrange: '25.0'
@@ -116,10 +116,10 @@ npc:
       spawned: true
       location:
         world: world
-        x: '9121.495140831714'
+        x: '9122.477408486022'
         y: '72.0'
-        z: '9572.894650208127'
-        yaw: '19619.83203125'
+        z: '9574.532122631103'
+        yaw: '91.27406311035156'
         pitch: '0.0'
       sentry:
         Spawn:
@@ -190,7 +190,7 @@ npc:
                 pitch: '0.0'
         provider: linear
     name: archer 1
-    traitnames: owner,waypoints,spawned,type,sentry,location,equipment
+    traitnames: owner,type,waypoints,location,equipment,sentry,spawned
     navigator:
       speed: '1.0'
       pathfindingrange: '25.0'
@@ -234,7 +234,7 @@ npc:
         range: '5.0'
         realisticlooking: false
     name: Forgeron
-    traitnames: owner,spawned,type,lookclose,location
+    traitnames: owner,type,lookclose,location,spawned
     navigator:
       speed: '1.0'
       pathfindingrange: '25.0'
@@ -292,7 +292,7 @@ npc:
         range: '5.0'
         realisticlooking: false
     name: Cochon
-    traitnames: age,owner,spawned,type,lookclose,sentry,location
+    traitnames: age,owner,type,location,lookclose,sentry,spawned
     navigator:
       speed: '0.27000001072883606'
       pathfindingrange: '25.0'
@@ -311,10 +311,10 @@ npc:
           mdata: 0
       location:
         world: world
-        x: '9140.5863402009'
+        x: '9141.450642760175'
         y: '67.0'
-        z: '9544.099866444494'
-        yaw: '171.8651123046875'
+        z: '9562.039842878492'
+        yaw: '181.83554077148438'
         pitch: '0.0'
       owner: eyesofcreeper
       waypoints:
@@ -408,7 +408,7 @@ npc:
         Warning: '&c<NPC> says Halt! Come no closer!'
         Greeting: '&a<NPC> says Welcome, <PLAYER>'
     name: garde 2
-    traitnames: owner,waypoints,spawned,type,sentry,equipment,location
+    traitnames: owner,type,waypoints,location,equipment,sentry,spawned
     navigator:
       speed: '1.0'
       pathfindingrange: '25.0'
@@ -427,10 +427,10 @@ npc:
           mdata: 0
       location:
         world: world
-        x: '9125.756158965074'
+        x: '9134.273178308229'
         y: '67.0'
-        z: '9549.948239018042'
-        yaw: '3784.936767578125'
+        z: '9544.20925489563'
+        yaw: '168.49203491210938'
         pitch: '0.0'
       sentry:
         Spawn:
@@ -500,7 +500,7 @@ npc:
                 pitch: '0.0'
         provider: linear
     name: eyesofcreeper
-    traitnames: owner,waypoints,spawned,type,sentry,equipment,location
+    traitnames: owner,type,waypoints,location,equipment,sentry,spawned
     navigator:
       speed: '1.0'
       pathfindingrange: '25.0'
@@ -519,10 +519,10 @@ npc:
           mdata: 44
       location:
         world: world
-        x: '9127.130558874811'
-        y: '67.0'
-        z: '9550.81045340066'
-        yaw: '-24141.701171875'
+        x: '9128.80219209032'
+        y: '67.5'
+        z: '9550.731087989383'
+        yaw: '-468.0733337402344'
         pitch: '0.0'
       sentry:
         Spawn:
@@ -576,7 +576,7 @@ npc:
         provider: linear
       owner: eyesofcreeper
     name: alchimiste
-    traitnames: owner,waypoints,spawned,type,sentry,equipment,location
+    traitnames: owner,type,waypoints,location,equipment,sentry,spawned
     navigator:
       speed: '1.0'
       pathfindingrange: '25.0'
@@ -595,10 +595,10 @@ npc:
           mdata: 0
       location:
         world: world
-        x: '9122.915521688483'
+        x: '9123.245154016262'
         y: '72.0'
-        z: '9574.502594980493'
-        yaw: '19887.548828125'
+        z: '9572.712479161448'
+        yaw: '339.7413330078125'
         pitch: '0.0'
       sentry:
         Spawn:
@@ -668,7 +668,7 @@ npc:
         provider: linear
       owner: eyesofcreeper
     name: archer 2
-    traitnames: owner,waypoints,spawned,type,sentry,location,equipment
+    traitnames: owner,type,waypoints,location,equipment,sentry,spawned
     navigator:
       speed: '1.0'
       pathfindingrange: '25.0'
@@ -772,7 +772,7 @@ npc:
                 pitch: '0.0'
         provider: linear
     name: canon
-    traitnames: owner,waypoints,spawned,type,sentry,equipment,location
+    traitnames: owner,type,waypoints,location,equipment,sentry,spawned
     navigator:
       speed: '1.0'
       pathfindingrange: '25.0'
@@ -833,7 +833,7 @@ npc:
         yaw: '176.61636352539062'
         pitch: '0.0'
       spawned: true
-    traitnames: owner,spawned,type,sentry,equipment,location
+    traitnames: owner,type,location,equipment,sentry,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: 100

@@ -1,1 +1,11 @@
-{}
+{
+  "eyesofcreeper": {
+    "factionId": "0",
+    "role": "MEMBER",
+    "title": "",
+    "power": 7.1324966666666665,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1416084920456,
+    "lastLoginTime": 1416084177657
+  }
+}

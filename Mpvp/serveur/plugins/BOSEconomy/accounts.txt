@@ -1,6 +1,6 @@
 eyesofcreeper {
 	type player
-	money 126335.0
+	money 126359.0
 }
 quasibatable {
 	type player
@@ -24437,4 +24437,16 @@ kevin157 {
 _Turrok_ {
 	type player
 	money 102.0
+}
+Stoein {
+	type player
+	money 102.0
+}
+_Arcade_ {
+	type player
+	money 124.0
+}
+_Arcae_ {
+	type player
+	money 100.0
 }
