@@ -1,21 +1,21 @@
 logoutlocation:
   world: world
-  x: 66.26577844115732
-  y: 69.0
-  z: -277.7808583594569
-  yaw: 323.81195
-  pitch: 11.376001
+  x: 71.5
+  y: 76.0
+  z: -315.5
+  yaw: -87.4724
+  pitch: 24.375587
 timestamps:
-  logout: 1416096107531
-  login: 1416096250237
+  logout: 1416133788523
+  login: 1416133718226
   kits:
     guard: 1416094524993
   lastteleport: 1416095574917
-ipAddress: 127.0.0.1
+ipAddress: 94.224.211.130
 lastlocation:
   world: world
-  x: 62.69999998807906
-  y: 37.200000047683716
-  z: -262.30000001192093
-  yaw: 232.02017
-  pitch: -46.37757
+  x: 51.5
+  y: 96.0
+  z: -313.5
+  yaw: 0.0
+  pitch: 0.0
