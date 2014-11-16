@@ -13,7 +13,8 @@ regions:
     __global__:
         type: global
         priority: 0
-        flags: {pvp: deny, game-mode: SURVIVAL, tnt: deny, build: deny}
+        flags: {lava-fire: deny, lava-flow: deny, pvp: deny, game-mode: SURVIVAL,
+            tnt: deny, build: deny}
         owners: {}
         members: {}
     casier1:

@@ -3,7 +3,7 @@ mine:
   minZ: -267
   resetDelay: 5
   surface: ''
-  resetClock: 1
+  resetClock: 4
   maxZ: -259
   maxY: 70
   maxX: 114

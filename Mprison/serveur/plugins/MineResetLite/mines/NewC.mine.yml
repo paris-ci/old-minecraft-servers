@@ -3,7 +3,7 @@ mine:
   minZ: -265
   resetDelay: 25
   surface: '20:0'
-  resetClock: 13
+  resetClock: 1
   maxZ: -249
   maxY: 75
   maxX: 82
@@ -26,6 +26,7 @@ mine:
     '1:0': 0.65
     '15:0': 0.1
     '14:0': 0.1
-    '73:0': 0.05
+    '73:0': 0.04
+    '11:0': 0.01
     '16:0': 0.1
   world: world

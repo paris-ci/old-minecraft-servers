@@ -7,8 +7,8 @@ world:
         Y: 59.0
         Z: -165.0
     price: 100.0
-    renttime: 86400000
     hidden: false
+    renttime: 86400000
     account: eyesofcreeper
     taken: false
   casier14:
@@ -30,8 +30,8 @@ world:
         Y: 59.0
         Z: -159.0
     price: 100.0
-    renttime: 86400000
     hidden: false
+    renttime: 86400000
     account: eyesofcreeper
     taken: false
   casier15:
@@ -53,8 +53,8 @@ world:
         Y: 59.0
         Z: -159.0
     price: 100.0
-    hidden: false
     renttime: 86400000
+    hidden: false
     account: eyesofcreeper
     taken: false
   casier1:
@@ -65,8 +65,8 @@ world:
         Y: 59.0
         Z: -157.0
     price: 100.0
-    hidden: false
     renttime: 86400000
+    hidden: false
     account: eyesofcreeper
     taken: false
   casier2:
@@ -77,8 +77,8 @@ world:
         Y: 59.0
         Z: -157.0
     price: 100.0
-    hidden: false
     renttime: 86400000
+    hidden: false
     account: eyesofcreeper
     taken: false
   casier7:
@@ -122,7 +122,18 @@ world:
         Y: 59.0
         Z: -167.0
     price: 100.0
+    renttime: 86400000
     hidden: false
+    account: eyesofcreeper
+    taken: false
+  casier12:
+    signs:
+      '0':
+        world: world
+        X: 59.0
+        Y: 59.0
+        Z: -167.0
+    price: 100.0
     renttime: 86400000
     account: eyesofcreeper
     taken: false
@@ -137,13 +148,13 @@ world:
     renttime: 86400000
     account: eyesofcreeper
     taken: false
-  casier12:
+  casier6:
     signs:
       '0':
         world: world
         X: 59.0
         Y: 59.0
-        Z: -167.0
+        Z: -161.0
     price: 100.0
     renttime: 86400000
     account: eyesofcreeper
@@ -156,18 +167,7 @@ world:
         Y: 59.0
         Z: -169.0
     price: 100.0
+    renttime: 86400000
     hidden: false
-    renttime: 86400000
-    account: eyesofcreeper
-    taken: false
-  casier6:
-    signs:
-      '0':
-        world: world
-        X: 59.0
-        Y: 59.0
-        Z: -161.0
-    price: 100.0
-    renttime: 86400000
     account: eyesofcreeper
     taken: false

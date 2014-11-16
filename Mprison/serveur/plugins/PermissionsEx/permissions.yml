@@ -1,7 +1,5 @@
 groups:
   D:
-    default: true
-    prefix: '&0(&8D&7-Prisonnier&0)&7 '
     permissions:
     - -bukkit.command.help
     - essentials.balance
@@ -20,45 +18,53 @@ groups:
     - -modifyworld.items.pickup.6:*
     - treeassist.autoremove
     - modifyworld.*
+    options:
+      prefix: '&0(&8D&7-Prisonnier&0)&7 '
+      default: true
   C:
-    prefix: '&0(&8C&7-Prisonnier&0)&7 '
     inheritance:
     - D
     permissions:
     - modifyworld.*
+    options:
+      prefix: '&0(&8C&7-Prisonnier&0)&7 '
   B:
-    prefix: '&0(&8B&7-Prisonnier&0)&7 '
     inheritance:
     - C
     permissions:
     - modifyworld.*
+    options:
+      prefix: '&0(&8B&7-Prisonnier&0)&7 '
   A:
-    prefix: '&0(&8A&7-Prisonnier&0)&7 '
     inheritance:
     - B
     permissions:
     - modifyworld.*
+    options:
+      prefix: '&0(&8A&7-Prisonnier&0)&7 '
   F:
-    prefix: '&0(&aF&0)&7 '
     inheritance:
     - A
     permissions:
     - modifyworld.*
+    options:
+      prefix: '&0(&aF&0)&7 '
   Moderator:
-    prefix: '&0(&aMod&0)&7 '
     inheritance:
     - F
     permissions:
     - modifyworld.*
+    options:
+      prefix: '&0(&aMod&0)&7 '
   Guard_test:
-    prefix: '&0(&aGarde En Test&0)&7 '
     inheritance:
     - F
     permissions:
     - modifyworld.*
     - essentials.spawn
+    options:
+      prefix: '&0(&aGarde En Test&0)&7 '
   Guard:
-    prefix: '&0(&aGarde&0)&7 '
     inheritance:
     - F
     permissions:
@@ -73,32 +79,44 @@ groups:
     - essentials.signs.use
     - essentials.sign.use
     - essentials.togglejail
+    options:
+      prefix: '&0(&aGarde&0)&7 '
   ChiefGuard:
-    prefix: '&0(&aGarde En Chef&0)&7 '
     inheritance:
     - Guard
     permissions:
     - pex.*
     - permissions.*
+    options:
+      prefix: '&0(&aGarde En Chef&0)&7 '
   Admin:
-    prefix: '&0(&aAdmin&0)&7 '
     inheritance:
     - Moderator
     permissions:
     - '*'
+    options:
+      prefix: '&0(&aAdmin&0)&7 '
   Creator:
-    prefix: '&0(&4C&dreateur&0)&4 '
     inheritance:
     - Admin
     permissions:
     - '*'
+    options:
+      prefix: '&0(&4C&dreateur&0)&4 '
 users:
-  eyesofcreeper:
+  7f1d5362-7ea9-363c-b6d6-2fbc660e3942:
+    group:
+    - C
+    options:
+      name: _Arcade_
+  4bd99af4-1796-3fa4-9fb8-aceb056248f0:
     group:
     - Creator
-  Stoein:
+    options:
+      name: eyesofcreeper
+  17ae1438-fea3-3b1d-9b7c-6e6ae162889f:
     group:
     - C
-  _Arcade_:
-    group:
-    - C
+    options:
+      name: Stoein
+schema-version: 1

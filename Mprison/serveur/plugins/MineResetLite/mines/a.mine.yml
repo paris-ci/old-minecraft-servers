@@ -3,7 +3,7 @@ mine:
   minZ: -114
   resetDelay: 240
   surface: '20:0'
-  resetClock: 174
+  resetClock: 112
   maxZ: -97
   maxY: 50
   maxX: 12
@@ -24,8 +24,8 @@ mine:
   name: a
   isSilent: false
   composition:
-    '1:0': 0.29
     '153:0': 0.03
+    '1:0': 0.29
     '7:0': 0.1
     '15:0': 0.08
     '20:0': 0.1
